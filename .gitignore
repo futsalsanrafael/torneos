@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# amplify
+node_modules
+.amplify
+amplify_outputs*
+amplifyconfiguration*
