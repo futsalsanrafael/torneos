@@ -1,0 +1,373 @@
+[
+    {
+        "Table": "Table 1",
+        "Data": [
+            {
+                "Fecha": "27/03/2025 22:30",
+                "Local": "Locos X El Futsal C",
+                "GL": "7",
+                "Visitante": "Los Andes B",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "CIC (SOSNEADO)",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Enzo"
+            },
+            {
+                "Fecha": "26/03/2025 21:30",
+                "Local": "Cda C",
+                "GL": "4",
+                "Visitante": "Los Legendarios A",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "DEPORTIVO",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
+            },
+            {
+                "Fecha": "26/03/2025 22:45",
+                "Local": "Parque Norte C",
+                "GL": "2",
+                "Visitante": "Tenis D",
+                "GV": "7",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "DEPORTIVO",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
+            },
+            {
+                "Fecha": "25/03/2025 23:30",
+                "Local": "Utn B",
+                "GL": "7",
+                "Visitante": "Cuadro Nacional B",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "DEPORTIVO",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
+            }
+        ]
+    },
+    {
+        "Table": "Table 2",
+        "Data": [
+            {
+                "Fecha": "04/04/2025 23:30",
+                "Local": "Tenis D",
+                "GL": "3",
+                "Visitante": "Los Andes B",
+                "GV": "0",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Enzo"
+            },
+            {
+                "Fecha": "02/04/2025 21:30",
+                "Local": "Cda C",
+                "GL": "3",
+                "Visitante": "Cuadro Nacional B",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "CDA",
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Matias"
+            },
+            {
+                "Fecha": "02/04/2025 22:45",
+                "Local": "Parque Norte C",
+                "GL": "2",
+                "Visitante": "Los Legendarios A",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "CDA",
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Matias"
+            },
+            {
+                "Fecha": "04/04/2025 22:15",
+                "Local": "Utn B",
+                "GL": "3",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "5",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Franco"
+            }
+        ]
+    },
+    {
+        "Table": "Table 3",
+        "Data": [
+            {
+                "Fecha": "11/04/2025 21:00",
+                "Local": "Tenis D",
+                "GL": "",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "11/04/2025 22:15",
+                "Local": "Los Legendarios A",
+                "GL": "",
+                "Visitante": "Los Andes B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "18/07/2025 21:00",
+                "Local": "Parque Norte C",
+                "GL": "",
+                "Visitante": "Cuadro Nacional B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "11/04/2025 23:30",
+                "Local": "Utn B",
+                "GL": "",
+                "Visitante": "Cda C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 4",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Los Legendarios A",
+                "GL": "",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional B",
+                "GL": "",
+                "Visitante": "Los Andes B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte C",
+                "GL": "",
+                "Visitante": "Cda C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn B",
+                "GL": "",
+                "Visitante": "Tenis D",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 5",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Los Legendarios A",
+                "GL": "",
+                "Visitante": "Tenis D",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional B",
+                "GL": "",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cda C",
+                "GL": "",
+                "Visitante": "Los Andes B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn B",
+                "GL": "",
+                "Visitante": "Parque Norte C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 6",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional B",
+                "GL": "",
+                "Visitante": "Tenis D",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cda C",
+                "GL": "",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte C",
+                "GL": "",
+                "Visitante": "Los Andes B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn B",
+                "GL": "",
+                "Visitante": "Los Legendarios A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 7",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional B",
+                "GL": "",
+                "Visitante": "Los Legendarios A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cda C",
+                "GL": "",
+                "Visitante": "Tenis D",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte C",
+                "GL": "",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn B",
+                "GL": "",
+                "Visitante": "Los Andes B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 1",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    }
+]

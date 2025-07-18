@@ -1,0 +1,744 @@
+[
+    {
+        "Table": "Table 1",
+        "Data": [
+            {
+                "Fecha": "22/03/2025 16:45",
+                "Local": "Amaral",
+                "GL": "3",
+                "Visitante": "Huracan",
+                "GV": "0",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Sportivo Pedal Club",
+                "Arbitro 1": "Federico",
+                "Arbitro 2": "Enzo"
+            },
+            {
+                "Fecha": "22/03/2025 19:15",
+                "Local": "Parque Norte",
+                "GL": "2",
+                "Visitante": "Cda A",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Sportivo Pedal Club",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Federico"
+            },
+            {
+                "Fecha": "22/03/2025 18:00",
+                "Local": "Tenis A",
+                "GL": "8",
+                "Visitante": "Banco Mza",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Sportivo Pedal Club",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Federico"
+            },
+            {
+                "Fecha": "22/03/2025 15:30",
+                "Local": "Tenis B",
+                "GL": "1",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Sportivo Pedal Club",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Federico"
+            }
+        ]
+    },
+    {
+        "Table": "Table 2",
+        "Data": [
+            {
+                "Fecha": "",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "San Rafael Tenis Club",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "29/03/2025 17:45",
+                "Local": "Parque Norte",
+                "GL": "1",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "San Rafael Tenis Club",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Fernando"
+            },
+            {
+                "Fecha": "29/03/2025 19:00",
+                "Local": "Tenis A",
+                "GL": "2",
+                "Visitante": "Cda A",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "San Rafael Tenis Club",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Fernando"
+            },
+            {
+                "Fecha": "29/03/2025 16:30",
+                "Local": "Tenis B",
+                "GL": "1",
+                "Visitante": "Amaral",
+                "GV": "0",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "San Rafael Tenis Club",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Fernando"
+            }
+        ]
+    },
+    {
+        "Table": "Table 3",
+        "Data": [
+            {
+                "Fecha": "05/04/2025 14:00",
+                "Local": "Banco Mza",
+                "GL": "2",
+                "Visitante": "Amaral",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Deportivo Argentino",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
+            },
+            {
+                "Fecha": "05/04/2025 19:00",
+                "Local": "Cda A",
+                "GL": "18",
+                "Visitante": "Huracan",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Deportivo Argentino",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "05/04/2025 12:45",
+                "Local": "Tenis A",
+                "GL": "2",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Deportivo Argentino",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "05/04/2025 15:15",
+                "Local": "Tenis B",
+                "GL": "2",
+                "Visitante": "Parque Norte",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Deportivo Argentino",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
+            }
+        ]
+    },
+    {
+        "Table": "Table 4",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cda A",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis A",
+                "GL": "",
+                "Visitante": "Parque Norte",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis B",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 5",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cda A",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Parque Norte",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis B",
+                "GL": "",
+                "Visitante": "Tenis A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 6",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Parque Norte",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis A",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis B",
+                "GL": "",
+                "Visitante": "Cda A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 7",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "Cda A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Parque Norte",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis A",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis B",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 8",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Huracan",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cda A",
+                "GL": "",
+                "Visitante": "Parque Norte",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Tenis A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "Tenis B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 9",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Huracan",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "Parque Norte",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cda A",
+                "GL": "",
+                "Visitante": "Tenis A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Amaral",
+                "GL": "",
+                "Visitante": "Tenis B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 10",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Amaral",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Huracan",
+                "GL": "",
+                "Visitante": "Cda A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "Tenis A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Parque Norte",
+                "GL": "",
+                "Visitante": "Tenis B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 11",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Amaral",
+                "GL": "",
+                "Visitante": "Cda A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Huracan",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Parque Norte",
+                "GL": "",
+                "Visitante": "Tenis A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Tenis B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 12",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Cda A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Amaral",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Huracan",
+                "GL": "",
+                "Visitante": "Parque Norte",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis A",
+                "GL": "",
+                "Visitante": "Tenis B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 13",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Amaral",
+                "GL": "",
+                "Visitante": "Parque Norte",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Huracan",
+                "GL": "",
+                "Visitante": "Tenis A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cda A",
+                "GL": "",
+                "Visitante": "Tenis B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 14",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cda A",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Parque Norte",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Amaral",
+                "GL": "",
+                "Visitante": "Tenis A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Huracan",
+                "GL": "",
+                "Visitante": "Tenis B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    }
+]

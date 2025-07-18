@@ -1,0 +1,717 @@
+[
+    {
+        "Table": "Table 1",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:45",
+                "Local": "Amaral",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "SUSPENDIDO",
+                "Zona": "FEMENINO",
+                "Cancha": "xxx",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 21:15",
+                "Local": "Tenis",
+                "GL": "",
+                "Visitante": "Parque Norte",
+                "GV": "",
+                "OBS": "SUSPENDIDO",
+                "Zona": "FEMENINO",
+                "Cancha": "xxx",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "25/03/2025 22:15",
+                "Local": "Utn",
+                "GL": "2",
+                "Visitante": "Locos X El Futsal",
+                "GV": "0",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "DEPORTIVO",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
+            },
+            {
+                "Fecha": "25/03/2025 21:00",
+                "Local": "Cuadro Nacional",
+                "GL": "0",
+                "Visitante": "Cda",
+                "GV": "9",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "DEPORTIVO",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
+            },
+            {
+                "Fecha": "26/03/2025 21:15",
+                "Local": "Sosneado Futsal Club",
+                "GL": "0",
+                "Visitante": "Banco Mza",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "CIC (SOSNEADO)",
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Franco"
+            }
+        ]
+    },
+    {
+        "Table": "Table 2",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "03/04/2025 21:30",
+                "Local": "Tenis",
+                "GL": "0",
+                "Visitante": "Pedal",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "TENIS",
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Marcos"
+            },
+            {
+                "Fecha": "04/04/2025 21:00",
+                "Local": "Utn",
+                "GL": "2",
+                "Visitante": "Parque Norte",
+                "GV": "7",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Enzo"
+            },
+            {
+                "Fecha": "03/04/2025 21:00",
+                "Local": "Cuadro Nacional",
+                "GL": "0",
+                "Visitante": "Locos X El Futsal",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "PEDAL",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Franco"
+            },
+            {
+                "Fecha": "01/04/2025 22:45",
+                "Local": "Sosneado Futsal Club",
+                "GL": "2",
+                "Visitante": "Cda",
+                "GV": "8",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "CDA",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Franco"
+            }
+        ]
+    },
+    {
+        "Table": "Table 3",
+        "Data": [
+            {
+                "Fecha": "10/04/2025 21:15",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cda",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/04/2025 21:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "PEDAL",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/04/2025 21:30",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Parque Norte",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "PESCADORES",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/04/2025 22:15",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Locos X El Futsal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "PEDAL",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 4",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cda",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Locos X El Futsal",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Tenis",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Parque Norte",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 5",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cda",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Locos X El Futsal",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Tenis",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 6",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Locos X El Futsal",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Utn",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Tenis",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 7",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Locos X El Futsal",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Tenis",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Utn",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 8",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Tenis",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Cuadro Nacional",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 9",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte",
+                "GL": "",
+                "Visitante": "Locos X El Futsal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Tenis",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 10",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Locos X El Futsal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Tenis",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Huracan",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 11",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Parque Norte",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Tenis",
+                "GL": "",
+                "Visitante": "Locos X El Futsal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "FEMENINO",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    }
+]

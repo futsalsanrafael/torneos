@@ -1,0 +1,122 @@
+[
+    {
+    "equipo": "Locos X El Futsal",
+    "logo": "/logos/logo_locos_x_el_futsal.png",
+    "puntos": 5,
+    "pj": 3,
+    "pg": 2,
+    "pe": 1,
+    "pp": 0,
+    "gf": 20,
+    "gc": 8,
+    "dg": 12
+  },
+  {
+    "equipo": "Tenis A",
+    "logo": "/logos/logo_tenis.png",
+    "puntos": 5,
+    "pj": 3,
+    "pg": 2,
+    "pe": 1,
+    "pp": 0,
+    "gf": 16,
+    "gc": 5,
+    "dg": 11
+  },
+  {
+    "equipo": "Bachillerato",
+    "logo": "/logos/logo_bachillerato.png",
+    "puntos": 4,
+    "pj": 3,
+    "pg": 1,
+    "pe": 2,
+    "pp": 0,
+    "gf": 17,
+    "gc": 8,
+    "dg": 9
+  },
+  {
+    "equipo": "Amaral",
+    "logo": "/logos/logo_amaral.png",
+    "puntos": 4,
+    "pj": 3,
+    "pg": 1,
+    "pe": 2,
+    "pp": 0,
+    "gf": 11,
+    "gc": 4,
+    "dg": 7
+  },
+  {
+    "equipo": "Banco Mza",
+    "logo": "/logos/logo_banco_mza.png",
+    "puntos": 4,
+    "pj": 2,
+    "pg": 1,
+    "pe": 2,
+    "pp": 0,
+    "gf": 11,
+    "gc": 6,
+    "dg": 5
+  },
+  {
+    "equipo": "Cuadro Nacional",
+    "logo": "/logos/logo_cuadro_nacional.png",
+    "puntos": 4,
+    "pj": 3,
+    "pg": 2,
+    "pe": 0,
+    "pp": 1,
+    "gf": 17,
+    "gc": 18,
+    "dg": -1
+  },
+  {
+    "equipo": "Utn",
+    "logo": "/logos/logo_utn.png",
+    "puntos": 2,
+    "pj": 3,
+    "pg": 1,
+    "pe": 0,
+    "pp": 2,
+    "gf": 12,
+    "gc": 15,
+    "dg": -3
+  },
+  {
+    "equipo": "Tenis B",
+    "logo": "/logos/logo_tenis.png",
+    "puntos": 2,
+    "pj": 3,
+    "pg": 1,
+    "pe": 0,
+    "pp": 2,
+    "gf": 10,
+    "gc": 21,
+    "dg": -11
+  },
+  {
+    "equipo": "Pedal",
+    "logo": "/logos/logo_pedal.png",
+    "puntos": 0,
+    "pj": 3,
+    "pg": 0,
+    "pe": 0,
+    "pp": 3,
+    "gf": 8,
+    "gc": 20,
+    "dg": -12
+  },
+  {
+    "equipo": "Cda",
+    "logo": "/logos/logo_cda.png",
+    "puntos": 0,
+    "pj": 3,
+    "pg": 0,
+    "pe": 0,
+    "pp": 3,
+    "gf": 5,
+    "gc": 22,
+    "dg": -17
+  }
+]

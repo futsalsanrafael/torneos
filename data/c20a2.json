@@ -1,0 +1,849 @@
+[
+    {
+        "Table": "Table 1",
+        "Data": [
+            {
+                "Fecha": "22/03/2025 11:15",
+                "Local": "Cda B",
+                "GL": "0",
+                "Visitante": "Bachillerato",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Pescadores",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Camila"
+            },
+            {
+                "Fecha": "22/03/2025 12:30",
+                "Local": "Los Gladiadores",
+                "GL": "0",
+                "Visitante": "Pedal",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Pescadores",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "15/03/2025 10.00",
+                "Local": "LOS LEGENDARIOS",
+                "GL": "3",
+                "Visitante": "Lomoro",
+                "GV": "0",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Pescadores",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "22/03/2025 13:45",
+                "Local": "Sosneado Futsal Club",
+                "GL": "7",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Pescadores",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
+            },
+            {
+                "Fecha": "22/03/2025 15:00",
+                "Local": "Utn",
+                "GL": "5",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Pescadores",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
+            },
+            {
+                "Fecha": "",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 2",
+        "Data": [
+            {
+                "Fecha": "29/03/2025 19:30",
+                "Local": "Locos X El Futsal B",
+                "GL": "1",
+                "Visitante": "Bachillerato",
+                "GV": "5",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "CIC Centro Integrador Counitario (Sosneado)",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "29/03/2025 18:15",
+                "Local": "Los Gladiadores",
+                "GL": "0",
+                "Visitante": "Cuadro Nacional",
+                "GV": "9",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "CIC Centro Integrador Counitario (Sosneado)",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Matias"
+            },
+            {
+                "Fecha": "29/03/2025 17:00",
+                "Local": "LOS LEGENDARIOS",
+                "GL": "0",
+                "Visitante": "Pedal",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "CIC Centro Integrador Counitario (Sosneado)",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "29/03/2025 20:45",
+                "Local": "Sosneado Futsal Club",
+                "GL": "3",
+                "Visitante": "Lomoro",
+                "GV": "0",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "CIC Centro Integrador Counitario (Sosneado)",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "29/03/2025 15:15",
+                "Local": "Utn",
+                "GL": "7",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "San Rafael Tenis Club",
+                "Arbitro 1": "Luciano",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Cda B",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 3",
+        "Data": [
+            {
+                "Fecha": "05/04/2025 10:15",
+                "Local": "Locos X El Futsal B",
+                "GL": "8",
+                "Visitante": "Cda B",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Deportivo Argentino",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "05/04/2025 09:00",
+                "Local": "Locos X El Futsal C",
+                "GL": "1",
+                "Visitante": "Bachillerato",
+                "GV": "7",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "Deportivo Argentino",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "05/04/2025 16:30",
+                "Local": "LOS LEGENDARIOS",
+                "GL": "2",
+                "Visitante": "Cuadro Nacional",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "05/04/2025 15:15",
+                "Local": "Sosneado Futsal Club",
+                "GL": "5",
+                "Visitante": "Pedal",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Fernando"
+            },
+            {
+                "Fecha": "05/04/2025 19:00",
+                "Local": "Utn",
+                "GL": "3",
+                "Visitante": "Lomoro",
+                "GV": "0",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Los Gladiadores",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 4",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Locos X El Futsal C",
+                "GL": "",
+                "Visitante": "Cda B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Lomoro",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "LOS LEGENDARIOS",
+                "GL": "",
+                "Visitante": "Los Gladiadores",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Cuadro Nacional",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Locos X El Futsal B",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 5",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Locos X El Futsal C",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Lomoro",
+                "GL": "",
+                "Visitante": "Cda B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Los Gladiadores",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Cuadro Nacional",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "LOS LEGENDARIOS",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 6",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Lomoro",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Cda B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "LOS LEGENDARIOS",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Los Gladiadores",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Locos X El Futsal C",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 7",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Lomoro",
+                "GL": "",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Cda B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Los Gladiadores",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "LOS LEGENDARIOS",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 8",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Los Gladiadores",
+                "GL": "",
+                "Visitante": "Cda B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "LOS LEGENDARIOS",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Sosneado Futsal Club",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Lomoro",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 9",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Lomoro",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Los Gladiadores",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "LOS LEGENDARIOS",
+                "GL": "",
+                "Visitante": "Cda B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 10",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Lomoro",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Los Gladiadores",
+                "GL": "",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "LOS LEGENDARIOS",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Cda B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 11",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Los Gladiadores",
+                "GL": "",
+                "Visitante": "Lomoro",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "LOS LEGENDARIOS",
+                "GL": "",
+                "Visitante": "Locos X El Futsal C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Cda B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C20",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    }
+]

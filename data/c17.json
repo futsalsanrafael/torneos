@@ -1,0 +1,604 @@
+[
+    {
+        "Table": "Table 1",
+        "Data": [
+            {
+                "Fecha": "22/03/2025 11:15",
+                "Local": "Banco Mza",
+                "GL": "1",
+                "Visitante": "Amaral",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "CIC Centro Integrador Counitario (Sosneado)",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "COBALAN"
+            },
+            {
+                "Fecha": "22/03/2025 10:00",
+                "Local": "Tenis B",
+                "GL": "5",
+                "Visitante": "Pedal",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "CIC Centro Integrador Counitario (Sosneado)",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "COBALAN"
+            },
+            {
+                "Fecha": "22/03/2025 15:00",
+                "Local": "Utn",
+                "GL": "2",
+                "Visitante": "Locos X El Futsal",
+                "GV": "6",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "CIC Centro Integrador Counitario (Sosneado)",
+                "Arbitro 1": "Luciano",
+                "Arbitro 2": "Fernando"
+            },
+            {
+                "Fecha": "22/03/2025 13:45",
+                "Local": "Cuadro Nacional",
+                "GL": "8",
+                "Visitante": "Cda",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "CIC Centro Integrador Counitario (Sosneado)",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Luciano"
+            },
+            {
+                "Fecha": "22/03/2025 12:30",
+                "Local": "Bachillerato",
+                "GL": "2",
+                "Visitante": "Tenis A",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "CIC Centro Integrador Counitario (Sosneado)",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "COBALAN"
+            }
+        ]
+    },
+    {
+        "Table": "Table 2",
+        "Data": [
+            {
+                "Fecha": "29/03/2025 11:30",
+                "Local": "Cda",
+                "GL": "0",
+                "Visitante": "Amaral",
+                "GV": "7",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "San Rafael Tenis Club",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "29/03/2025 12:45",
+                "Local": "Tenis B",
+                "GL": "2",
+                "Visitante": "Tenis A",
+                "GV": "8",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "San Rafael Tenis Club",
+                "Arbitro 1": "Luciano",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "29/03/2025 9:00",
+                "Local": "Utn",
+                "GL": "9",
+                "Visitante": "Pedal",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "San Rafael Tenis Club",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "29/03/2025 10:15",
+                "Local": "Cuadro Nacional",
+                "GL": "3",
+                "Visitante": "Locos X El Futsal",
+                "GV": "11",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "San Rafael Tenis Club",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "29/03/2025 14:00",
+                "Local": "Bachillerato",
+                "GL": "3",
+                "Visitante": "Banco Mza",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "San Rafael Tenis Club",
+                "Arbitro 1": "Luciano",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 3",
+        "Data": [
+            {
+                "Fecha": "05/04/2025 16:30",
+                "Local": "Cda",
+                "GL": "2",
+                "Visitante": "Banco Mza",
+                "GV": "7",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "Deportivo Argentino",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "05/04/2025 11:30",
+                "Local": "Locos X El Futsal",
+                "GL": "3",
+                "Visitante": "Amaral",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "Deportivo Argentino",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "05/04/2025 17:45",
+                "Local": "Utn",
+                "GL": "1",
+                "Visitante": "Tenis A",
+                "GV": "6",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "05/04/2025 14:00",
+                "Local": "Cuadro Nacional",
+                "GL": "6",
+                "Visitante": "Pedal",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Fernando"
+            },
+            {
+                "Fecha": "05/04/2025 17:45",
+                "Local": "Bachillerato",
+                "GL": "12",
+                "Visitante": "Tenis B",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "Deportivo Argentino",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 4",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Locos X El Futsal",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Tenis B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Tenis A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 5",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Locos X El Futsal",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis A",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Tenis B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "Utn",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 6",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis A",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis B",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Utn",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "Locos X El Futsal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 7",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Locos X El Futsal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis A",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis B",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "Cuadro Nacional",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 8",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis A",
+                "GL": "",
+                "Visitante": "Locos X El Futsal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis B",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 9",
+        "Data": [
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis A",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Tenis B",
+                "GL": "",
+                "Visitante": "Locos X El Futsal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "14/03/2025 09:00",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C17",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 10",
+        "Data": [
+            {
+                "Fecha": "",
+                "Local": "",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    }
+]

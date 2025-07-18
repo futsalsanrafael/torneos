@@ -1,0 +1,289 @@
+[
+    {
+        "Table": "Table 1",
+        "Data": [
+            {
+                "Fecha": "28/03/2025 21:00",
+                "Local": "Amaral A",
+                "GL": "2",
+                "Visitante": "Bachillerato",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "CIU",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
+            },
+            {
+                "Fecha": "28/03/2025 22:15",
+                "Local": "Utn",
+                "GL": "2",
+                "Visitante": "Banco Mza",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "CIU",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
+            },
+            {
+                "Fecha": "28/03/2025 23:30",
+                "Local": "Cuadro Nacional",
+                "GL": "3",
+                "Visitante": "Amaral B",
+                "GV": "14",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "CIU",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
+            }
+        ]
+    },
+    {
+        "Table": "Table 2",
+        "Data": [
+            {
+                "Fecha": "01/04/2025 23:30",
+                "Local": "Amaral B",
+                "GL": "6",
+                "Visitante": "Bachillerato",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "HURACAN",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
+            },
+            {
+                "Fecha": "03/04/2025 23:30",
+                "Local": "Utn",
+                "GL": "1",
+                "Visitante": "Pedal",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "PEDAL",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Enzo"
+            },
+            {
+                "Fecha": "01/04/2025 21:30",
+                "Local": "Cuadro Nacional",
+                "GL": "3",
+                "Visitante": "Banco Mza",
+                "GV": "5",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "CDA",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Enzo"
+            }
+        ]
+    },
+    {
+        "Table": "Table 3",
+        "Data": [
+            {
+                "Fecha": "07/04/2025 23:30",
+                "Local": "Amaral B",
+                "GL": "8",
+                "Visitante": "Amaral A",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
+            },
+            {
+                "Fecha": "07/04/2025 22:15",
+                "Local": "Banco Mza",
+                "GL": "1",
+                "Visitante": "Bachillerato",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
+            },
+            {
+                "Fecha": "07/04/2025 21:00",
+                "Local": "Cuadro Nacional",
+                "GL": "2",
+                "Visitante": "Pedal",
+                "GV": "9",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
+            }
+        ]
+    },
+    {
+        "Table": "Table 4",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Amaral A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Utn",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 5",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Amaral B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Amaral A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 6",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Amaral B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Amaral A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 7",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Amaral B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Amaral A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "SENIOR",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    }
+]

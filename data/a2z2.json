@@ -1,0 +1,390 @@
+[
+    {
+        "Table": "Table 1",
+        "Data": [
+            {
+                "Fecha": "31/03/2025 21:00",
+                "Local": "Amaral C",
+                "GL": "3",
+                "Visitante": "San Luis",
+                "GV": "0",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Matias"
+            },
+            {
+                "Fecha": "26/03/2025 22:30",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "5",
+                "Visitante": "Banco Mza B",
+                "GV": "6",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "CIC (SOSNEADO)",
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Franco"
+            },
+            {
+                "Fecha": "27/03/2025 21:30",
+                "Local": "Cuadro Nacional C",
+                "GL": "1",
+                "Visitante": "Pescadores",
+                "GV": "5",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "PESCADORES",
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Matias"
+            },
+            {
+                "Fecha": "27/03/2025 21:15",
+                "Local": "Los Legendarios B",
+                "GL": "2",
+                "Visitante": "Parque Norte B",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "CIC (SOSNEADO)",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Enzo"
+            }
+        ]
+    },
+    {
+        "Table": "Table 2",
+        "Data": [
+            {
+                "Fecha": "03/04/2025 21:00",
+                "Local": "Pescadores",
+                "GL": "6",
+                "Visitante": "San Luis",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
+            },
+            {
+                "Fecha": "03/04/2025 22:15",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "2",
+                "Visitante": "Parque Norte B",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
+            },
+            {
+                "Fecha": "04/04/2025 23:30",
+                "Local": "Cuadro Nacional C",
+                "GL": "2",
+                "Visitante": "Banco Mza B",
+                "GV": "9",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Joaquin",
+                "Arbitro 2": "Matias"
+            },
+            {
+                "Fecha": "03/04/2025 23:30",
+                "Local": "Los Legendarios B",
+                "GL": "2",
+                "Visitante": "Amaral C",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
+            }
+        ]
+    },
+    {
+        "Table": "Table 3",
+        "Data": [
+            {
+                "Fecha": "10/04/2025 22:45",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Amaral C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "PESCADORES",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "08/04/2025 23:30",
+                "Local": "Banco Mza B",
+                "GL": "",
+                "Visitante": "San Luis",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "HURACAN",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/04/2025 21:00",
+                "Local": "Cuadro Nacional C",
+                "GL": "",
+                "Visitante": "Parque Norte B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/04/2025 22:15",
+                "Local": "Los Legendarios B",
+                "GL": "",
+                "Visitante": "CPD AGUILAS FUTSAL",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 4",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Banco Mza B",
+                "GL": "",
+                "Visitante": "Amaral C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte B",
+                "GL": "",
+                "Visitante": "San Luis",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional C",
+                "GL": "",
+                "Visitante": "CPD AGUILAS FUTSAL",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Los Legendarios B",
+                "GL": "",
+                "Visitante": "Pescadores",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 5",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Banco Mza B",
+                "GL": "",
+                "Visitante": "Pescadores",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte B",
+                "GL": "",
+                "Visitante": "Amaral C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "San Luis",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Los Legendarios B",
+                "GL": "",
+                "Visitante": "Cuadro Nacional C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 6",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte B",
+                "GL": "",
+                "Visitante": "Pescadores",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Amaral C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional C",
+                "GL": "",
+                "Visitante": "San Luis",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Los Legendarios B",
+                "GL": "",
+                "Visitante": "Banco Mza B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 7",
+        "Data": [
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Parque Norte B",
+                "GL": "",
+                "Visitante": "Banco Mza B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Pescadores",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Cuadro Nacional C",
+                "GL": "",
+                "Visitante": "Amaral C",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "17/03/2025 22:00",
+                "Local": "Los Legendarios B",
+                "GL": "",
+                "Visitante": "San Luis",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2 ZONA 2",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Table": "Table 8",
+        "Data": [
+            {
+                "Fecha": "",
+                "Local": "",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    }
+]
