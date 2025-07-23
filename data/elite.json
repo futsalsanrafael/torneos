@@ -18,7 +18,7 @@
                 "Fecha": "25/03/2025 21:15",
                 "Local": "Locos X El Futsal A",
                 "GL": "1",
-                "Visitante": "Cda A",
+                "Visitante": "CDA A",
                 "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
@@ -95,7 +95,7 @@
                 "Fecha": "03/04/2025 21:30",
                 "Local": "Tenis B",
                 "GL": "4",
-                "Visitante": "Cda A",
+                "Visitante": "CDA A",
                 "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
@@ -133,46 +133,46 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "18/07/2025 21:30",
+                "Fecha": "09/04/2025 21:30",
                 "Local": "Amaral A",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Tenis C",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "TENIS",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Marcos"
             },
             {
-                "Fecha": "18/07/2025 22:45",
+                "Fecha": "09/04/2025 22:45",
                 "Local": "Parque Norte A",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Pedal A",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "TENIS",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
             },
             {
-                "Fecha": "19/07/2025 22:30",
+                "Fecha": "10/04/2025 22:30",
                 "Local": "Tenis B",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Banco Mza A",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "POLIDEPORTIVO N2 ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Franco"
             },
             {
                 "Fecha": "07/04/2025 22:30",
                 "Local": "Utn C",
                 "GL": "3",
-                "Visitante": "Cda A",
+                "Visitante": "CDA A",
                 "GV": "3",
                 "OBS": "",
                 "Zona": "ELITE",
@@ -183,14 +183,14 @@
             {
                 "Fecha": "07/04/2025 21:15",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Locos X El Futsal A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "POLIDEPORTIVO N2 ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
             }
         ]
     },
@@ -198,64 +198,64 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "08/05/2025 21:00",
                 "Local": "Parque Norte A",
-                "GL": "",
+                "GL": "5",
                 "Visitante": "Tenis C",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "PEDAL",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
             },
             {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "Cda A",
-                "GL": "",
+                "Fecha": "08/05/2025 22:15",
+                "Local": "CDA A",
+                "GL": "4",
                 "Visitante": "Pedal A",
-                "GV": "",
+                "GV": "8",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "PEDAL",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "07/05/2025 21:15",
                 "Local": "Tenis B",
-                "GL": "",
+                "GL": "7",
                 "Visitante": "Locos X El Futsal A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "TENIS",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "06/05/2025 22:30",
                 "Local": "Utn C",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Banco Mza A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "06/05/2025 21:15",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "5",
                 "Visitante": "Amaral A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
             }
         ]
     },
@@ -263,64 +263,64 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "15/05/2025 22:45",
                 "Local": "Parque Norte A",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Amaral A",
-                "GV": "",
+                "GV": "5",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "PEDAL",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Federico"
             },
             {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "Cda A",
-                "GL": "",
+                "Fecha": "16/05/2025 21:00",
+                "Local": "CDA A",
+                "GL": "5",
                 "Visitante": "Tenis C",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "12/05/2025 21:15",
                 "Local": "Banco Mza A",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Pedal A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "TENIS",
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Matias"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "14/05/2025 23:30",
                 "Local": "Utn C",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Locos X El Futsal A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "12/05/2025 22:30",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "5",
                 "Visitante": "Tenis B",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "TENIS",
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Matias"
             }
         ]
     },
@@ -328,64 +328,64 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "Cda A",
-                "GL": "",
+                "Fecha": "19/05/2025 21:15",
+                "Local": "CDA A",
+                "GL": "2",
                 "Visitante": "Amaral A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Matias"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "19/05/2025 22:30",
                 "Local": "Banco Mza A",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Tenis C",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Matias"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "20/05/2025 22:15",
                 "Local": "Locos X El Futsal A",
-                "GL": "",
+                "GL": "7",
                 "Visitante": "Pedal A",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "PEDAL",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "20/05/2025 21:00",
                 "Local": "Utn C",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Tenis B",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "PEDAL",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "21/05/2025 21:15",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "5",
                 "Visitante": "Parque Norte A",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "TENIS",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Rodeles"
             }
         ]
     },
@@ -393,63 +393,63 @@
         "Fecha": "Fecha 7",
         "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "Cda A",
-                "GL": "",
+                "Fecha": "16/06/2025 22:45",
+                "Local": "CDA A",
+                "GL": "5",
                 "Visitante": "Parque Norte A",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
+                "Cancha": "TENIS",
+                "Arbitro 1": "Franco",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "16/06/2025 21:30",
                 "Local": "Banco Mza A",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Amaral A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "HURACAN",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "22/05/2025 21:00",
                 "Local": "Locos X El Futsal A",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Tenis C",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "16/06/2025 21:30",
                 "Local": "Tenis B",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Pedal A",
-                "GV": "",
+                "GV": "5",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Matias",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "16/06/2025 21:30",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Utn C",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
+                "Cancha": "TENIS",
+                "Arbitro 1": "Franco",
                 "Arbitro 2": ""
             }
         ]
@@ -458,64 +458,64 @@
         "Fecha": "Fecha 8",
         "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "19/06/2025 21:15",
                 "Local": "Banco Mza A",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Parque Norte A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "PEDAL",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Rodeles"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "19/06/2025 21:15",
                 "Local": "Locos X El Futsal A",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Amaral A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "PESCADORES",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "COBALAN"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "19/06/2025 22:30",
                 "Local": "Tenis B",
-                "GL": "",
+                "GL": "6",
                 "Visitante": "Tenis C",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "TENIS",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Joaquin"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "19/06/2025 22:30",
                 "Local": "Utn C",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Pedal A",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "PEDAL",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Rodeles"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "19/06/2025 21:15",
                 "Local": "Tenis A",
-                "GL": "",
-                "Visitante": "Cda A",
-                "GV": "",
+                "GL": "4",
+                "Visitante": "CDA A",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "TENIS",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
             }
         ]
     },
@@ -523,62 +523,171 @@
         "Fecha": "Fecha 9",
         "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "23/06/2025 21:30",
+                "Local": "Banco Mza A",
+                "GL": "3",
+                "Visitante": "CDA A",
+                "GV": "11",
+                "OBS": "",
+                "Zona": "ELITE",
+                "Cancha": "TENIS",
+                "Arbitro 1": "Matias",
+                "Arbitro 2": "Matias"
+            },
+            {
+                "Fecha": "24/06/2025 21:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "4",
+                "Visitante": "Parque Norte A",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "ELITE",
+                "Cancha": "PESCADORES",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Federico"
+            },
+            {
+                "Fecha": "24/06/2025 22:45",
+                "Local": "Tenis B",
+                "GL": "6",
+                "Visitante": "Amaral A",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "ELITE",
+                "Cancha": "POLIDEPORTIVO N2 (ADENTRO)",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Rodeles"
+            },
+            {
+                "Fecha": "23/06/2025 22:45",
+                "Local": "Utn C",
+                "GL": "3",
+                "Visitante": "Tenis C",
+                "GV": "6",
+                "OBS": "",
+                "Zona": "ELITE",
+                "Cancha": "TENIS",
+                "Arbitro 1": "Matias",
+                "Arbitro 2": "Matias"
+            },
+            {
+                "Fecha": "24/06/2025 21:30",
+                "Local": "Tenis A",
+                "GL": "3",
+                "Visitante": "Pedal A",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "ELITE",
+                "Cancha": "POLIDEPORTIVO N2 (ADENTRO)",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Rodeles"
+            }
+        ]
+    },
+    {
+        "Fecha": "Semi Final IDA",
+        "Data": [
+            {
+                "Fecha": "26/06/2025 21:15",
+                "Local": "Tenis A",
+                "GL": "2",
+                "Visitante": "Amaral A",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "TENIS",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
+            },
+            {
+                "Fecha": "26/06/2025 22:30",
+                "Local": "Pedal A",
+                "GL": "3",
+                "Visitante": "Tenis B",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "TENIS",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "COBALAN"
+            }
+        ]
+    },
+    {
+        "Fecha": "Semi Final Vuelta",
+        "Data": [
+            {
+                "Fecha": "03/07/2025 21:00",
+                "Local": "Tenis A",
+                "GL": "2",
+                "Visitante": "Amaral A",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Arbitro 1": "Matias",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "03/07/2025 22:15",
+                "Local": "Pedal A",
+                "GL": "6",
+                "Visitante": "Tenis B",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Promocion",
+        "Data": [
+            {
+                "Fecha": "06/07/2025 20:30",
                 "Local": "Banco Mza A",
                 "GL": "",
-                "Visitante": "Cda A",
+                "Visitante": "Deportivo A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "ELITE",
-                "Cancha": "X",
+                "Zona": "",
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
-            },
+            }
+        ]
+    },
+    {
+        "Fecha": "Semi Final 3er Partido",
+        "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "Locos X El Futsal A",
+                "Fecha": "06/07/2025 20:30",
+                "Local": "Amaral A",
                 "GL": "",
-                "Visitante": "Parque Norte A",
+                "Visitante": "Tenis A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "ELITE",
-                "Cancha": "X",
+                "Zona": "",
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
-            },
+            }
+        ]
+    },
+    {
+        "Fecha": "Final",
+        "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "Tenis B",
+                "Fecha": "25/07/2025 22:00",
+                "Local": "Pedal A",
                 "GL": "",
-                "Visitante": "Amaral A",
+                "Visitante": "Tenis A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "Utn C",
-                "GL": "",
-                "Visitante": "Tenis C",
-                "GV": "",
-                "OBS": "",
-                "Zona": "ELITE",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "Tenis A",
-                "GL": "",
-                "Visitante": "Pedal A",
-                "GV": "",
-                "OBS": "",
-                "Zona": "ELITE",
-                "Cancha": "X",
+                "Zona": "",
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }

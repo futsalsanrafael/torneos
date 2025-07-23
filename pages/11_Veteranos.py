@@ -5,13 +5,13 @@ import pandas as pd
 import os
 import mimetypes
 
-# Elite page content
+# Veteranos page content
 st.set_page_config(
     page_title="Futsal San Rafael",
     page_icon=":material/sports_soccer:",
     layout="wide"
 )
-st.markdown(body="# ELITE", width="content")
+st.markdown(body="# Veteranos", width="content")
 st.sidebar.markdown("# Futsal San Rafael")
 
 tab1, tab2, tab3 = st.tabs(["Fixture", "Table", "Estadisticas"])
@@ -68,13 +68,13 @@ def get_base_team_name(team):
 
 with tab1:
     try:
-        with open(f'{root_path}/data/elite.json', 'r') as jfile:
+        with open(f'{root_path}/data/veteranos.json', 'r') as jfile:
             data = json.load(jfile)
     except json.JSONDecodeError as e:
-        st.error(f"Error parsing elite.json: {str(e)}")
+        st.error(f"Error parsing veteranos.json: {str(e)}")
         st.stop()
     except FileNotFoundError:
-        st.error("Error: elite.json not found in the data directory.")
+        st.error("Error: veteranos.json not found in the data directory.")
         st.stop()
 
     # Flatten the nested JSON structure
@@ -147,6 +147,9 @@ with tab2:
     all_matches = []
     for fecha in regular_season:
         for match in fecha['Data']:
+            # Skip matches where Visitante is empty
+            if match['Visitante'].strip() == '':
+                continue
             match['Fecha Numero'] = fecha['Fecha']
             all_matches.append(match)
 
@@ -209,6 +212,8 @@ with tab2:
             'D': stats['D'],
             'L': stats['L'],
             'Pts': stats['Pts'],
+            'GF': stats['GF'],
+            'GA': stats['GA'],
             'GD': stats['GD']
         })
 
@@ -218,37 +223,39 @@ with tab2:
     df_standings = df_standings.sort_values(by=['Pts', 'GD', 'Team'], ascending=[False, False, True])
 
     # Display the standings table
+    st.header("Standings")
     st.dataframe(
         df_standings,
         use_container_width=True,
         column_config={
-            "Team": st.column_config.TextColumn("Equipo"),
+            "Team": st.column_config.TextColumn("Team"),
             "Logo": st.column_config.ImageColumn(" ", width=40),
-            "MP": st.column_config.NumberColumn("Partidos Jugados", width=80),
-            "W": st.column_config.NumberColumn("Ganados", width=60),
-            "D": st.column_config.NumberColumn("Empates", width=60),
-            "L": st.column_config.NumberColumn("Perdidos", width=60),
-            "Pts": st.column_config.NumberColumn("Puntos", width=60),
-            "GD": st.column_config.NumberColumn("Goles Diferencia", width=80)
+            "MP": st.column_config.NumberColumn("Matches Played", width=100),
+            "W": st.column_config.NumberColumn("Wins", width=60),
+            "D": st.column_config.NumberColumn("Draws", width=60),
+            "L": st.column_config.NumberColumn("Losses", width=60),
+            "Pts": st.column_config.NumberColumn("Points", width=60),
+            "GF": st.column_config.NumberColumn("Goals For", width=80),
+            "GA": st.column_config.NumberColumn("Goals Against", width=80),
+            "GD": st.column_config.NumberColumn("Goal Difference", width=80)
         },
         hide_index=True,
-        column_order=['Logo', 'Team', 'Pts', 'MP', 'W', 'D', 'L', 'GD']
+        column_order=['Logo', 'Team', 'MP', 'W', 'D', 'L', 'Pts', 'GF', 'GA', 'GD']
     )
-    st.markdown("---")
 
 with tab3:
-    # Load elite-statistics.csv
+    # Load veteranos-statistics.csv
     try:
-        csv_path = f'{root_path}/data/elite-statistics.csv'
+        csv_path = f'{root_path}/data/veteranos-statistics.csv'
         df = pd.read_csv(csv_path)
     except FileNotFoundError:
-        st.error("Error: elite-statistics.csv not found in the data directory.")
+        st.error("Error: veteranos-statistics.csv not found in the data directory.")
         st.stop()
     except pd.errors.EmptyDataError:
-        st.error("Error: elite-statistics.csv is empty.")
+        st.error("Error: veteranos-statistics.csv is empty.")
         st.stop()
     except pd.errors.ParserError:
-        st.error("Error: Invalid CSV format in elite-statistics.csv.")
+        st.error("Error: Invalid CSV format in veteranos-statistics.csv.")
         st.stop()
 
     # Clean and process the data

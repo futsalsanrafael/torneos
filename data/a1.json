@@ -4,7 +4,7 @@
         "Data": [
             {
                 "Fecha": "26/03/2025 22:15",
-                "Local": "Cda B",
+                "Local": "CDA B",
                 "GL": "2",
                 "Visitante": "Bachillerato",
                 "GV": "1",
@@ -30,7 +30,7 @@
                 "Fecha": "28/03/2025 21:15",
                 "Local": "Huracan A",
                 "GL": "7",
-                "Visitante": "RINCON DEL ATUEL",
+                "Visitante": "Rincon Del Atuel",
                 "GV": "2",
                 "OBS": "",
                 "Zona": "A 1",
@@ -94,9 +94,9 @@
             {
                 "Fecha": "02/04/2025 20:00",
                 "Local": "Huracan A",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Lomoro",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "POLIDEPORTIVO N2 ADENTRO",
@@ -107,7 +107,7 @@
                 "Fecha": "02/04/2025 20:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "3",
-                "Visitante": "RINCON DEL ATUEL",
+                "Visitante": "Rincon Del Atuel",
                 "GV": "0",
                 "OBS": "",
                 "Zona": "A 1",
@@ -133,47 +133,47 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "18/07/2025 22:15",
+                "Fecha": "09/04/2025 22:15",
                 "Local": "Los Gladiadores",
-                "GL": "",
-                "Visitante": "Cda B",
-                "GV": "",
+                "GL": "3",
+                "Visitante": "CDA B",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Enzo"
             },
             {
-                "Fecha": "18/07/2025 23:30",
+                "Fecha": "09/04/2025 23:30",
                 "Local": "Locos X El Futsal B",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Enzo"
             },
             {
                 "Fecha": "08/04/2025 22:15",
                 "Local": "Huracan A",
-                "GL": "",
+                "GL": "12",
                 "Visitante": "Huracan B",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "HURACAN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "17/03/2025 22:00",
                 "Local": "Cuadro Nacional A",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Lomoro",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "X",
@@ -183,14 +183,14 @@
             {
                 "Fecha": "10/04/2025 22:30",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
-                "Visitante": "RINCON DEL ATUEL",
-                "GV": "",
+                "GL": "3",
+                "Visitante": "Rincon Del Atuel",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "CIC SOSNEADO FUTSAL",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Franco"
             }
         ]
     },
@@ -198,59 +198,59 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "28/04/2025 21:00",
                 "Local": "Locos X El Futsal B",
-                "GL": "",
-                "Visitante": "Cda B",
-                "GV": "",
+                "GL": "3",
+                "Visitante": "CDA B",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Matias",
+                "Arbitro 2": "Franco"
             },
             {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "RINCON DEL ATUEL",
-                "GL": "",
+                "Fecha": "28/04/2025 22:15",
+                "Local": "Rincon Del Atuel",
+                "GL": "2",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Matias"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "28/04/2025 21:00",
                 "Local": "Huracan A",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Utn A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Marcos"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "29/04/2025 21:30",
                 "Local": "Cuadro Nacional A",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Huracan B",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "HURACAN",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Enzo"
             },
             {
                 "Fecha": "10/04/2025 22:00",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Lomoro",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "X",
@@ -263,35 +263,35 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "08/05/2025 21:00",
                 "Local": "Locos X El Futsal B",
-                "GL": "",
+                "GL": "5",
                 "Visitante": "Los Gladiadores",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Enzo"
             },
             {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "RINCON DEL ATUEL",
-                "GL": "",
-                "Visitante": "Cda B",
-                "GV": "",
+                "Fecha": "08/05/2025 22:15",
+                "Local": "Rincon Del Atuel",
+                "GL": "1",
+                "Visitante": "CDA B",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Enzo"
             },
             {
                 "Fecha": "17/03/2025 22:00",
                 "Local": "Lomoro",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "X",
@@ -299,28 +299,28 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "08/05/2025 23:30",
                 "Local": "Cuadro Nacional A",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Utn A",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Enzo"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "05/05/2025 21:00",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "11",
                 "Visitante": "Huracan B",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Federico",
+                "Arbitro 2": "Joaquin"
             }
         ]
     },
@@ -328,23 +328,23 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "RINCON DEL ATUEL",
-                "GL": "",
+                "Fecha": "14/05/2025 21:00",
+                "Local": "Rincon Del Atuel",
+                "GL": "7",
                 "Visitante": "Los Gladiadores",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "17/03/2025 22:00",
                 "Local": "Lomoro",
-                "GL": "",
-                "Visitante": "Cda B",
-                "GV": "",
+                "GL": "0",
+                "Visitante": "CDA B",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "X",
@@ -352,40 +352,40 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "13/05/2025 21:30",
                 "Local": "Huracan B",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "HURACAN",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Matias"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "13/05/2025 22:45",
                 "Local": "Cuadro Nacional A",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Huracan A",
-                "GV": "",
+                "GV": "7",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "HURACAN",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Matias"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "14/05/2025 22:15",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Utn A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
             }
         ]
     },
@@ -393,23 +393,23 @@
         "Fecha": "Fecha 7",
         "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "RINCON DEL ATUEL",
-                "GL": "",
+                "Fecha": "21/05/2025 21:15",
+                "Local": "Rincon Del Atuel",
+                "GL": "2",
                 "Visitante": "Locos X El Futsal B",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Matias"
             },
             {
                 "Fecha": "17/03/2025 22:00",
                 "Local": "Lomoro",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Los Gladiadores",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "X",
@@ -417,40 +417,40 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "21/05/2025 22:30",
                 "Local": "Huracan B",
-                "GL": "",
-                "Visitante": "Cda B",
-                "GV": "",
+                "GL": "1",
+                "Visitante": "CDA B",
+                "GV": "5",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Matias"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "20/05/2025 21:30",
                 "Local": "Utn A",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "HURACAN",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Franco"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "20/05/2025 22:45",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Huracan A",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "HURACAN",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Franco"
             }
         ]
     },
@@ -460,9 +460,9 @@
             {
                 "Fecha": "17/03/2025 22:00",
                 "Local": "Lomoro",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Locos X El Futsal B",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "X",
@@ -470,52 +470,52 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "01/06/2025 21:00",
                 "Local": "Huracan B",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Los Gladiadores",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "HURACAN",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Luciano"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "01/06/2025 18:00",
                 "Local": "Utn A",
-                "GL": "",
-                "Visitante": "Cda B",
-                "GV": "",
+                "GL": "3",
+                "Visitante": "CDA B",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Franco"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "01/06/2025 18:00",
                 "Local": "Huracan A",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "HURACAN",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Luciano"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "01/06/2025 21:00",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Cuadro Nacional A",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Franco"
             }
         ]
     },
@@ -525,9 +525,9 @@
             {
                 "Fecha": "17/03/2025 22:00",
                 "Local": "Lomoro",
-                "GL": "",
-                "Visitante": "RINCON DEL ATUEL",
-                "GV": "",
+                "GL": "0",
+                "Visitante": "Rincon Del Atuel",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "X",
@@ -535,52 +535,52 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "05/06/2025 21:00",
                 "Local": "Huracan B",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Locos X El Futsal B",
-                "GV": "",
+                "GV": "8",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Federico"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "06/06/2025 21:00",
                 "Local": "Utn A",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Los Gladiadores",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "03/06/2025 22:45",
                 "Local": "Huracan A",
-                "GL": "",
-                "Visitante": "Cda B",
-                "GV": "",
+                "GL": "2",
+                "Visitante": "CDA B",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CDA",
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Luciano"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "05/06/2025 22:15",
                 "Local": "Cuadro Nacional A",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "10",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIC SOSNEADO FUTSAL",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Federico"
             }
         ]
     },
@@ -588,64 +588,64 @@
         "Fecha": "Fecha 10",
         "Data": [
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "13/06/2025 21:00",
                 "Local": "Huracan B",
-                "GL": "",
-                "Visitante": "RINCON DEL ATUEL",
-                "GV": "",
+                "GL": "2",
+                "Visitante": "Rincon Del Atuel",
+                "GV": "7",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Rodeles",
+                "Arbitro 2": "Rodeles"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "13/06/2025 21:00",
                 "Local": "Utn A",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Locos X El Futsal B",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "MARISTAS",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "COBALAN"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "13/06/2025 22:15",
                 "Local": "Huracan A",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Los Gladiadores",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Rodeles",
+                "Arbitro 2": "Rodeles"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "13/06/2025 22:15",
                 "Local": "Cuadro Nacional A",
-                "GL": "",
-                "Visitante": "Cda B",
-                "GV": "",
+                "GL": "0",
+                "Visitante": "CDA B",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "MARISTAS",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "COBALAN"
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "12/06/2025 23:30",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Arbitro 1": "Matias",
+                "Arbitro 2": "Camila"
             }
         ]
     },
@@ -655,9 +655,9 @@
             {
                 "Fecha": "17/03/2025 22:00",
                 "Local": "Huracan B",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Lomoro",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "A 1",
                 "Cancha": "X",
@@ -665,50 +665,125 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "17/03/2025 22:00",
+                "Fecha": "16/06/2025 21:30",
+                "Local": "Utn A",
+                "GL": "5",
+                "Visitante": "Rincon Del Atuel",
+                "GV": "0",
+                "OBS": "",
+                "Zona": "A 1",
+                "Cancha": "DEPORTIVO",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "COBALAN"
+            },
+            {
+                "Fecha": "16/06/2025 22:45",
+                "Local": "Huracan A",
+                "GL": "3",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "A 1",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "Matias",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "16/06/2025 22:45",
+                "Local": "Cuadro Nacional A",
+                "GL": "1",
+                "Visitante": "Los Gladiadores",
+                "GV": "5",
+                "OBS": "",
+                "Zona": "A 1",
+                "Cancha": "HURACAN",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
+            },
+            {
+                "Fecha": "17/06/2025 21:00",
+                "Local": "Sosneado Futsal Club",
+                "GL": "2",
+                "Visitante": "CDA B",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "A 1",
+                "Cancha": "DEPORTIVO",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Semi Final IDA",
+        "Data": [
+            {
+                "Fecha": "24/06/2025 22:45",
+                "Local": "Huracan A",
+                "GL": "4",
+                "Visitante": "Bachillerato",
+                "GV": "6",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "HURACAN",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
+            },
+            {
+                "Fecha": "23/06/2025 21:00",
+                "Local": "Utn A",
+                "GL": "3",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "0",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "CIU (UTN)",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Federico"
+            }
+        ]
+    },
+    {
+        "Fecha": "Semi Final VUELTA",
+        "Data": [
+            {
+                "Fecha": "27/06/2025 21:15",
+                "Local": "Locos X El Futsal B",
+                "GL": "1",
+                "Visitante": "Utn A",
+                "GV": "2",
+                "OBS": "",
+                "Zona": "A 1",
+                "Cancha": "MARISTAS",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Camila"
+            },
+            {
+                "Fecha": "27/06/2025 22:30",
+                "Local": "Bachillerato",
+                "GL": "5",
+                "Visitante": "Huracan A",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "A 1",
+                "Cancha": "MARISTAS",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Enzo"
+            }
+        ]
+    },
+    {
+        "Fecha": "FINAL",
+        "Data": [
+            {
+                "Fecha": "30/06/2025 22:15",
                 "Local": "Utn A",
                 "GL": "",
-                "Visitante": "RINCON DEL ATUEL",
+                "Visitante": "Bachillerato",
                 "GV": "",
                 "OBS": "",
-                "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "Huracan A",
-                "GL": "",
-                "Visitante": "Locos X El Futsal B",
-                "GV": "",
-                "OBS": "",
-                "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "Cuadro Nacional A",
-                "GL": "",
-                "Visitante": "Los Gladiadores",
-                "GV": "",
-                "OBS": "",
-                "Zona": "A 1",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "17/03/2025 22:00",
-                "Local": "Sosneado Futsal Club",
-                "GL": "",
-                "Visitante": "Cda B",
-                "GV": "",
-                "OBS": "",
-                "Zona": "A 1",
-                "Cancha": "X",
+                "Zona": "",
+                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }

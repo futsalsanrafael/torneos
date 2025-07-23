@@ -3,20 +3,32 @@ import json
 import pandas as pd
 import os
 from datetime import datetime
-#
-# Main page content
-st.set_page_config(page_title="AFUSAR")
-st.sidebar.title("AFUSSAR")
 
+# Main page content
+st.set_page_config(
+    page_title="Futsal San Rafael",
+    page_icon=":material/sports_soccer:",
+    layout="wide"
+)
+
+st.sidebar.title("Futsal San Rafael")
 st.markdown("# PARTIDOS DE HOY")
-# st.sidebar.markdown("# HOY")
 
 # Define root path and JSON file paths
 root_path = f"{os.getcwd()}/data"
 json_files = {
     "elite.json": "Elite",
+    "a1.json": "A 1",
     "a2z1.json": "A2 ZONA 1",
-    "a1.json": "A 1"
+    "a2z2.json": "A2 ZONA 2",
+    "senior.json": "Senior",
+    "veteranos.json": "Veteranos",
+    "femenino.json": "Femenino",
+    "c13.json": "C 13",
+    "c15.json": "C 15",
+    "c17.json": "C 17",
+    "c20a1.json": "C20 A1",
+    "c20a2.json": "C20 A2",
 }
 
 
@@ -98,5 +110,3 @@ if not df_todays_matches.empty:
     )
 else:
     st.write("No hay partidos programados para hoy.")
-
-st.markdown("---")
