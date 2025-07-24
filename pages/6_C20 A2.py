@@ -225,7 +225,6 @@ with tab2:
     df_standings = df_standings.sort_values(by=['Pts', 'GD', 'Team'], ascending=[False, False, True])
 
     # Display the standings table
-    st.header("Standings")
     st.dataframe(
         df_standings,
         use_container_width=True,
