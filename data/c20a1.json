@@ -742,14 +742,14 @@
         ]
     },
     {
-        "Fecha": "Semifinal Unica",
+        "Fecha": "Semifinal Única",
         "Data": [
             {
                 "Fecha": "21/07/2025 21:00",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "8",
                 "Visitante": "CDA A",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "Polideportivo No2 Adentro",
@@ -759,6 +759,23 @@
             {
                 "Fecha": "22/07/2025 22:30",
                 "Local": "Locos X El Futsal A",
+                "GL": "1",
+                "Visitante": "Amaral",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "C20 A1",
+                "Cancha": "Polideportivo No2 Adentro",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "FINAL ÚNICA",
+        "Data": [
+            {
+                "Fecha": "25/07/2025 17:30",
+                "Local": "Tenis A",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",

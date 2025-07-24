@@ -14,7 +14,7 @@ st.set_page_config(
 st.markdown(body="# A1", width="content")
 st.sidebar.markdown("# Futsal San Rafael")
 
-tab1, tab2, tab3 = st.tabs(["Fixture", "Table", "Estadisticas"])
+tab1, tab2, tab3 = st.tabs(["Fixture", "Tabla", "Estadisticas"])
 
 root_path = f"{os.getcwd()}"
 

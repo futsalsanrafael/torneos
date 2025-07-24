@@ -5,16 +5,16 @@ import pandas as pd
 import os
 import mimetypes
 
-# A2Z1 page content
+# A2Z2 page content
 st.set_page_config(
     page_title="Futsal San Rafael",
     page_icon=":material/sports_soccer:",
     layout="wide"
 )
-st.markdown(body="# A2 Zona 1", width="content")
+st.markdown(body="# A2 Zona 2", width="content")
 st.sidebar.markdown("# Futsal San Rafael")
 
-tab1, tab2, tab3 = st.tabs(["Fixture", "Table", "Estadisticas"])
+tab1, tab2, tab3 = st.tabs(["Fixture", "Tabla", "Estadisticas"])
 
 root_path = f"{os.getcwd()}"
 
@@ -68,13 +68,13 @@ def get_base_team_name(team):
 
 with tab1:
     try:
-        with open(f'{root_path}/data/a2z1.json', 'r') as jfile:
+        with open(f'{root_path}/data/a2z2.json', 'r') as jfile:
             data = json.load(jfile)
     except json.JSONDecodeError as e:
-        st.error(f"Error parsing a2z1.json: {str(e)}")
+        st.error(f"Error parsing a2z2.json: {str(e)}")
         st.stop()
     except FileNotFoundError:
-        st.error("Error: a2z1.json not found in the data directory.")
+        st.error("Error: a2z2.json not found in the data directory.")
         st.stop()
 
     # Flatten the nested JSON structure
@@ -244,18 +244,18 @@ with tab2:
     )
 
 with tab3:
-    # Load a2z1-statistics.csv
+    # Load a2z2-statistics.csv
     try:
-        csv_path = f'{root_path}/data/a2z1-statistics.csv'
+        csv_path = f'{root_path}/data/a2z2-statistics.csv'
         df = pd.read_csv(csv_path)
     except FileNotFoundError:
-        st.error("Error: a2z1-statistics.csv not found in the data directory.")
+        st.error("Error: a2z2-statistics.csv not found in the data directory.")
         st.stop()
     except pd.errors.EmptyDataError:
-        st.error("Error: a2z1-statistics.csv is empty.")
+        st.error("Error: a2z2-statistics.csv is empty.")
         st.stop()
     except pd.errors.ParserError:
-        st.error("Error: Invalid CSV format in a2z1-statistics.csv.")
+        st.error("Error: Invalid CSV format in a2z2-statistics.csv.")
         st.stop()
 
     # Clean and process the data
