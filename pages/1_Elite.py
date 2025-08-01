@@ -1,4 +1,6 @@
 import base64
+import logging
+
 import streamlit as st
 import json
 import pandas as pd
@@ -11,7 +13,7 @@ st.set_page_config(
     page_icon=":material/sports_soccer:",
     layout="wide"
 )
-st.markdown(body="# ELITE", width="content")
+st.markdown(body="# Elite", width="content")
 st.sidebar.markdown("# Futsal San Rafael")
 
 tab1, tab2, tab3 = st.tabs(["Fixture", "Tabla", "Estadisticas"])
@@ -70,6 +72,9 @@ with tab1:
     try:
         with open(f'{root_path}/data/elite.json', 'r') as jfile:
             data = json.load(jfile)
+            if not data:  # Check if data is empty
+                st.header("El fixture será cargado en los próximos días")
+                st.stop()  # Stop further execution of this tab if data is empty
     except json.JSONDecodeError as e:
         st.error(f"Error parsing elite.json: {str(e)}")
         st.stop()
@@ -147,56 +152,67 @@ with tab2:
     all_matches = []
     for fecha in regular_season:
         for match in fecha['Data']:
-            match['Fecha Numero'] = fecha['Fecha']
-            all_matches.append(match)
+            # Only include matches where goals are not empty AND 'Visitante' is not empty
+            if match['GL'] != "" and match['GV'] != "" and match['Visitante'] != "":
+                match['Fecha Numero'] = fecha['Fecha']
+                all_matches.append(match)
 
     df_matches = pd.DataFrame(all_matches)
 
-    # Convert goals to numeric, handling empty strings
-    df_matches['GL'] = pd.to_numeric(df_matches['GL'], errors='coerce').fillna(0).astype(int)
-    df_matches['GV'] = pd.to_numeric(df_matches['GV'], errors='coerce').fillna(0).astype(int)
+    # If no matches have been played yet, initialize an empty DataFrame
+    if df_matches.empty:
+        logging.warning("No played matches found to calculate standings.")
+        # Get all unique teams from the *entire* data structure, including scheduled matches
+        # and ensure 'Visitante' is not empty for team extraction
+        all_teams_data = [match for fecha in data for match in fecha['Data'] if match['Local'] != "" and match['Visitante'] != ""]
+        teams = pd.unique(pd.DataFrame(all_teams_data)[['Local', 'Visitante']].values.ravel('K'))
+        standings = {team: {'MP': 0, 'W': 0, 'D': 0, 'L': 0, 'Pts': 0, 'GF': 0, 'GA': 0, 'GD': 0} for team in teams}
+    else:
+        # Convert goals to numeric, handling empty strings (though filtered above, good for robustness)
+        df_matches['GL'] = pd.to_numeric(df_matches['GL'], errors='coerce').fillna(0).astype(int)
+        df_matches['GV'] = pd.to_numeric(df_matches['GV'], errors='coerce').fillna(0).astype(int)
 
-    # Get unique teams
-    teams = pd.unique(df_matches[['Local', 'Visitante']].values.ravel('K'))
+        # Get unique teams from only the *played* matches
+        teams = pd.unique(df_matches[['Local', 'Visitante']].values.ravel('K'))
 
-    # Initialize standings dictionary
-    standings = {team: {'MP': 0, 'W': 0, 'D': 0, 'L': 0, 'Pts': 0, 'GF': 0, 'GA': 0, 'GD': 0} for team in teams}
+        # Initialize standings dictionary
+        standings = {team: {'MP': 0, 'W': 0, 'D': 0, 'L': 0, 'Pts': 0, 'GF': 0, 'GA': 0, 'GD': 0} for team in teams}
 
-    # Calculate standings
-    for _, match in df_matches.iterrows():
-        local = match['Local']
-        visitante = match['Visitante']
-        gl = match['GL']
-        gv = match['GV']
+        # Calculate standings for played matches
+        for _, match in df_matches.iterrows():
+            local = match['Local']
+            visitante = match['Visitante']
+            gl = match['GL']
+            gv = match['GV']
 
-        # Update matches played
-        standings[local]['MP'] += 1
-        standings[visitante]['MP'] += 1
+            # Update matches played
+            standings[local]['MP'] += 1
+            standings[visitante]['MP'] += 1
 
-        # Update goals for and against
-        standings[local]['GF'] += gl
-        standings[local]['GA'] += gv
-        standings[visitante]['GF'] += gv
-        standings[visitante]['GA'] += gl
+            # Update goals for and against
+            standings[local]['GF'] += gl
+            standings[local]['GA'] += gv
+            standings[visitante]['GF'] += gv
+            standings[visitante]['GA'] += gl
 
-        # Determine match outcome
-        if gl > gv:
-            standings[local]['W'] += 1
-            standings[local]['Pts'] += 2
-            standings[visitante]['L'] += 1
-        elif gl < gv:
-            standings[local]['L'] += 1
-            standings[visitante]['W'] += 1
-            standings[visitante]['Pts'] += 2
-        else:
-            standings[local]['D'] += 1
-            standings[local]['Pts'] += 1
-            standings[visitante]['D'] += 1
-            standings[visitante]['Pts'] += 1
+            # Determine match outcome
+            if gl > gv:
+                standings[local]['W'] += 1
+                standings[local]['Pts'] += 2
+                standings[visitante]['L'] += 1
+            elif gl < gv:
+                standings[local]['L'] += 1
+                standings[visitante]['W'] += 1
+                standings[visitante]['Pts'] += 2
+            else:
+                standings[local]['D'] += 1
+                standings[local]['Pts'] += 1
+                standings[visitante]['D'] += 1
+                standings[visitante]['Pts'] += 1
 
-    # Calculate goal difference
-    for team in standings:
-        standings[team]['GD'] = standings[team]['GF'] - standings[team]['GA']
+        # Calculate goal difference
+        for team in standings:
+            standings[team]['GD'] = standings[team]['GF'] - standings[team]['GA']
 
     # Create standings DataFrame
     standings_data = []
@@ -234,7 +250,6 @@ with tab2:
         hide_index=True,
         column_order=['Logo', 'Team', 'Pts', 'MP', 'W', 'D', 'L', 'GD']
     )
-    st.markdown("---")
 
 with tab3:
     # Load elite-statistics.csv
@@ -242,7 +257,8 @@ with tab3:
         csv_path = f'{root_path}/data/elite-statistics.csv'
         df = pd.read_csv(csv_path)
     except FileNotFoundError:
-        st.error("Error: elite-statistics.csv not found in the data directory.")
+        logging.warning("Error: elite-statistics.csv not found in the data directory.")
+        st.header("Tabla de goleadores aún no disponible.")
         st.stop()
     except pd.errors.EmptyDataError:
         st.error("Error: elite-statistics.csv is empty.")

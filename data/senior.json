@@ -3,40 +3,64 @@
         "Fecha": "Fecha 1",
         "Data": [
             {
-                "Fecha": "28/03/2025 21:00",
-                "Local": "Amaral A",
-                "GL": "2",
-                "Visitante": "Bachillerato",
-                "GV": "3",
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Amaral B",
+                "GL": "",
+                "Visitante": "Amaral A",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CIU",
-                "Arbitro 1": "Fernando",
-                "Arbitro 2": "Luciano"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             },
             {
-                "Fecha": "28/03/2025 22:15",
+                "Fecha": "31/07/2025 22:00",
                 "Local": "Utn",
-                "GL": "2",
-                "Visitante": "Banco Mza",
-                "GV": "4",
+                "GL": "",
+                "Visitante": "CDA",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CIU",
-                "Arbitro 1": "Fernando",
-                "Arbitro 2": "Luciano"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             },
             {
-                "Fecha": "28/03/2025 23:30",
+                "Fecha": "31/07/2025 22:00",
                 "Local": "Cuadro Nacional",
-                "GL": "3",
-                "Visitante": "Amaral B",
-                "GV": "14",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CIU",
-                "Arbitro 1": "Fernando",
-                "Arbitro 2": "Luciano"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Los Legendarios",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             }
         ]
     },
@@ -44,40 +68,64 @@
         "Fecha": "Fecha 2",
         "Data": [
             {
-                "Fecha": "01/04/2025 23:30",
-                "Local": "Amaral B",
-                "GL": "6",
-                "Visitante": "Bachillerato",
-                "GV": "2",
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "Amaral A",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "HURACAN",
-                "Arbitro 1": "Marcos",
-                "Arbitro 2": "Camila"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             },
             {
-                "Fecha": "03/04/2025 23:30",
+                "Fecha": "31/07/2025 22:00",
                 "Local": "Utn",
-                "GL": "1",
+                "GL": "",
                 "Visitante": "Pedal",
-                "GV": "4",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "PEDAL",
-                "Arbitro 1": "Enzo",
-                "Arbitro 2": "Enzo"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             },
             {
-                "Fecha": "01/04/2025 21:30",
+                "Fecha": "31/07/2025 22:00",
                 "Local": "Cuadro Nacional",
-                "GL": "3",
-                "Visitante": "Banco Mza",
-                "GV": "5",
+                "GL": "",
+                "Visitante": "CDA",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CDA",
-                "Arbitro 1": "Franco",
-                "Arbitro 2": "Enzo"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Los Legendarios",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Amaral B",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             }
         ]
     },
@@ -85,40 +133,64 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "07/04/2025 23:30",
-                "Local": "Amaral B",
-                "GL": "8",
-                "Visitante": "Amaral A",
-                "GV": "1",
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "Amaral B",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CIC SOSNEADO FUTSAL",
-                "Arbitro 1": "Franco",
-                "Arbitro 2": "Rodeles"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             },
             {
-                "Fecha": "07/04/2025 22:15",
+                "Fecha": "31/07/2025 22:00",
                 "Local": "Banco Mza",
-                "GL": "1",
-                "Visitante": "Bachillerato",
-                "GV": "2",
+                "GL": "",
+                "Visitante": "Amaral A",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CIC SOSNEADO FUTSAL",
-                "Arbitro 1": "Franco",
-                "Arbitro 2": "Rodeles"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             },
             {
-                "Fecha": "07/04/2025 21:00",
+                "Fecha": "31/07/2025 22:00",
                 "Local": "Cuadro Nacional",
-                "GL": "2",
+                "GL": "",
                 "Visitante": "Pedal",
-                "GV": "9",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CIC SOSNEADO FUTSAL",
-                "Arbitro 1": "Franco",
-                "Arbitro 2": "Rodeles"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Los Legendarios",
+                "GL": "",
+                "Visitante": "CDA",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             }
         ]
     },
@@ -126,40 +198,64 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "28/04/2025 23:30",
+                "Fecha": "31/07/2025 22:00",
                 "Local": "Banco Mza",
-                "GL": "1",
+                "GL": "",
+                "Visitante": "Amaral B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "CDA",
+                "GL": "",
                 "Visitante": "Amaral A",
-                "GV": "1",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CIC SOSNEADO FUTSAL",
-                "Arbitro 1": "Franco",
-                "Arbitro 2": "Matias"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             },
             {
-                "Fecha": "29/04/2025 22:45",
-                "Local": "Pedal",
-                "GL": "2",
-                "Visitante": "Bachillerato",
-                "GV": "2",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "HURACAN",
-                "Arbitro 1": "Enzo",
-                "Arbitro 2": "Enzo"
-            },
-            {
-                "Fecha": "30/04/2025 21:00",
+                "Fecha": "31/07/2025 22:00",
                 "Local": "Cuadro Nacional",
-                "GL": "1",
+                "GL": "",
                 "Visitante": "Utn",
-                "GV": "3",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CIU UTN",
-                "Arbitro 1": "Franco",
-                "Arbitro 2": "Matias"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Los Legendarios",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             }
         ]
     },
@@ -167,40 +263,64 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "12/05/2025 22:45",
+                "Fecha": "31/07/2025 22:00",
                 "Local": "Banco Mza",
-                "GL": "3",
-                "Visitante": "Amaral B",
-                "GV": "6",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CDA",
-                "Arbitro 1": "Rodeles",
-                "Arbitro 2": "Enzo"
-            },
-            {
-                "Fecha": "13/05/2025 21:00",
-                "Local": "Pedal",
-                "GL": "13",
-                "Visitante": "Amaral A",
-                "GV": "1",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "PEDAL",
-                "Arbitro 1": "Marcos",
-                "Arbitro 2": "Luciano"
-            },
-            {
-                "Fecha": "16/05/2025 22:15",
-                "Local": "Utn",
-                "GL": "1",
+                "GL": "",
                 "Visitante": "Bachillerato",
-                "GV": "0",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CIC SOSNEADO FUTSAL",
-                "Arbitro 1": "Federico",
-                "Arbitro 2": "Joaquin"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "CDA",
+                "GL": "",
+                "Visitante": "Amaral B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Amaral A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Los Legendarios",
+                "GL": "",
+                "Visitante": "Utn",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             }
         ]
     },
@@ -208,40 +328,64 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "06/06/2025 22:15",
-                "Local": "Pedal",
-                "GL": "3",
-                "Visitante": "Amaral B",
-                "GV": "4",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
-                "Arbitro 1": "Franco",
-                "Arbitro 2": "Joaquin"
-            },
-            {
-                "Fecha": "06/06/2025 23:30",
-                "Local": "Utn",
-                "GL": "2",
-                "Visitante": "Amaral A",
-                "GV": "2",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
-                "Arbitro 1": "Franco",
-                "Arbitro 2": "Joaquin"
-            },
-            {
-                "Fecha": "03/06/2025 21:30",
-                "Local": "Cuadro Nacional",
-                "GL": "3",
+                "Fecha": "31/07/2025 22:00",
+                "Local": "CDA",
+                "GL": "",
                 "Visitante": "Bachillerato",
-                "GV": "6",
+                "GV": "",
                 "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "HURACAN",
-                "Arbitro 1": "Marcos",
-                "Arbitro 2": "Federico"
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Amaral B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Amaral A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Los Legendarios",
+                "GL": "",
+                "Visitante": "Cuadro Nacional",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
             }
         ]
     },
@@ -249,142 +393,192 @@
         "Fecha": "Fecha 7",
         "Data": [
             {
-                "Fecha": "09/06/2025 21:30",
-                "Local": "Pedal",
-                "GL": "5",
-                "Visitante": "Banco Mza",
-                "GV": "1",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CDA",
-                "Arbitro 1": "Franco",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "09/06/2025 21:00",
-                "Local": "Utn",
-                "GL": "1",
-                "Visitante": "Amaral B",
-                "GV": "7",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
-                "Arbitro 1": "Matias",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "09/06/2025 21:00",
-                "Local": "Cuadro Nacional",
-                "GL": "2",
-                "Visitante": "Amaral A",
-                "GV": "3",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CIC SOSNEADO FUTSAL",
-                "Arbitro 1": "Fernando",
-                "Arbitro 2": "Rodeles"
-            }
-        ]
-    },
-    {
-        "Fecha": "Semifinal IDA",
-        "Data": [
-            {
-                "Fecha": "16/06/2025 21:30",
-                "Local": "Amaral B",
-                "GL": "2",
-                "Visitante": "Banco Mza",
-                "GV": "2",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "Enzo",
-                "Arbitro 2": "Federico"
-            },
-            {
-                "Fecha": "17/06/2025 21:00",
-                "Local": "Pedal",
-                "GL": "4",
-                "Visitante": "Bachillerato",
-                "GV": "5",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "PEDAL",
-                "Arbitro 1": "Marcos",
-                "Arbitro 2": "Camila"
-            }
-        ]
-    },
-    {
-        "Fecha": "Semifinal VUELTA",
-        "Data": [
-            {
-                "Fecha": "18/06/2025 21:00",
-                "Local": "Banco Mza",
-                "GL": "2",
-                "Visitante": "Amaral B",
-                "GV": "2",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
-                "Arbitro 1": "Matias",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "19/06/2025 22:30",
-                "Local": "Bachillerato",
-                "GL": "0",
-                "Visitante": "Pedal",
-                "GV": "2",
-                "OBS": "",
-                "Zona": "SENIOR",
-                "Cancha": "PESCADORES",
-                "Arbitro 1": "Franco",
-                "Arbitro 2": "COBALAN"
-            }
-        ]
-    },
-    {
-        "Fecha": "Semifinal 3er PARTIDO",
-        "Data": [
-            {
-                "Fecha": "23/06/2025 22:15",
-                "Local": "Pedal",
-                "GL": "1",
-                "Visitante": "Bachillerato",
-                "GV": "0",
-                "OBS": "",
-                "Zona": "",
-                "Cancha": "CIU (UTN)",
-                "Arbitro 1": "Franco",
-                "Arbitro 2": "Federico"
-            },
-            {
-                "Fecha": "30/06/2025 23:30",
-                "Local": "Amaral B",
+                "Fecha": "31/07/2025 22:00",
+                "Local": "CDA",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
                 "OBS": "",
-                "Zona": "",
-                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Amaral B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Amaral A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Los Legendarios",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }
         ]
     },
     {
-        "Fecha": "FINAL",
+        "Fecha": "Fecha 8",
         "Data": [
             {
-                "Fecha": "25/07/2025 19:00",
+                "Fecha": "31/07/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
                 "OBS": "",
-                "Zona": "",
-                "Cancha": "POLIDEPORTIVO N2 ADENTRO",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Amaral B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Los Legendarios",
+                "GL": "",
+                "Visitante": "Amaral A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "CDA",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 9",
+        "Data": [
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "CDA",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Cuadro Nacional",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Los Legendarios",
+                "GL": "",
+                "Visitante": "Amaral B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "31/07/2025 22:00",
+                "Local": "Amaral A",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "Senior",
+                "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }

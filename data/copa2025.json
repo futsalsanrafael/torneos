@@ -16,7 +16,7 @@
             },
             {
                 "Fecha": "21/04/2025 23:30",
-                "Local": "Parque Norte C",
+                "Local": "Parque Nordico C",
                 "GL": "1",
                 "Visitante": "Utn B",
                 "GV": "4",
@@ -42,7 +42,7 @@
                 "Fecha": "30/04/2025 23:30",
                 "Local": "Los Legendarios B",
                 "GL": "1",
-                "Visitante": "RINCON DEL ATUEL",
+                "Visitante": "Rincon Del Atuel",
                 "GV": "1",
                 "OBS": "",
                 "Zona": "ZONA 2",
@@ -100,7 +100,7 @@
             },
             {
                 "Fecha": "21/04/2025 23:30",
-                "Local": "Parque Norte A",
+                "Local": "Parque Nordico A",
                 "GL": "2",
                 "Visitante": "Locos X El Futsal A",
                 "GV": "4",
@@ -184,7 +184,7 @@
             },
             {
                 "Fecha": "22/04/2025 22:45",
-                "Local": "Parque Norte B",
+                "Local": "Parque Nordico B",
                 "GL": "0",
                 "Visitante": "Los Gladiadores",
                 "GV": "0",
@@ -213,7 +213,7 @@
             },
             {
                 "Fecha": "26/05/2025 21:00",
-                "Local": "Parque Norte C",
+                "Local": "Parque Nordico C",
                 "GL": "2",
                 "Visitante": "Locos X El Futsal B",
                 "GV": "7",
@@ -225,7 +225,7 @@
             },
             {
                 "Fecha": "26/05/2025 21:15",
-                "Local": "RINCON DEL ATUEL",
+                "Local": "Rincon Del Atuel",
                 "GL": "2",
                 "Visitante": "Pedal A",
                 "GV": "7",
@@ -248,7 +248,7 @@
                 "Arbitro 2": "Federico"
             },
             {
-                "Fecha": "28/07/2025 21:00",
+                "Fecha": "31/07/2025 21:00",
                 "Local": "Tenis D",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -272,7 +272,7 @@
                 "Arbitro 2": "Matias"
             },
             {
-                "Fecha": "28/07/2025 23:30",
+                "Fecha": "31/07/2025 23:30",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Utn C",
@@ -311,7 +311,7 @@
                 "Fecha": "29/05/2025 22:15",
                 "Local": "Banco Mza B",
                 "GL": "1",
-                "Visitante": "Parque Norte A",
+                "Visitante": "Parque Nordico A",
                 "GV": "5",
                 "OBS": "",
                 "Zona": "ZONA 5",
@@ -381,7 +381,7 @@
             },
             {
                 "Fecha": "27/05/2025 21:30",
-                "Local": "Parque Norte B",
+                "Local": "Parque Nordico B",
                 "GL": "3",
                 "Visitante": "Cuadro Nacional A",
                 "GV": "2",
@@ -410,7 +410,7 @@
             },
             {
                 "Fecha": "17/03/2025 22:00",
-                "Local": "Parque Norte C",
+                "Local": "Parque Nordico C",
                 "GL": "",
                 "Visitante": "Tenis A",
                 "GV": "",
@@ -422,7 +422,7 @@
             },
             {
                 "Fecha": "17/03/2025 22:00",
-                "Local": "RINCON DEL ATUEL",
+                "Local": "Rincon Del Atuel",
                 "GL": "",
                 "Visitante": "CDA B",
                 "GV": "",
@@ -496,7 +496,7 @@
                 "Fecha": "17/03/2025 22:00",
                 "Local": "Los Andes B",
                 "GL": "",
-                "Visitante": "Parque Norte A",
+                "Visitante": "Parque Nordico A",
                 "GV": "",
                 "OBS": "",
                 "Zona": "ZONA 5",
@@ -578,7 +578,7 @@
             },
             {
                 "Fecha": "17/03/2025 22:00",
-                "Local": "Parque Norte B",
+                "Local": "Parque Nordico B",
                 "GL": "",
                 "Visitante": "Banco Mza A",
                 "GV": "",
