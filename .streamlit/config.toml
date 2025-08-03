@@ -1,3 +1,17 @@
+[[theme.fontFaces]]
+family="Montserrat"
+url="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap"
+style="normal"
+weight=400
+
+[[theme.fontFaces]]
+family="Montserrat"
+url="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap"
+style="normal"
+weight=700
+
 [theme]
+font="Montserrat, sans-serif"
 base="light"
 primaryColor="#1a47ec"
+

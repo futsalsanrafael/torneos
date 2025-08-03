@@ -19,8 +19,8 @@ root_path = f"{os.getcwd()}/data"
 json_files = {
     "elite.json": "Elite",
     "a1.json": "A 1",
-    "a2z1.json": "A2 ZONA 1",
-    "a2z2.json": "A2 ZONA 2",
+    "a2.json": "A2",
+    "a3.json": "A3",
     "senior.json": "Senior",
     "veteranos.json": "Veteranos",
     "femenino.json": "Femenino",
@@ -29,6 +29,7 @@ json_files = {
     "c17.json": "C 17",
     "c20a1.json": "C20 A1",
     "c20a2.json": "C20 A2",
+    "copa2025.json": "COPA 2025"
 }
 
 

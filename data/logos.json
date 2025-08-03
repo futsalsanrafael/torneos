@@ -24,6 +24,10 @@
         "logo": "/logos/logo_cuadro_nacional.png"
     },
     {
+        "equipo": "El Porvenir",
+        "logo": "/logos/logo_el_porvenir.jpeg"
+    },
+    {
         "equipo": "Huracan",
         "logo": "/logos/logo_huracan.png"
     },
