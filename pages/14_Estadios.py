@@ -82,7 +82,6 @@ def create_all_stadiums_map(_stadiums):
     for stadium in _stadiums:
         folium.Marker(
             [stadium["lat"], stadium["lon"]],
-            popup=f"{stadium['name']}<br>{stadium['address']}",
             tooltip=stadium["name"],
             icon=folium.Icon(color="blue", icon="futbol")
         ).add_to(m)
