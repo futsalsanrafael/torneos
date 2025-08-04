@@ -9,12 +9,12 @@ import mimetypes
 
 # A3 page content
 st.set_page_config(
-    page_title="Futsal San Rafael",
+    page_title="Futsal De Toque",
     page_icon=":material/sports_soccer:",
     layout="wide"
 )
 st.markdown(body="# A3", width="content")
-st.sidebar.markdown("# Futsal San Rafael")
+st.sidebar.markdown("# Futsal De Toque")
 
 tab1, tab2, tab3 = st.tabs(["Fixture", "Tabla", "Estadisticas"])
 

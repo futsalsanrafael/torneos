@@ -6,12 +6,12 @@ from streamlit_folium import st_folium
 
 # Canchas page content
 st.set_page_config(
-    page_title="Futsal San Rafael",
+    page_title="Futsal De Toque",
     page_icon=":material/sports_soccer:",
     layout="wide"
 )
 st.markdown(body="# Estadios", width="content")
-st.sidebar.markdown("# Futsal San Rafael")
+st.sidebar.markdown("# Futsal De Toque")
 
 st.header("Sportivo Pedal Club")
 m = folium.Map(location=[-34.628520, -68.336973], zoom_start=16)
