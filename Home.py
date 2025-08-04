@@ -1,12 +1,13 @@
+import base64
+import logging
 import streamlit as st
 import json
 import pandas as pd
 import os
 from datetime import datetime
-import base64
 import mimetypes
 
-# Main page content
+# Set page configuration
 st.set_page_config(
     page_title="Futsal De Toque",
     page_icon=":material/sports_soccer:",
@@ -34,7 +35,14 @@ json_files = {
     "copa2025.json": "COPA 2025"
 }
 
-# Function to convert local image to Base64 data URL
+# Cache file loading
+@st.cache_data
+def load_json(file_path):
+    with open(file_path, 'r') as file:
+        return json.load(file)
+
+# Cache image to Base64 conversion
+@st.cache_data
 def image_to_base64(image_path):
     try:
         mime_type, _ = mimetypes.guess_type(image_path)
@@ -46,30 +54,20 @@ def image_to_base64(image_path):
     except (FileNotFoundError, IOError):
         return ""
 
-# Load logos.json with error handling
-try:
-    with open(f'{root_path}/data/logos.json', 'r') as jfile_logos:
-        logos_data = json.load(jfile_logos)
-except json.JSONDecodeError as e:
-    st.error(f"Error parsing logos.json: {str(e)}")
-    st.stop()
-except FileNotFoundError:
-    st.error("Error: logos.json not found in the data directory.")
-    st.stop()
-
-# Create a dictionary to map team base names to Base64 data URLs
-logo_dict = {}
-missing_logos = []
-for item in logos_data:
-    team = item['equipo']
-    logo_path = f"{root_path}{item['logo']}"
-    base64_url = image_to_base64(logo_path)
-    if base64_url:
-        logo_dict[team] = base64_url
-    else:
-        missing_logos.append(f"{team}: {logo_path}")
-if missing_logos:
-    st.warning(f"Missing or invalid logo files:\n" + "\n".join(missing_logos))
+# Cache logo dictionary creation
+@st.cache_data
+def build_logo_dict(_logos_data, root_path):
+    logo_dict = {}
+    missing_logos = []
+    for item in _logos_data:
+        team = item['equipo']
+        logo_path = f"{root_path}{item['logo']}"
+        base64_url = image_to_base64(logo_path)
+        if base64_url:
+            logo_dict[team] = base64_url
+        else:
+            missing_logos.append(f"{team}: {logo_path}")
+    return logo_dict, missing_logos
 
 # Function to get base team name
 def get_base_team_name(team):
@@ -78,31 +76,39 @@ def get_base_team_name(team):
             return base_name
     return team
 
-# Function to load and filter matches for today
-def get_todays_matches():
-    all_matches = []
-    current_date = datetime.now().strftime('%d/%m/%Y')
+# Load logos.json
+try:
+    logos_data = load_json(f'{root_path}/data/logos.json')
+except (json.JSONDecodeError, FileNotFoundError) as e:
+    st.error(f"Error loading logos.json: {str(e)}")
+    st.stop()
 
-    for file_name, category in json_files.items():
+logo_dict, missing_logos = build_logo_dict(logos_data, root_path)
+if missing_logos:
+    st.warning(f"Missing or invalid logo files:\n" + "\n".join(missing_logos))
+
+# Cache today's matches
+@st.cache_data
+def get_todays_matches(_json_files, current_date_str):
+    all_matches = []
+    for file_name, category in _json_files.items():
         file_path = f"{root_path}/data/{file_name}"
         try:
-            with open(file_path, 'r') as jfile:
-                data = json.load(jfile)
+            data = load_json(file_path)
             for table in data:
                 for match in table['Data']:
-                    if match['Fecha'].startswith(current_date):
+                    if match['Fecha'].startswith(current_date_str):
                         match['Category'] = category
                         match['Local_Logo'] = logo_dict.get(get_base_team_name(match['Local']), "")
                         match['Visitante_Logo'] = logo_dict.get(get_base_team_name(match['Visitante']), "")
                         all_matches.append(match)
         except FileNotFoundError:
-            st.error(f"Error: {file_name} not found in the data directory.")
+            logging.warning(f"Error: {file_name} not found in the data directory.")
             continue
         except json.JSONDecodeError:
-            st.error(f"Error: Invalid JSON format in {file_name}.")
+            logging.warning(f"Error: Invalid JSON format in {file_name}.")
             continue
 
-    # Create DataFrame
     if all_matches:
         df = pd.DataFrame(all_matches)
         df = df.rename(columns={
@@ -121,14 +127,17 @@ def get_todays_matches():
     return pd.DataFrame()
 
 # Load and display today's matches
-df_todays_matches = get_todays_matches()
+current_date = datetime.now().strftime('%d/%m/%Y')
+df_todays_matches = get_todays_matches(json_files, current_date)
 
 if not df_todays_matches.empty:
     # Group by Category
     for category, group in df_todays_matches.groupby('Category', sort=False):
         st.subheader(category)
+        # Limit to 10 matches per category to reduce rendering overhead
+        display_group = group.head(10)
         st.dataframe(
-            group,
+            display_group,
             column_config={
                 "Date & Time": st.column_config.DatetimeColumn(
                     "Fecha - Hora",
@@ -162,5 +171,7 @@ if not df_todays_matches.empty:
             use_container_width=True,
             column_order=['Date & Time', 'Local_Logo', 'Home Team', 'Visitante_Logo', 'Away Team', 'Venue']
         )
+        if len(group) > 10:
+            st.write(f"Showing first 10 matches for {category}. Total matches: {len(group)}")
 else:
     st.write("No hay partidos programados para hoy.")

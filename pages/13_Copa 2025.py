@@ -1,27 +1,40 @@
 import base64
+import logging
 import streamlit as st
 import json
 import pandas as pd
 import os
 import mimetypes
 
-# Copa 2025 page content
+# Set page configuration
 st.set_page_config(
-    page_title="Futsal De Toque",
+    page_title="Futsal De Toque - COPA 2025",
     page_icon=":material/sports_soccer:",
     layout="wide"
 )
-st.markdown(body="# COPA 2025", width="content")
+st.markdown("# COPA 2025")
 st.sidebar.markdown("# Futsal De Toque")
 
+# Define tabs
 tab1, tab2, tab3 = st.tabs(["Fixture", "Tabla", "Estadisticas"])
 
-root_path = f"{os.getcwd()}"
+# Root path
+root_path = os.getcwd()
 
-# Function to convert local image to Base64 data URL
+# Cache file loading with category-specific key
+@st.cache_data
+def load_json_copa2025(file_path, category="COPA 2025"):
+    with open(file_path, 'r') as file:
+        return json.load(file)
+
+@st.cache_data
+def load_csv_copa2025(file_path, category="COPA 2025"):
+    return pd.read_csv(file_path)
+
+# Cache image to Base64 conversion
+@st.cache_data
 def image_to_base64(image_path):
     try:
-        # Guess the MIME type based on file extension
         mime_type, _ = mimetypes.guess_type(image_path)
         if not mime_type or not mime_type.startswith('image/'):
             return ""
@@ -31,91 +44,78 @@ def image_to_base64(image_path):
     except (FileNotFoundError, IOError):
         return ""
 
-# Load logos.json with error handling
-try:
-    with open(f'{root_path}/data/logos.json', 'r') as jfile_logos:
-        logos_data = json.load(jfile_logos)
-except json.JSONDecodeError as e:
-    st.error(f"Error parsing logos.json: {str(e)}")
-    st.stop()
-except FileNotFoundError:
-    st.error("Error: logos.json not found in the data directory.")
-    st.stop()
+# Cache logo dictionary creation
+@st.cache_data
+def build_logo_dict(_logos_data, root_path):
+    logo_dict = {}
+    missing_logos = []
+    for item in _logos_data:
+        team = item['equipo']
+        logo_path = f"{root_path}{item['logo']}"
+        base64_url = image_to_base64(logo_path)
+        if base64_url:
+            logo_dict[team] = base64_url
+        else:
+            missing_logos.append(f"{team}: {logo_path}")
+    return logo_dict, missing_logos
 
-# Create a dictionary to map team base names to Base64 data URLs
-logo_dict = {}
-missing_logos = []
-for item in logos_data:
-    team = item['equipo']
-    logo_path = f"{root_path}{item['logo']}"
-    base64_url = image_to_base64(logo_path)
-    if base64_url:
-        logo_dict[team] = base64_url
-    else:
-        missing_logos.append(f"{team}: {logo_path}")
-if missing_logos:
-    st.warning(f"Missing or invalid logo files:\n" + "\n".join(missing_logos))
-
-# Function to get base team name (e.g., "Tenis A" -> "Tenis")
+# Function to get base team name
 def get_base_team_name(team):
     for base_name in logo_dict.keys():
         if team.startswith(base_name):
             return base_name
-    return team  # Fallback to original name if no match
+    return team
 
+# Load logos.json
+try:
+    logos_data = load_json_copa2025(f'{root_path}/data/logos.json', category="COPA 2025")
+except (json.JSONDecodeError, FileNotFoundError) as e:
+    st.error(f"Error loading logos.json: {str(e)}")
+    st.stop()
+
+logo_dict, missing_logos = build_logo_dict(logos_data, root_path)
+if missing_logos:
+    st.warning(f"Missing or invalid logo files:\n" + "\n".join(missing_logos))
+
+# Tab 1: Fixture
 with tab1:
     try:
-        with open(f'{root_path}/data/copa2025.json', 'r') as jfile:
-            data = json.load(jfile)
-    except json.JSONDecodeError as e:
-        st.error(f"Error parsing copa2025.json: {str(e)}")
+        data = load_json_copa2025(f'{root_path}/data/copa2025.json', category="COPA 2025")
+        if not data:
+            st.header("El fixture será cargado en los próximos días")
+            st.stop()
+    except (json.JSONDecodeError, FileNotFoundError) as e:
+        st.error(f"Error loading copa2025.json: {str(e)}")
         st.stop()
-    except FileNotFoundError:
-        st.error("Error: copa2025.json not found in the data directory.")
-        st.stop()
 
-    # Flatten the nested JSON structure
-    all_matches = []
-    for fecha in data:
-        for match in fecha['Data']:
-            match['Fecha Numero'] = fecha['Fecha']
-            all_matches.append(match)
+    @st.cache_data
+    def process_fixtures_copa2025(_data, category="COPA 2025"):
+        all_matches = []
+        for fecha in _data:
+            for match in fecha['Data']:
+                match['Fecha Numero'] = fecha['Fecha']
+                all_matches.append(match)
+        df = pd.DataFrame(all_matches)
+        def parse_date(date_str):
+            if not date_str or date_str.strip() == '':
+                return pd.NaT
+            try:
+                return pd.to_datetime(date_str, format='%d/%m/%Y %H:%M')
+            except (ValueError, TypeError):
+                return pd.NaT
+        df['Fecha'] = df['Fecha'].apply(parse_date)
+        df['Local_Logo'] = df['Local'].apply(lambda x: logo_dict.get(get_base_team_name(x), ""))
+        df['Visitante_Logo'] = df['Visitante'].apply(lambda x: logo_dict.get(get_base_team_name(x), ""))
+        return df
 
-    # Create DataFrame
-    df = pd.DataFrame(all_matches)
-
-    # Debug: Check for invalid date values
-    invalid_dates = df[df['Fecha'].str.strip() == '']
-    if not invalid_dates.empty:
-        st.warning(f"Found {len(invalid_dates)} rows with empty or invalid dates: {invalid_dates['Fecha'].tolist()}")
-
-    # Convert 'Fecha' to datetime with error handling
-    def parse_date(date_str):
-        try:
-            return pd.to_datetime(date_str, format='%d/%m/%Y %H:%M')
-        except (ValueError, TypeError) as e:
-            st.error(f"Failed to parse date: {date_str}. Error: {str(e)}")
-            return pd.NaT
-
-    df['Fecha'] = df['Fecha'].apply(parse_date)
-
-    # Check for rows where datetime conversion failed
+    df = process_fixtures_copa2025(data, category="COPA 2025")
     if df['Fecha'].isna().any():
         st.warning(f"Rows with invalid dates: {df[df['Fecha'].isna()][['Fecha Numero', 'Local', 'Visitante']].to_dict('records')}")
 
-    # Add logo paths to the DataFrame
-    df['Local_Logo'] = df['Local'].apply(lambda x: logo_dict.get(get_base_team_name(x), ""))
-    df['Visitante_Logo'] = df['Visitante'].apply(lambda x: logo_dict.get(get_base_team_name(x), ""))
-
-    # Select relevant columns for display
-    columns = ['Fecha', 'Local_Logo', 'Local', 'GL', 'Visitante_Logo', 'Visitante', 'GV', 'Cancha', 'Arbitro 1', 'Arbitro 2']
-
-    # Group by Fecha Numero and display tables
+    columns = ['Fecha', 'Local_Logo', 'Local', 'GL', 'Visitante_Logo', 'Visitante', 'GV', 'Cancha']
     for fecha_num, group in df.groupby('Fecha Numero', sort=False):
         st.header(fecha_num)
-        # Create a copy to avoid modifying the original DataFrame
         display_group = group[columns].copy()
-        # Display the table with datetime column and logos
         st.dataframe(
             display_group,
             use_container_width=True,
@@ -127,105 +127,79 @@ with tab1:
                 "Visitante_Logo": st.column_config.ImageColumn(" ", width=40),
                 "Visitante": st.column_config.TextColumn("Visitante"),
                 "GV": st.column_config.TextColumn("Goles", width=40),
-                "Cancha": st.column_config.TextColumn("Cancha"),
-                "Arbitro 1": st.column_config.TextColumn("Referee 1"),
-                "Arbitro 2": st.column_config.TextColumn("Referee 2")
+                "Cancha": st.column_config.TextColumn("Cancha")
             },
             hide_index=True
         )
         st.markdown("---")
 
+# Tab 2: Tabla (Standings)
 with tab2:
-    # Filter matches for regular season (Fecha 1 to Fecha 3) and exclude empty Visitante
+    try:
+        data = load_json_copa2025(f'{root_path}/data/copa2025.json', category="COPA 2025")
+    except (json.JSONDecodeError, FileNotFoundError) as e:
+        st.error(f"Error loading copa2025.json: {str(e)}")
+        st.stop()
+
     regular_season = [f for f in data if f['Fecha'].startswith('Fecha ')]
-    all_matches = []
-    for fecha in regular_season:
-        for match in fecha['Data']:
-            # Skip matches where Visitante is empty
-            if match['Visitante'].strip() == '':
-                continue
-            match['Fecha Numero'] = fecha['Fecha']
-            match['Zona'] = match['Zona']  # Ensure Zona is included
-            all_matches.append(match)
+    @st.cache_data
+    def calculate_standings_copa2025(_regular_season, category="COPA 2025"):
+        all_matches = []
+        for fecha in _regular_season:
+            for match in fecha['Data']:
+                if match['Visitante'].strip() == '':
+                    continue
+                match['Fecha Numero'] = fecha['Fecha']
+                match['Zona'] = match.get('Zona', '')
+                all_matches.append(match)
+        df_matches = pd.DataFrame(all_matches)
+        df_matches['GL'] = pd.to_numeric(df_matches['GL'], errors='coerce').fillna(0).astype(int)
+        df_matches['GV'] = pd.to_numeric(df_matches['GV'], errors='coerce').fillna(0).astype(int)
+        zonas = df_matches['Zona'].unique()
+        all_standings = []
+        for zona in sorted(zonas):
+            df_zona = df_matches[df_matches['Zona'] == zona]
+            teams = pd.unique(df_zona[['Local', 'Visitante']].values.ravel('K'))
+            standings = {team: {'MP': 0, 'W': 0, 'D': 0, 'L': 0, 'Pts': 0, 'GF': 0, 'GA': 0, 'GD': 0} for team in teams}
+            for _, match in df_zona.iterrows():
+                local = match['Local']
+                visitante = match['Visitante']
+                gl = match['GL']
+                gv = match['GV']
+                standings[local]['MP'] += 1
+                standings[visitante]['MP'] += 1
+                standings[local]['GF'] += gl
+                standings[local]['GA'] += gv
+                standings[visitante]['GF'] += gv
+                standings[visitante]['GA'] += gl
+                if gl > gv:
+                    standings[local]['W'] += 1
+                    standings[local]['Pts'] += 2
+                    standings[visitante]['L'] += 1
+                elif gl < gv:
+                    standings[local]['L'] += 1
+                    standings[visitante]['W'] += 1
+                    standings[visitante]['Pts'] += 2
+                else:
+                    standings[local]['D'] += 1
+                    standings[local]['Pts'] += 1
+                    standings[visitante]['D'] += 1
+                    standings[visitante]['Pts'] += 1
+            for team in standings:
+                standings[team]['GD'] = standings[team]['GF'] - standings[team]['GA']
+            standings_data = [
+                {'Zona': zona, 'Team': team, 'Logo': logo_dict.get(get_base_team_name(team), ""), **stats}
+                for team, stats in standings.items()
+            ]
+            df_standings = pd.DataFrame(standings_data)
+            df_standings = df_standings.sort_values(by=['Pts', 'GD', 'Team'], ascending=[False, False, True])
+            all_standings.append(df_standings)
+        return all_standings
 
-    df_matches = pd.DataFrame(all_matches)
-
-    # Convert goals to numeric, handling empty strings
-    df_matches['GL'] = pd.to_numeric(df_matches['GL'], errors='coerce').fillna(0).astype(int)
-    df_matches['GV'] = pd.to_numeric(df_matches['GV'], errors='coerce').fillna(0).astype(int)
-
-    # Group by Zona
-    zonas = df_matches['Zona'].unique()
-
-    for zona in sorted(zonas):
+    all_standings = calculate_standings_copa2025(regular_season, category="COPA 2025")
+    for df_standings in all_standings:
+        zona = df_standings['Zona'].iloc[0]
         st.header(f"{zona}")
-        # Filter matches for this zone
-        df_zona = df_matches[df_matches['Zona'] == zona]
-
-        # Get unique teams in this zone
-        teams = pd.unique(df_zona[['Local', 'Visitante']].values.ravel('K'))
-
-        # Initialize standings dictionary for this zone
-        standings = {team: {'MP': 0, 'W': 0, 'D': 0, 'L': 0, 'Pts': 0, 'GF': 0, 'GA': 0, 'GD': 0} for team in teams}
-
-        # Calculate standings for this zone
-        for _, match in df_zona.iterrows():
-            local = match['Local']
-            visitante = match['Visitante']
-            gl = match['GL']
-            gv = match['GV']
-
-            # Update matches played
-            standings[local]['MP'] += 1
-            standings[visitante]['MP'] += 1
-
-            # Update goals for and against
-            standings[local]['GF'] += gl
-            standings[local]['GA'] += gv
-            standings[visitante]['GF'] += gv
-            standings[visitante]['GA'] += gl
-
-            # Determine match outcome
-            if gl > gv:
-                standings[local]['W'] += 1
-                standings[local]['Pts'] += 2
-                standings[visitante]['L'] += 1
-            elif gl < gv:
-                standings[local]['L'] += 1
-                standings[visitante]['W'] += 1
-                standings[visitante]['Pts'] += 2
-            else:
-                standings[local]['D'] += 1
-                standings[local]['Pts'] += 1
-                standings[visitante]['D'] += 1
-                standings[visitante]['Pts'] += 1
-
-        # Calculate goal difference
-        for team in standings:
-            standings[team]['GD'] = standings[team]['GF'] - standings[team]['GA']
-
-        # Create standings DataFrame for this zone
-        standings_data = []
-        for team, stats in standings.items():
-            standings_data.append({
-                'Team': team,
-                'Logo': logo_dict.get(get_base_team_name(team), ""),
-                'MP': stats['MP'],
-                'W': stats['W'],
-                'D': stats['D'],
-                'L': stats['L'],
-                'Pts': stats['Pts'],
-                'GF': stats['GF'],
-                'GA': stats['GA'],
-                'GD': stats['GD']
-            })
-
-        df_standings = pd.DataFrame(standings_data)
-
-        # Sort by points (descending), then goal difference (descending), then team name (alphabetically)
-        df_standings = df_standings.sort_values(by=['Pts', 'GD', 'Team'], ascending=[False, False, True])
-
-        # Display the standings table for this zone
         st.dataframe(
             df_standings,
             use_container_width=True,
@@ -246,56 +220,34 @@ with tab2:
         )
         st.markdown("---")
 
+# Tab 3: Estadisticas (Statistics)
 with tab3:
-    # Load copa2025-statistics.csv
     try:
-        csv_path = f'{root_path}/data/copa2025-statistics.csv'
-        df = pd.read_csv(csv_path)
-    except FileNotFoundError:
-        st.error("Error: copa2025-statistics.csv not found in the data directory.")
-        st.stop()
-    except pd.errors.EmptyDataError:
-        st.error("Error: copa2025-statistics.csv is empty.")
-        st.stop()
-    except pd.errors.ParserError:
-        st.error("Error: Invalid CSV format in copa2025-statistics.csv.")
+        df_stats = load_csv_copa2025(f'{root_path}/data/copa2025-statistics.csv', category="COPA 2025")
+    except (FileNotFoundError, pd.errors.EmptyDataError, pd.errors.ParserError) as e:
+        logging.warning(f"Error loading copa2025-statistics.csv: {str(e)}")
+        st.header("Tabla de goleadores aún no disponible.")
         st.stop()
 
-    # Clean and process the data
-    df.columns = df.columns.str.strip()
-    # Drop the column with empty header
-    if 'Unnamed: 0' in df.columns:
-        df = df.drop(columns=['Unnamed: 0'])
-    df = df.rename(columns={
-        'Goles': 'Goals',
-        'Jugador': 'Player',
-        'Club': 'Club'
-    })
+    @st.cache_data
+    def process_statistics_copa2025(_df, category="COPA 2025"):
+        _df.columns = _df.columns.str.strip()
+        if 'Unnamed: 0' in _df.columns:
+            _df = _df.drop(columns=['Unnamed: 0'])
+        _df = _df.rename(columns={'Goles': 'Goals', 'Jugador': 'Player', 'Club': 'Club'})
+        _df = _df.sort_values(by=['Goals', 'Player'], ascending=[False, True])
+        _df = _df.reset_index(drop=True)
+        _df.index = _df.index + 1
+        return _df
 
-    # Sort by Goals in descending order, then by Player name for ties
-    df = df.sort_values(by=['Goals', 'Player'], ascending=[False, True])
-
-    # Reset index to reflect rank starting from 1
-    df = df.reset_index(drop=True)
-    df.index = df.index + 1
-
-    # Display the table
+    df_stats = process_statistics_copa2025(df_stats, category="COPA 2025")
     st.header("Goleadores")
     st.dataframe(
-        df,
+        df_stats,
         column_config={
-            "Goals": st.column_config.NumberColumn(
-                "Goles",
-                help="Numero de goles convertidos"
-            ),
-            "Player": st.column_config.TextColumn(
-                "Jugador",
-                help="Nombre Jugador"
-            ),
-            "Club": st.column_config.TextColumn(
-                "Club",
-                help="Club Jugador"
-            )
+            "Goals": st.column_config.NumberColumn("Goles", help="Numero de goles convertidos"),
+            "Player": st.column_config.TextColumn("Jugador", help="Nombre Jugador"),
+            "Club": st.column_config.TextColumn("Club", help="Club Jugador")
         },
         hide_index=True,
         use_container_width=True
