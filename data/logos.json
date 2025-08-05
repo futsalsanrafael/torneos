@@ -1,27 +1,27 @@
 [
     {
         "equipo": "Amaral",
-        "logo": "/logos/logo_amaral.png"
+        "logo": "/logos/logo_amaral.jpeg"
     },
     {
         "equipo": "Bachillerato",
-        "logo": "/logos/logo_bachillerato.png"
+        "logo": "/logos/logo_bachillerato.jpeg"
     },
     {
         "equipo": "Banco Mza",
-        "logo": "/logos/logo_banco_mza.png"
+        "logo": "/logos/logo_banco_mza.jpeg"
     },
     {
         "equipo": "CDA",
-        "logo": "/logos/logo_cda.png"
+        "logo": "/logos/logo_cda.jpeg"
     },
     {
         "equipo": "CPD Aguilas Futsal",
-        "logo": "/logos/logo_cpd_aguilas_futsal.png"
+        "logo": "/logos/logo_cpd_aguilas_futsal.jpeg"
     },
     {
         "equipo": "Cuadro Nacional",
-        "logo": "/logos/logo_cuadro_nacional.png"
+        "logo": "/logos/logo_cuadro_nacional.jpeg"
     },
     {
         "equipo": "El Porvenir",
@@ -29,58 +29,58 @@
     },
     {
         "equipo": "Huracan",
-        "logo": "/logos/logo_huracan.png"
+        "logo": "/logos/logo_huracan.jpeg"
     },
     {
         "equipo": "Locos X El Futsal",
-        "logo": "/logos/logo_locos_x_el_futsal.png"
+        "logo": "/logos/logo_locos_x_el_futsal.jpeg"
     },
     {
         "equipo": "Lomoro",
-        "logo": "/logos/logo_lomoro.png"
+        "logo": "/logos/logo_lomoro.jpeg"
     },
     {
         "equipo": "Los Andes",
-        "logo": "/logos/logo_andes.png"
+        "logo": "/logos/logo_andes.jpeg"
     },
     {
         "equipo": "Los Gladiadores",
-        "logo": "/logos/logo_los_gladiadores.png"
+        "logo": "/logos/logo_los_gladiadores.jpeg"
     },
     {
         "equipo": "Los Legendarios",
-        "logo": "/logos/logo_los_legendarios.png"
+        "logo": "/logos/logo_los_legendarios.jpeg"
     },
     {
         "equipo": "Parque Nordico",
-        "logo": "/logos/logo_parque_nordico.png"
+        "logo": "/logos/logo_parque_nordico.jpeg"
     },
     {
         "equipo": "Pedal",
-        "logo": "/logos/logo_pedal.png"
+        "logo": "/logos/logo_pedal.jpeg"
     },
     {
         "equipo": "Pescadores",
-        "logo": "/logos/logo_pescadores.png"
+        "logo": "/logos/logo_pescadores.jpeg"
     },
     {
         "equipo": "Rincon Del Atuel",
-        "logo": "/logos/logo_rincon_del_atuel.png"
+        "logo": "/logos/logo_rincon_del_atuel.jpeg"
     },
     {
         "equipo": "San Luis",
-        "logo": "/logos/logo_san_luis.png"
+        "logo": "/logos/logo_san_luis.jpeg"
     },
     {
         "equipo": "Sosneado Futsal Club",
-        "logo": "/logos/logo_sosneado_futsal_club.png"
+        "logo": "/logos/logo_sosneado_futsal_club.jpeg"
     },
     {
         "equipo": "Tenis",
-        "logo": "/logos/logo_tenis.png"
+        "logo": "/logos/logo_tenis.jpeg"
     },
     {
         "equipo": "Utn",
-        "logo": "/logos/logo_utn.png"
+        "logo": "/logos/logo_utn.jpeg"
     }
 ]
