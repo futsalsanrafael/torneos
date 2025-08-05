@@ -8,6 +8,11 @@ from datetime import datetime
 import mimetypes
 import time
 
+# Clear session state keys related to match rendering
+for key in list(st.session_state.keys()):
+    if key.startswith("fixture_rendered_") or key.startswith("matches_rendered_"):
+        del st.session_state[key]
+
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -118,6 +123,7 @@ def get_todays_matches(_json_files, current_date_str, _category="All"):
         file_path = f"{root_path}/data/{file_name}"
         try:
             data = load_json(file_path, _category=category)
+            matches_found = 0
             for table in data:
                 for match in table['Data']:
                     if match['Fecha'].startswith(current_date_str):
@@ -125,6 +131,8 @@ def get_todays_matches(_json_files, current_date_str, _category="All"):
                         match['Local_Logo'] = logo_dict.get(get_base_team_name(match['Local']), "")
                         match['Visitante_Logo'] = logo_dict.get(get_base_team_name(match['Visitante']), "")
                         all_matches.append(match)
+                        matches_found += 1
+            logger.info(f"Found {matches_found} matches in {file_name} for {current_date_str}")
         except FileNotFoundError:
             logger.warning(f"Error: {file_name} not found in the data directory.")
             continue
@@ -137,22 +145,28 @@ def get_todays_matches(_json_files, current_date_str, _category="All"):
         df = df.rename(columns={
             'Fecha': 'Date & Time',
             'Local': 'Home Team',
-            'GL': 'Home Goals',
             'Visitante': 'Away Team',
-            'GV': 'Away Goals',
             'Cancha': 'Venue',
             'Arbitro 1': 'Referee 1',
             'Arbitro 2': 'Referee 2'
         })
         df['Date & Time'] = pd.to_datetime(df['Date & Time'], format='%d/%m/%Y %H:%M', errors='coerce')
         df = df.sort_values(by='Date & Time')
-        logger.info(f"Fetched and processed today's matches in {time.time() - start:.2f} seconds")
-        return df[['Date & Time', 'Home Team', 'Home Goals', 'Away Team', 'Away Goals', 'Venue', 'Category', 'Local_Logo', 'Visitante_Logo']]
+        logger.info(f"Fetched and processed {len(df)} matches for {current_date_str} in {time.time() - start:.2f} seconds")
+        return df[['Date & Time', 'Home Team', 'Away Team', 'Venue', 'Category', 'Local_Logo', 'Visitante_Logo']]
     logger.info(f"No matches found for {current_date_str}")
     return pd.DataFrame()
 
+# Allow custom date selection for testing
+with st.sidebar:
+    st.subheader("Selecciona Fecha (Debug)")
+    test_date = st.date_input("Fecha para mostrar partidos", value=datetime.now())
+    current_date = test_date.strftime('%d/%m/%Y')
+    if st.button("Limpiar Cache"):
+        st.cache_data.clear()
+        st.rerun()
+
 # Load and display today's matches
-current_date = datetime.now().strftime('%d/%m/%Y')
 with st.spinner("Cargando partidos de hoy"):
     df_todays_matches = get_todays_matches(json_files, current_date, _category="All")
 
@@ -160,7 +174,9 @@ if not df_todays_matches.empty:
     # Group by Category
     with st.container():
         for category, group in df_todays_matches.groupby('Category', sort=False):
-            if f"matches_rendered_{category}" not in st.session_state:
+            session_key = f"matches_rendered_{category}"
+            logger.info(f"Rendering category: {category}, Session key: {session_key}, In session state: {session_key in st.session_state}")
+            if session_key not in st.session_state:
                 st.subheader(category)
                 # Limit to 10 matches per category to reduce rendering overhead
                 display_group = group.head(10)
@@ -194,7 +210,7 @@ if not df_todays_matches.empty:
                                     hide_index=True,
                                     use_container_width=True,
                                     column_order=['Date & Time', 'Home Team', 'Away Team', 'Venue'],
-                                    key=f"matches_{category.replace(' ', '_')}"
+                                    key=f"today_matches_{category.replace(' ', '_')}"
                                 )
                             else:
                                 st.dataframe(
@@ -231,9 +247,9 @@ if not df_todays_matches.empty:
                                     hide_index=True,
                                     use_container_width=True,
                                     column_order=['Date & Time', 'Local_Logo', 'Home Team', 'Visitante_Logo', 'Away Team', 'Venue'],
-                                    key=f"matches_{category.replace(' ', '_')}"
+                                    key=f"today_matches_{category.replace(' ', '_')}"
                                 )
-                        st.session_state[f"matches_rendered_{category}"] = True
+                        st.session_state[session_key] = True
                         if len(group) > 10:
                             st.write(f"Showing first 10 matches for {category}. Total matches: {len(group)}")
                         st.markdown("---")
@@ -241,4 +257,4 @@ if not df_todays_matches.empty:
                     logger.error(f"Error rendering matches table for {category}: {str(e)}")
                     st.error(f"Error al mostrar la tabla para {category}. Por favor, intenta de nuevo.")
 else:
-    st.write("No hay partidos programados para hoy.")
+    st.write(f"No hay partidos programados para {current_date}.")

@@ -7,6 +7,10 @@ import os
 import mimetypes
 import time
 
+for key in list(st.session_state.keys()):
+    if key.startswith("fixture_rendered_"):
+        del st.session_state[key]
+
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -37,7 +41,7 @@ root_path = os.getcwd()
 
 # Cache file loading with category-specific key
 @st.cache_data
-def load_json_c20a1(file_path, category="c20a1"):
+def load_json_c20a1(file_path, category="C20A1"):
     logger.info(f"Loading JSON: {file_path}")
     start = time.time()
     with open(file_path, 'r') as file:
@@ -46,7 +50,7 @@ def load_json_c20a1(file_path, category="c20a1"):
     return data
 
 @st.cache_data
-def load_csv_c20a1(file_path, category="c20a1"):
+def load_csv_c20a1(file_path, category="C20A1"):
     logger.info(f"Loading CSV: {file_path}")
     start = time.time()
     df = pd.read_csv(file_path)
@@ -55,7 +59,7 @@ def load_csv_c20a1(file_path, category="c20a1"):
 
 # Cache image to Base64 conversion
 @st.cache_data
-def image_to_base64(image_path, _category="c20a1"):
+def image_to_base64(image_path, _category="C20A1"):
     try:
         mime_type, _ = mimetypes.guess_type(image_path)
         if not mime_type or not mime_type.startswith('image/'):
@@ -71,14 +75,14 @@ def image_to_base64(image_path, _category="c20a1"):
 
 # Cache logo dictionary creation
 @st.cache_data
-def build_logo_dict(_logos_data, root_path, _category="c20a1"):
+def build_logo_dict(_logos_data, root_path, _category="C20A1"):
     logo_dict = {}
     missing_logos = []
     start = time.time()
     for item in _logos_data:
         team = item['equipo']
         logo_path = f"{root_path}{item['logo']}"
-        base64_url = image_to_base64(logo_path, _category="c20a1")
+        base64_url = image_to_base64(logo_path, _category="C20A1")
         if base64_url:
             logo_dict[team] = base64_url
         else:
@@ -96,13 +100,13 @@ def get_base_team_name(team):
 # Load logos.json
 try:
     with st.spinner("Cargando logos"):
-        logos_data = load_json_c20a1(f'{root_path}/data/logos.json', category="c20a1")
+        logos_data = load_json_c20a1(f'{root_path}/data/logos.json', category="C20A1")
 except (json.JSONDecodeError, FileNotFoundError) as e:
     logger.error(f"Error loading logos.json: {str(e)}")
     st.error(f"Error loading logos.json: {str(e)}")
     st.stop()
 
-logo_dict, missing_logos = build_logo_dict(logos_data, root_path, _category="c20a1")
+logo_dict, missing_logos = build_logo_dict(logos_data, root_path, _category="C20A1")
 if missing_logos:
     st.warning(f"Missing or invalid logo files:\n" + "\n".join(missing_logos))
 
@@ -111,7 +115,7 @@ with tab1:
     st.session_state['active_tab'] = 'Fixture'
     try:
         with st.spinner("Cargando datos de partidos"):
-            data = load_json_c20a1(f'{root_path}/data/c20a1.json', category="c20a1")
+            data = load_json_c20a1(f'{root_path}/data/c20a1.json', category="C20A1")
             if not data:
                 st.header("El fixture será cargado en los próximos días")
                 st.stop()
@@ -121,8 +125,8 @@ with tab1:
         st.stop()
 
     @st.cache_data
-    def process_fixtures_c20a1(_data, category="c20a1"):
-        logger.info("Processing fixtures for c20a1")
+    def process_fixtures_c20a1(_data, category="C20A1"):
+        logger.info("Processing fixtures for C20A1")
         start = time.time()
         all_matches = []
         for fecha in _data:
@@ -143,7 +147,7 @@ with tab1:
         logger.info(f"Processed fixtures in {time.time() - start:.2f} seconds")
         return df
 
-    df = process_fixtures_c20a1(data, category="c20a1")
+    df = process_fixtures_c20a1(data, category="C20A1")
     if df['Fecha'].isna().any():
         st.warning(f"Rows with invalid dates: {df[df['Fecha'].isna()][['Fecha Numero', 'Local', 'Visitante']].to_dict('records')}")
 
@@ -192,7 +196,6 @@ with tab1:
                                     key=f"fixture_{fecha_num.replace(' ', '_')}"
                                 )
                             st.session_state[f"fixture_rendered_{fecha_num}"] = True
-                            st.markdown("---")
                     except Exception as e:
                         logger.error(f"Error rendering fixture table for {fecha_num}: {str(e)}")
                         st.error(f"Error al mostrar la tabla para {fecha_num}. Por favor, intenta de nuevo.")
@@ -203,7 +206,10 @@ with tab2:
         st.session_state['active_tab'] = 'Tabla'
         try:
             with st.spinner("Cargando datos de tabla"):
-                data = load_json_c20a1(f'{root_path}/data/c20a1.json', category="c20a1")
+                data = load_json_c20a1(f'{root_path}/data/c20a1.json', category="C20A1")
+                if not data:
+                    st.header("Tabla de posiciones aún no disponible. No hay partidos jugados.")
+                    st.stop()
         except (json.JSONDecodeError, FileNotFoundError) as e:
             logger.error(f"Error loading c20a1.json: {str(e)}")
             st.error(f"Error loading c20a1.json: {str(e)}")
@@ -211,17 +217,22 @@ with tab2:
 
     regular_season = [f for f in data if f['Fecha'].startswith('Fecha ')]
     @st.cache_data
-    def calculate_standings_c20a1(_regular_season, category="c20a1"):
-        logger.info("Calculating standings for c20a1")
+    def calculate_standings_c20a1(_regular_season, category="C20A1"):
+        logger.info("Calculating standings for C20A1")
         start = time.time()
         all_matches = []
         for fecha in _regular_season:
             for match in fecha['Data']:
                 if match['Visitante'].strip() == '':
                     continue
+                if match['GL'] == '' or match['GV'] == '':
+                    continue
                 match['Fecha Numero'] = fecha['Fecha']
                 match['Zona'] = match.get('Zona', '')
                 all_matches.append(match)
+        logger.info(f"Processing {len(all_matches)} played matches for standings")
+        if not all_matches:
+            return []
         df_matches = pd.DataFrame(all_matches)
         df_matches['GL'] = pd.to_numeric(df_matches['GL'], errors='coerce').fillna(0).astype(int)
         df_matches['GV'] = pd.to_numeric(df_matches['GV'], errors='coerce').fillna(0).astype(int)
@@ -304,8 +315,10 @@ with tab2:
         logger.info(f"Calculated standings in {time.time() - start:.2f} seconds")
         return all_standings
 
-    all_standings = calculate_standings_c20a1(regular_season, category="c20a1")
+    all_standings = calculate_standings_c20a1(regular_season, category="C20A1")
     with st.container():
+        if not all_standings:
+            st.header("Tabla de posiciones aún no disponible. No hay partidos jugados.")
         for df_standings in all_standings:
             zona = df_standings.get('Zona', 'General').iloc[0]
             if f"standings_rendered_{zona}" not in st.session_state:
@@ -349,7 +362,6 @@ with tab2:
                                         key=f"standings_{zona.replace(' ', '_')}"
                                     )
                             st.session_state[f"standings_rendered_{zona}"] = True
-                            st.markdown("---")
                     except Exception as e:
                         logger.error(f"Error rendering standings table for {zona}: {str(e)}")
                         st.error(f"Error al mostrar la tabla para {zona}. Por favor, intenta de nuevo.")
@@ -360,15 +372,15 @@ with tab3:
         st.session_state['active_tab'] = 'Estadisticas'
         try:
             with st.spinner("Cargando datos de estadísticas"):
-                df_stats = load_csv_c20a1(f'{root_path}/data/c20a1-statistics.csv', category="c20a1")
+                df_stats = load_csv_c20a1(f'{root_path}/data/c20a1-statistics.csv', category="C20A1")
         except (FileNotFoundError, pd.errors.EmptyDataError, pd.errors.ParserError) as e:
             logger.warning(f"Error loading c20a1-statistics.csv: {str(e)}")
             st.header("Tabla de goleadores aún no disponible.")
             st.stop()
 
     @st.cache_data
-    def process_statistics_c20a1(_df, category="c20a1"):
-        logger.info("Processing statistics for c20a1")
+    def process_statistics_c20a1(_df, category="C20A1"):
+        logger.info("Processing statistics for C20A1")
         start = time.time()
         _df.columns = _df.columns.str.strip()
         if 'Unnamed: 0' in _df.columns:
@@ -380,7 +392,7 @@ with tab3:
         logger.info(f"Processed statistics in {time.time() - start:.2f} seconds")
         return _df
 
-    df_stats = process_statistics_c20a1(df_stats, category="c20a1")
+    df_stats = process_statistics_c20a1(df_stats, category="C20A1")
     st.header("Goleadores")
     try:
         with st.spinner("Cargando tabla de goleadores"):

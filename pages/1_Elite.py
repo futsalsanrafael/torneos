@@ -7,6 +7,10 @@ import os
 import mimetypes
 import time
 
+for key in list(st.session_state.keys()):
+    if key.startswith("fixture_rendered_"):
+        del st.session_state[key]
+
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -192,7 +196,6 @@ with tab1:
                                     key=f"fixture_{fecha_num.replace(' ', '_')}"
                                 )
                             st.session_state[f"fixture_rendered_{fecha_num}"] = True
-                            st.markdown("---")
                     except Exception as e:
                         logger.error(f"Error rendering fixture table for {fecha_num}: {str(e)}")
                         st.error(f"Error al mostrar la tabla para {fecha_num}. Por favor, intenta de nuevo.")
@@ -204,6 +207,9 @@ with tab2:
         try:
             with st.spinner("Cargando datos de tabla"):
                 data = load_json_elite(f'{root_path}/data/elite.json', category="Elite")
+                if not data:
+                    st.header("Tabla de posiciones aún no disponible. No hay partidos jugados.")
+                    st.stop()
         except (json.JSONDecodeError, FileNotFoundError) as e:
             logger.error(f"Error loading elite.json: {str(e)}")
             st.error(f"Error loading elite.json: {str(e)}")
@@ -219,9 +225,14 @@ with tab2:
             for match in fecha['Data']:
                 if match['Visitante'].strip() == '':
                     continue
+                if match['GL'] == '' or match['GV'] == '':
+                    continue
                 match['Fecha Numero'] = fecha['Fecha']
                 match['Zona'] = match.get('Zona', '')
                 all_matches.append(match)
+        logger.info(f"Processing {len(all_matches)} played matches for standings")
+        if not all_matches:
+            return []
         df_matches = pd.DataFrame(all_matches)
         df_matches['GL'] = pd.to_numeric(df_matches['GL'], errors='coerce').fillna(0).astype(int)
         df_matches['GV'] = pd.to_numeric(df_matches['GV'], errors='coerce').fillna(0).astype(int)
@@ -306,6 +317,8 @@ with tab2:
 
     all_standings = calculate_standings_elite(regular_season, category="Elite")
     with st.container():
+        if not all_standings:
+            st.header("Tabla de posiciones aún no disponible. No hay partidos jugados.")
         for df_standings in all_standings:
             zona = df_standings.get('Zona', 'General').iloc[0]
             if f"standings_rendered_{zona}" not in st.session_state:
@@ -349,7 +362,6 @@ with tab2:
                                         key=f"standings_{zona.replace(' ', '_')}"
                                     )
                             st.session_state[f"standings_rendered_{zona}"] = True
-                            st.markdown("---")
                     except Exception as e:
                         logger.error(f"Error rendering standings table for {zona}: {str(e)}")
                         st.error(f"Error al mostrar la tabla para {zona}. Por favor, intenta de nuevo.")
