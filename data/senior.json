@@ -3,55 +3,55 @@
         "Fecha": "Fecha 1",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "07/08/2025 23:30",
                 "Local": "Amaral B",
                 "GL": "",
                 "Visitante": "Amaral A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Senior",
-                "Cancha": "X",
+                "Zona": "SENIOR",
+                "Cancha": "CIU",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "07/08/2025 21:00",
                 "Local": "Utn",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Senior",
-                "Cancha": "X",
+                "Zona": "SENIOR",
+                "Cancha": "CIU",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "06/08/2025 23:30",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Senior",
-                "Cancha": "X",
+                "Zona": "SENIOR",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "07/08/2025 22:15",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Bachillerato",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Senior",
-                "Cancha": "X",
+                "Zona": "SENIOR",
+                "Cancha": "CIU",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "",
@@ -68,7 +68,7 @@
         "Fecha": "Fecha 2",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -80,7 +80,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -92,10 +92,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Senior",
@@ -104,8 +104,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
@@ -116,7 +116,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "",
                 "Local": "Amaral B",
                 "GL": "",
                 "Visitante": "",
@@ -133,7 +133,7 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "Amaral B",
@@ -145,7 +145,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -157,7 +157,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -169,10 +169,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Senior",
@@ -181,7 +181,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "",
@@ -198,7 +198,7 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "Amaral B",
@@ -210,8 +210,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "CDA",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "Cda",
                 "GL": "",
                 "Visitante": "Amaral A",
                 "GV": "",
@@ -222,7 +222,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Utn",
@@ -234,8 +234,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Pedal",
                 "GV": "",
@@ -246,7 +246,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "",
@@ -263,7 +263,7 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -275,8 +275,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "CDA",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "Cda",
                 "GL": "",
                 "Visitante": "Amaral B",
                 "GV": "",
@@ -287,7 +287,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -299,8 +299,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Utn",
                 "GV": "",
@@ -311,7 +311,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "",
@@ -328,8 +328,8 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "CDA",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "Cda",
                 "GL": "",
                 "Visitante": "Bachillerato",
                 "GV": "",
@@ -340,7 +340,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Amaral B",
@@ -352,7 +352,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -364,8 +364,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Cuadro Nacional",
                 "GV": "",
@@ -376,7 +376,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "",
@@ -393,8 +393,8 @@
         "Fecha": "Fecha 7",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "CDA",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "Cda",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
@@ -405,7 +405,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -417,7 +417,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Amaral B",
@@ -429,7 +429,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -441,8 +441,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "",
                 "GV": "",
@@ -458,7 +458,7 @@
         "Fecha": "Fecha 8",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -470,7 +470,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -482,7 +482,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Amaral B",
@@ -494,8 +494,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Amaral A",
                 "GV": "",
@@ -506,8 +506,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "CDA",
+                "Fecha": "",
+                "Local": "Cda",
                 "GL": "",
                 "Visitante": "",
                 "GV": "",
@@ -523,10 +523,10 @@
         "Fecha": "Fecha 9",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Senior",
@@ -535,7 +535,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -547,7 +547,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -559,8 +559,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Amaral B",
                 "GV": "",
@@ -571,7 +571,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "",
                 "Local": "Amaral A",
                 "GL": "",
                 "Visitante": "",

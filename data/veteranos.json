@@ -3,62 +3,62 @@
         "Fecha": "Fecha 1",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "08/08/2025 21:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Veterano",
-                "Cancha": "X",
+                "Zona": "VETERANO",
+                "Cancha": "Maristas",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "08/08/2025 23:30",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Huracan",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Veterano",
-                "Cancha": "X",
+                "Zona": "VETERANO",
+                "Cancha": "Maristas",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "08/08/2025 21:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Veterano",
-                "Cancha": "X",
+                "Zona": "VETERANO",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "08/08/2025 23:30",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Veterano",
-                "Cancha": "X",
+                "Zona": "VETERANO",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "08/08/2025 22:15",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Los Andes",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Veterano",
-                "Cancha": "X",
+                "Zona": "VETERANO",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }
@@ -68,7 +68,7 @@
         "Fecha": "Fecha 2",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -80,7 +80,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Los Andes",
@@ -92,7 +92,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Huracan",
@@ -104,10 +104,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Veterano",
@@ -116,7 +116,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -133,7 +133,7 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -145,8 +145,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "CDA",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "Cda",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",
@@ -157,7 +157,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Los Andes",
@@ -169,8 +169,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Huracan",
                 "GV": "",
@@ -181,7 +181,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Utn",
@@ -198,8 +198,8 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "CDA",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "Cda",
                 "GL": "",
                 "Visitante": "Bachillerato",
                 "GV": "",
@@ -210,7 +210,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Huracan",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -222,7 +222,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Utn",
@@ -234,8 +234,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Los Andes",
                 "GV": "",
@@ -246,7 +246,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -263,8 +263,8 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "CDA",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "Cda",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
@@ -275,7 +275,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Huracan",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -287,7 +287,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Andes",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -299,8 +299,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Utn",
                 "GV": "",
@@ -311,7 +311,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Cuadro Nacional",
@@ -328,7 +328,7 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Huracan",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -340,7 +340,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Andes",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -352,7 +352,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -364,8 +364,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Cuadro Nacional",
                 "GV": "",
@@ -376,10 +376,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Veterano",
@@ -393,10 +393,10 @@
         "Fecha": "Fecha 7",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Huracan",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Veterano",
@@ -405,7 +405,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Andes",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -417,7 +417,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -429,7 +429,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -441,10 +441,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
-                "Visitante": "Los Legendarios",
+                "Visitante": "LOS LEGENDARIOS",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Veterano",
@@ -458,10 +458,10 @@
         "Fecha": "Fecha 8",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Andes",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Veterano",
@@ -470,7 +470,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -482,7 +482,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -494,8 +494,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",
@@ -506,7 +506,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Huracan",
@@ -523,7 +523,7 @@
         "Fecha": "Fecha 9",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Andes",
                 "GL": "",
                 "Visitante": "Huracan",
@@ -535,10 +535,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Veterano",
@@ -547,7 +547,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -559,8 +559,8 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "Los Legendarios",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "LOS LEGENDARIOS",
                 "GL": "",
                 "Visitante": "Bachillerato",
                 "GV": "",
@@ -571,7 +571,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Amaral",

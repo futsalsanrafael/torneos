@@ -1,1 +1,1159 @@
-[]
+[
+    {
+        "Fecha": "Fecha 1",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 15:00",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "San Rafael Tenis Club Cancha 1",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 11:00",
+                "Local": "Tenis Blanco",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "Sportivo Pedal Club",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 11:00",
+                "Local": "Tenis Verde",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "San Rafael Tenis Club Cancha 1",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 12:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "San Rafael Tenis Club Cancha 1",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 17:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "San Rafael Tenis Club Cancha 1",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 14:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "Sportivo Pedal Club",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Tenis Azul",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 2",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Blanco",
+                "GL": "",
+                "Visitante": "Tenis Azul",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Verde",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 3",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Cda",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Verde",
+                "GL": "",
+                "Visitante": "Tenis Azul",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Tenis Blanco",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 4",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Cda",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Verde",
+                "GL": "",
+                "Visitante": "Tenis Blanco",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Tenis Azul",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Banco Mza",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 5",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Cda",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Locos X El Futsal B",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Tenis Blanco",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Tenis Azul",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Tenis Verde",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 6",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Locos X El Futsal B",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Tenis Verde",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Tenis Blanco",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Tenis Azul",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Cda",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 7",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Locos X El Futsal B",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Azul",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Tenis Verde",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Tenis Blanco",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 8",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Locos X El Futsal B",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Azul",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Blanco",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Utn",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Tenis Verde",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Locos X El Futsal A",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 9",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Locos X El Futsal B",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Azul",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Blanco",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Verde",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Utn",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 10",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Azul",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Blanco",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Verde",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "CPD AGUILAS FUTSAL",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Locos X El Futsal B",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 11",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Azul",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Blanco",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Verde",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 12",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Azul",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Blanco",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Verde",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Amaral",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Pedal",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 13",
+        "Data": [
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Azul",
+                "GL": "",
+                "Visitante": "Pedal",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Blanco",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Tenis Verde",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Utn",
+                "GL": "",
+                "Visitante": "Cda",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "CPD AGUILAS FUTSAL",
+                "GL": "",
+                "Visitante": "Banco Mza",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "09/08/2025 09:00",
+                "Local": "Pescadores",
+                "GL": "",
+                "Visitante": "Bachillerato",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "",
+                "Local": "Amaral",
+                "GL": "",
+                "Visitante": "",
+                "GV": "",
+                "OBS": "",
+                "Zona": "C15",
+                "Cancha": "X",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            }
+        ]
+    }
+]

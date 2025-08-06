@@ -3,73 +3,73 @@
         "Fecha": "Fecha 1",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "08/08/2025 22:15",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Femenino",
-                "Cancha": "X",
+                "Zona": "FEMENINO",
+                "Cancha": "Maristas",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "06/08/2025 21:30",
                 "Local": "Tenis",
                 "GL": "",
                 "Visitante": "Pedal",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Femenino",
-                "Cancha": "X",
+                "Zona": "FEMENINO",
+                "Cancha": "DEPORTIVO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "06/08/2025 22:15",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Parque Nordico",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Femenino",
-                "Cancha": "X",
+                "Zona": "FEMENINO",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "06/08/2025 21:00",
                 "Local": "Cuadro Nacional B",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Femenino",
-                "Cancha": "X",
+                "Zona": "FEMENINO",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "06/08/2025 22:45",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Femenino",
-                "Cancha": "X",
+                "Zona": "FEMENINO",
+                "Cancha": "DEPORTIVO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
-                "Visitante": "El Porvenir",
+                "Visitante": "EL PORVENIR",
                 "GV": "",
-                "OBS": "",
-                "Zona": "Femenino",
+                "OBS": "a programar",
+                "Zona": "",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
@@ -80,8 +80,8 @@
         "Fecha": "Fecha 2",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "CDA",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "Cda",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",
@@ -92,7 +92,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis",
                 "GL": "",
                 "Visitante": "Utn",
@@ -104,7 +104,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -116,7 +116,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional B",
                 "GL": "",
                 "Visitante": "Parque Nordico",
@@ -128,7 +128,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -140,10 +140,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Banco Mza",
                 "GL": "",
-                "Visitante": "El Porvenir",
+                "Visitante": "EL PORVENIR",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -157,8 +157,8 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "CDA",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "Cda",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
@@ -169,7 +169,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -181,7 +181,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Utn",
@@ -193,7 +193,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional B",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -205,7 +205,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Parque Nordico",
@@ -217,10 +217,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis",
                 "GL": "",
-                "Visitante": "El Porvenir",
+                "Visitante": "EL PORVENIR",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -234,7 +234,7 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -246,7 +246,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Parque Nordico",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -258,7 +258,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Tenis",
@@ -270,7 +270,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional B",
                 "GL": "",
                 "Visitante": "Utn",
@@ -282,7 +282,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -294,10 +294,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
-                "Local": "CDA",
+                "Fecha": "01/08/2025 22:00",
+                "Local": "Cda",
                 "GL": "",
-                "Visitante": "El Porvenir",
+                "Visitante": "EL PORVENIR",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -311,10 +311,10 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -323,7 +323,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Parque Nordico",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -335,7 +335,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -347,7 +347,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional B",
                 "GL": "",
                 "Visitante": "Tenis",
@@ -359,7 +359,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Utn",
@@ -371,10 +371,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
-                "Visitante": "El Porvenir",
+                "Visitante": "EL PORVENIR",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -388,10 +388,10 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Parque Nordico",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -400,7 +400,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -412,7 +412,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -424,7 +424,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional B",
                 "GL": "",
                 "Visitante": "Cuadro Nacional A",
@@ -436,7 +436,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Tenis",
@@ -448,10 +448,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal",
                 "GL": "",
-                "Visitante": "El Porvenir",
+                "Visitante": "EL PORVENIR",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -465,7 +465,7 @@
         "Fecha": "Fecha 7",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Parque Nordico",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -477,10 +477,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -489,7 +489,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -501,7 +501,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -513,7 +513,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Cuadro Nacional A",
@@ -525,10 +525,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional B",
                 "GL": "",
-                "Visitante": "El Porvenir",
+                "Visitante": "EL PORVENIR",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -542,7 +542,7 @@
         "Fecha": "Fecha 8",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -554,10 +554,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -566,7 +566,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -578,7 +578,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -590,7 +590,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Cuadro Nacional B",
@@ -602,10 +602,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Parque Nordico",
                 "GL": "",
-                "Visitante": "El Porvenir",
+                "Visitante": "EL PORVENIR",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -619,7 +619,7 @@
         "Fecha": "Fecha 9",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Parque Nordico",
@@ -631,7 +631,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -643,10 +643,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -655,7 +655,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -667,7 +667,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional B",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -679,10 +679,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
-                "Visitante": "El Porvenir",
+                "Visitante": "EL PORVENIR",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -696,7 +696,7 @@
         "Fecha": "Fecha 10",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Parque Nordico",
@@ -708,7 +708,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -720,10 +720,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -732,7 +732,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional B",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -744,7 +744,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -756,10 +756,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
-                "Visitante": "El Porvenir",
+                "Visitante": "EL PORVENIR",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -773,7 +773,7 @@
         "Fecha": "Fecha 11",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -785,7 +785,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis",
                 "GL": "",
                 "Visitante": "Parque Nordico",
@@ -797,7 +797,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -809,10 +809,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional B",
                 "GL": "",
-                "Visitante": "CDA",
+                "Visitante": "Cda",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
@@ -821,7 +821,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -833,10 +833,10 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Amaral",
                 "GL": "",
-                "Visitante": "El Porvenir",
+                "Visitante": "EL PORVENIR",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Femenino",
