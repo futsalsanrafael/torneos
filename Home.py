@@ -160,15 +160,7 @@ def get_todays_matches(_json_files, current_date_str, _category="All"):
 
 # Set timezone to Argentina (GMT-3)
 argentina_tz = pytz.timezone('America/Argentina/Buenos_Aires')
-
-# Allow custom date selection for testing
-with st.sidebar:
-    st.subheader("Selecciona Fecha (Debug)")
-    test_date = st.date_input("Fecha para mostrar partidos", value=datetime.now(argentina_tz))
-    current_date = test_date.strftime('%d/%m/%Y')
-    if st.button("Limpiar Cache"):
-        st.cache_data.clear()
-        st.rerun()
+current_date = datetime.now(argentina_tz).strftime('%d/%m/%Y')
 
 # Load and display today's matches
 with st.spinner("Cargando partidos de hoy"):
