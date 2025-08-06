@@ -18,7 +18,7 @@
                 "Fecha": "07/08/2025 21:00",
                 "Local": "Utn",
                 "GL": "",
-                "Visitante": "Cda",
+                "Visitante": "CDA",
                 "GV": "",
                 "OBS": "",
                 "Zona": "SENIOR",
@@ -95,7 +95,7 @@
                 "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
-                "Visitante": "Cda",
+                "Visitante": "CDA",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Senior",
@@ -172,7 +172,7 @@
                 "Fecha": "01/08/2025 22:00",
                 "Local": "LOS LEGENDARIOS",
                 "GL": "",
-                "Visitante": "Cda",
+                "Visitante": "CDA",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Senior",
@@ -211,7 +211,7 @@
             },
             {
                 "Fecha": "01/08/2025 22:00",
-                "Local": "Cda",
+                "Local": "CDA",
                 "GL": "",
                 "Visitante": "Amaral A",
                 "GV": "",
@@ -276,7 +276,7 @@
             },
             {
                 "Fecha": "01/08/2025 22:00",
-                "Local": "Cda",
+                "Local": "CDA",
                 "GL": "",
                 "Visitante": "Amaral B",
                 "GV": "",
@@ -329,7 +329,7 @@
         "Data": [
             {
                 "Fecha": "01/08/2025 22:00",
-                "Local": "Cda",
+                "Local": "CDA",
                 "GL": "",
                 "Visitante": "Bachillerato",
                 "GV": "",
@@ -394,7 +394,7 @@
         "Data": [
             {
                 "Fecha": "01/08/2025 22:00",
-                "Local": "Cda",
+                "Local": "CDA",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
@@ -507,7 +507,7 @@
             },
             {
                 "Fecha": "",
-                "Local": "Cda",
+                "Local": "CDA",
                 "GL": "",
                 "Visitante": "",
                 "GV": "",
@@ -526,7 +526,7 @@
                 "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal",
                 "GL": "",
-                "Visitante": "Cda",
+                "Visitante": "CDA",
                 "GV": "",
                 "OBS": "",
                 "Zona": "Senior",
