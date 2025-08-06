@@ -427,4 +427,3 @@ with tab3:
     except Exception as e:
         logger.error(f"Error rendering statistics table: {str(e)}")
         st.error("Error al mostrar la tabla de goleadores. Por favor, intenta de nuevo.")
-    st.markdown("---")
