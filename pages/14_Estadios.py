@@ -53,13 +53,13 @@ stadiums = [
         "google_maps": "https://maps.google.com/?q=-34.602605,-68.354466"
     },
     {
-        "name": "HURACAN",
+        "name": "Huracan",
         "lat": -34.628061,
         "lon": -68.294438,
         "google_maps": "https://maps.google.com/?q=-34.628061,-68.294438"
     },
     {
-        "name": "CIC SOSNEADO FUTSAL",
+        "name": "CIC Sosnneado Futsal",
         "lat": -34.636386,
         "lon": -68.374009,
         "google_maps": "https://maps.google.com/?q=-34.636386,-68.374009"
