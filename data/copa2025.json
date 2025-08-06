@@ -543,9 +543,9 @@
             {
                 "Fecha": "05/08/2025 21:30",
                 "Local": "Huracan B",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "ZONA 7",
                 "Cancha": "HURACAN",
@@ -579,9 +579,9 @@
             {
                 "Fecha": "05/08/2025 22:45",
                 "Local": "Parque Nordico B",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Banco Mza A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ZONA 8",
                 "Cancha": "HURACAN",
