@@ -7,6 +7,7 @@ import os
 from datetime import datetime
 import mimetypes
 import time
+import pytz
 
 # Clear session state keys related to match rendering
 for key in list(st.session_state.keys()):
@@ -157,10 +158,13 @@ def get_todays_matches(_json_files, current_date_str, _category="All"):
     logger.info(f"No matches found for {current_date_str}")
     return pd.DataFrame()
 
+# Set timezone to Argentina (GMT-3)
+argentina_tz = pytz.timezone('America/Argentina/Buenos_Aires')
+
 # Allow custom date selection for testing
 with st.sidebar:
     st.subheader("Selecciona Fecha (Debug)")
-    test_date = st.date_input("Fecha para mostrar partidos", value=datetime.now())
+    test_date = st.date_input("Fecha para mostrar partidos", value=datetime.now(argentina_tz))
     current_date = test_date.strftime('%d/%m/%Y')
     if st.button("Limpiar Cache"):
         st.cache_data.clear()
@@ -252,7 +256,6 @@ if not df_todays_matches.empty:
                         st.session_state[session_key] = True
                         if len(group) > 10:
                             st.write(f"Showing first 10 matches for {category}. Total matches: {len(group)}")
-                        st.markdown("---")
                 except Exception as e:
                     logger.error(f"Error rendering matches table for {category}: {str(e)}")
                     st.error(f"Error al mostrar la tabla para {category}. Por favor, intenta de nuevo.")
