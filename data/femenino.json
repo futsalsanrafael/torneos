@@ -15,7 +15,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "06/08/2025 21:30",
+                "Fecha": "07/08/2025 21:30",
                 "Local": "Tenis",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -29,9 +29,9 @@
             {
                 "Fecha": "06/08/2025 22:15",
                 "Local": "Cuadro Nacional A",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Parque Nordico",
-                "GV": "",
+                "GV": "8",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "POLI ADENTRO",
@@ -41,9 +41,9 @@
             {
                 "Fecha": "06/08/2025 21:00",
                 "Local": "Cuadro Nacional B",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Locos X El Futsal",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "POLI ADENTRO",
@@ -51,7 +51,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "06/08/2025 22:45",
+                "Fecha": "07/08/2025 22:45",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "CDA",

@@ -3,62 +3,62 @@
         "Fecha": "Fecha 1",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "15/08/2025 22:15",
                 "Local": "Tenis A",
                 "GL": "",
                 "Visitante": "Amaral A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Elite",
-                "Cancha": "X",
+                "Zona": "ELITE",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "12/08/2025 21:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Utn A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Elite",
-                "Cancha": "X",
+                "Zona": "ELITE",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "15/08/2025 21:00",
                 "Local": "CDA B",
                 "GL": "",
                 "Visitante": "CDA A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Elite",
-                "Cancha": "X",
+                "Zona": "ELITE",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "14/08/2025 22:15",
                 "Local": "Tenis C",
                 "GL": "",
                 "Visitante": "Utn C",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Elite",
-                "Cancha": "X",
+                "Zona": "ELITE",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "14/08/2025 22:15",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Locos X El Futsal A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Elite",
-                "Cancha": "X",
+                "Zona": "ELITE",
+                "Cancha": "PEDAL",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }
@@ -68,7 +68,7 @@
         "Fecha": "Fecha 2",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn C",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -80,7 +80,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Locos X El Futsal A",
@@ -92,7 +92,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA B",
                 "GL": "",
                 "Visitante": "Utn A",
@@ -104,7 +104,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis C",
                 "GL": "",
                 "Visitante": "CDA A",
@@ -116,7 +116,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -133,7 +133,7 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn C",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -145,7 +145,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -157,7 +157,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA B",
                 "GL": "",
                 "Visitante": "Locos X El Futsal A",
@@ -169,7 +169,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis C",
                 "GL": "",
                 "Visitante": "Utn A",
@@ -181,7 +181,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Tenis B",
@@ -198,7 +198,7 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -210,7 +210,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn A",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -222,7 +222,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA B",
                 "GL": "",
                 "Visitante": "Tenis B",
@@ -234,7 +234,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis C",
                 "GL": "",
                 "Visitante": "Locos X El Futsal A",
@@ -246,7 +246,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Utn C",
@@ -263,7 +263,7 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Utn C",
@@ -275,7 +275,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn A",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -287,7 +287,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -299,7 +299,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis C",
                 "GL": "",
                 "Visitante": "Tenis B",
@@ -311,7 +311,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "CDA B",
@@ -328,7 +328,7 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn A",
                 "GL": "",
                 "Visitante": "Utn C",
@@ -340,7 +340,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -352,7 +352,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -364,7 +364,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis C",
                 "GL": "",
                 "Visitante": "CDA B",
@@ -376,7 +376,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "CDA A",
@@ -393,7 +393,7 @@
         "Fecha": "Fecha 7",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Utn A",
                 "GL": "",
                 "Visitante": "CDA A",
@@ -405,7 +405,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Utn C",
@@ -417,7 +417,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -429,7 +429,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA B",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -441,7 +441,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Tenis C",
@@ -458,7 +458,7 @@
         "Fecha": "Fecha 8",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "CDA A",
@@ -470,7 +470,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Utn C",
@@ -482,7 +482,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA B",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -494,7 +494,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis C",
                 "GL": "",
                 "Visitante": "Amaral A",
@@ -506,7 +506,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Utn A",
@@ -523,7 +523,7 @@
         "Fecha": "Fecha 9",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Utn A",
@@ -535,7 +535,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "CDA A",
@@ -547,7 +547,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA B",
                 "GL": "",
                 "Visitante": "Utn C",
@@ -559,7 +559,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Tenis C",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -571,7 +571,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Amaral A",

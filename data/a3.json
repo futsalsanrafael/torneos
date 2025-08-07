@@ -3,50 +3,50 @@
         "Fecha": "Fecha 1",
         "Data": [
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "13/08/2025 21:00",
                 "Local": "Huracan C",
                 "GL": "",
                 "Visitante": "Banco Mza C",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A3",
-                "Cancha": "X",
+                "Cancha": "DEPORTIVO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "13/08/2025 23:30",
                 "Local": "Cuadro Nacional C",
                 "GL": "",
                 "Visitante": "Banco Mza D",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A3",
-                "Cancha": "X",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "13/08/2025 22:15",
                 "Local": "Parque Nordico C",
                 "GL": "",
                 "Visitante": "Los Andes A",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A3",
-                "Cancha": "X",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "13/08/2025 21:00",
                 "Local": "Los Andes B",
                 "GL": "",
                 "Visitante": "El Porvenir",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A3",
-                "Cancha": "X",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }

@@ -3,74 +3,74 @@
         "Fecha": "Fecha 1",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "12/08/2025 23:30",
                 "Local": "Parque Nordico A",
                 "GL": "",
                 "Visitante": "Banco Mza A",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A1",
-                "Cancha": "X",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "15/08/2025 22:15",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Rincon Del Atuel",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A1",
-                "Cancha": "X",
+                "Cancha": "Maristas",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "15/08/2025 23:30",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Locos X El Futsal B",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A1",
-                "Cancha": "X",
+                "Cancha": "Maristas",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "15/08/2025 21:00",
                 "Local": "Los Legendarios A",
                 "GL": "",
                 "Visitante": "Los Gladiadores",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A1",
-                "Cancha": "X",
+                "Cancha": "Maristas",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "14/08/2025 21:00",
                 "Local": "Los Legendarios B",
                 "GL": "",
                 "Visitante": "Bachillerato",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A1",
-                "Cancha": "X",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "13/08/2025 22:15",
                 "Local": "CDA C",
                 "GL": "",
                 "Visitante": "Huracan A",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A1",
-                "Cancha": "X",
+                "Cancha": "TENIS",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }
@@ -80,7 +80,7 @@
         "Fecha": "Fecha 2",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "Banco Mza A",
@@ -92,7 +92,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Huracan A",
@@ -104,7 +104,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Rincon Del Atuel",
@@ -116,7 +116,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios A",
                 "GL": "",
                 "Visitante": "Locos X El Futsal B",
@@ -128,7 +128,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios B",
                 "GL": "",
                 "Visitante": "Los Gladiadores",
@@ -140,7 +140,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA C",
                 "GL": "",
                 "Visitante": "Parque Nordico A",
@@ -157,7 +157,7 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "Parque Nordico A",
@@ -169,7 +169,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Gladiadores",
                 "GL": "",
                 "Visitante": "Banco Mza A",
@@ -181,7 +181,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Huracan A",
@@ -193,7 +193,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios A",
                 "GL": "",
                 "Visitante": "Rincon Del Atuel",
@@ -205,7 +205,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios B",
                 "GL": "",
                 "Visitante": "Locos X El Futsal B",
@@ -217,7 +217,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA C",
                 "GL": "",
                 "Visitante": "Cuadro Nacional A",
@@ -234,7 +234,7 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Gladiadores",
                 "GL": "",
                 "Visitante": "Parque Nordico A",
@@ -246,7 +246,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal B",
                 "GL": "",
                 "Visitante": "Banco Mza A",
@@ -258,7 +258,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Cuadro Nacional A",
@@ -270,7 +270,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios A",
                 "GL": "",
                 "Visitante": "Huracan A",
@@ -282,7 +282,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios B",
                 "GL": "",
                 "Visitante": "Rincon Del Atuel",
@@ -294,7 +294,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA C",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -311,7 +311,7 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Gladiadores",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -323,7 +323,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal B",
                 "GL": "",
                 "Visitante": "Parque Nordico A",
@@ -335,7 +335,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Rincon Del Atuel",
                 "GL": "",
                 "Visitante": "Banco Mza A",
@@ -347,7 +347,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios A",
                 "GL": "",
                 "Visitante": "Cuadro Nacional A",
@@ -359,7 +359,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios B",
                 "GL": "",
                 "Visitante": "Huracan A",
@@ -371,7 +371,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA C",
                 "GL": "",
                 "Visitante": "Sosneado Futsal Club",
@@ -388,7 +388,7 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal B",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -400,7 +400,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Rincon Del Atuel",
                 "GL": "",
                 "Visitante": "Parque Nordico A",
@@ -412,7 +412,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Huracan A",
                 "GL": "",
                 "Visitante": "Banco Mza A",
@@ -424,7 +424,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios A",
                 "GL": "",
                 "Visitante": "Sosneado Futsal Club",
@@ -436,7 +436,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios B",
                 "GL": "",
                 "Visitante": "Cuadro Nacional A",
@@ -448,7 +448,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA C",
                 "GL": "",
                 "Visitante": "Los Gladiadores",
@@ -465,7 +465,7 @@
         "Fecha": "Fecha 7",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Locos X El Futsal B",
                 "GL": "",
                 "Visitante": "Los Gladiadores",
@@ -477,7 +477,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Rincon Del Atuel",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -489,7 +489,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Huracan A",
                 "GL": "",
                 "Visitante": "Parque Nordico A",
@@ -501,7 +501,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Banco Mza A",
@@ -513,7 +513,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios B",
                 "GL": "",
                 "Visitante": "Sosneado Futsal Club",
@@ -525,7 +525,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA C",
                 "GL": "",
                 "Visitante": "Los Legendarios A",
@@ -542,7 +542,7 @@
         "Fecha": "Fecha 8",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Rincon Del Atuel",
                 "GL": "",
                 "Visitante": "Los Gladiadores",
@@ -554,7 +554,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Huracan A",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -566,7 +566,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Parque Nordico A",
@@ -578,7 +578,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Banco Mza A",
@@ -590,7 +590,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios B",
                 "GL": "",
                 "Visitante": "Los Legendarios A",
@@ -602,7 +602,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA C",
                 "GL": "",
                 "Visitante": "Locos X El Futsal B",
@@ -619,7 +619,7 @@
         "Fecha": "Fecha 9",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Rincon Del Atuel",
                 "GL": "",
                 "Visitante": "Locos X El Futsal B",
@@ -631,7 +631,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Huracan A",
                 "GL": "",
                 "Visitante": "Los Gladiadores",
@@ -643,7 +643,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -655,7 +655,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Parque Nordico A",
@@ -667,7 +667,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios A",
                 "GL": "",
                 "Visitante": "Banco Mza A",
@@ -679,7 +679,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA C",
                 "GL": "",
                 "Visitante": "Los Legendarios B",
@@ -696,7 +696,7 @@
         "Fecha": "Fecha 10",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Huracan A",
                 "GL": "",
                 "Visitante": "Locos X El Futsal B",
@@ -708,7 +708,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Los Gladiadores",
@@ -720,7 +720,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -732,7 +732,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios A",
                 "GL": "",
                 "Visitante": "Parque Nordico A",
@@ -744,7 +744,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios B",
                 "GL": "",
                 "Visitante": "Banco Mza A",
@@ -756,7 +756,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA C",
                 "GL": "",
                 "Visitante": "Rincon Del Atuel",
@@ -773,7 +773,7 @@
         "Fecha": "Fecha 11",
         "Data": [
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Huracan A",
                 "GL": "",
                 "Visitante": "Rincon Del Atuel",
@@ -785,7 +785,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Locos X El Futsal B",
@@ -797,7 +797,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Los Gladiadores",
@@ -809,7 +809,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios A",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -821,7 +821,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "Los Legendarios B",
                 "GL": "",
                 "Visitante": "Parque Nordico A",
@@ -833,7 +833,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/07/2025 22:00",
+                "Fecha": "01/08/2025 22:00",
                 "Local": "CDA C",
                 "GL": "",
                 "Visitante": "Banco Mza A",
