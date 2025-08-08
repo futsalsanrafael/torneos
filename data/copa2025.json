@@ -483,9 +483,9 @@
             {
                 "Fecha": "07/08/2025 21:00",
                 "Local": "Los Andes B",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Parque Nordico A",
-                "GV": "",
+                "GV": "7",
                 "OBS": "",
                 "Zona": "ZONA 5",
                 "Cancha": "CIC (SOSNEADO)",
@@ -567,9 +567,9 @@
             {
                 "Fecha": "07/08/2025 22:15",
                 "Local": "Los Gladiadores",
-                "GL": "",
+                "GL": "8",
                 "Visitante": "Cuadro Nacional A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ZONA 8",
                 "Cancha": "CIC (SOSNEADO)",
