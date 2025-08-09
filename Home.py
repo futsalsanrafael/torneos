@@ -26,7 +26,7 @@ st.set_page_config(
 )
 
 st.sidebar.title("Futsal De Toque")
-st.markdown("# PARTIDOS DE HOY")
+st.markdown("## PARTIDOS DE HOY")
 
 # Detect mobile device
 is_mobile = st.query_params.get("mobile", ["false"])[0].lower() == "true" or (
