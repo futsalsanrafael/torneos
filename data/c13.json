@@ -5,89 +5,89 @@
             {
                 "Fecha": "09/08/2025 16:00",
                 "Local": "Bachillerato",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Amaral",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "C13",
                 "Cancha": "San Rafael Tenis Club Cancha 1",
-                "Arbitro 1": "",
+                "Arbitro 1": "Camila",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "09/08/2025 13:00",
                 "Local": "Tenis Azul",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Pedal A",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "C13",
                 "Cancha": "San Rafael Tenis Club Cancha 1",
-                "Arbitro 1": "",
+                "Arbitro 1": "Camila",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "09/08/2025 10:00",
                 "Local": "Utn",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Pedal",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "C13",
                 "Cancha": "Sportivo Pedal Club",
-                "Arbitro 1": "",
+                "Arbitro 1": "Luciano",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "09/08/2025 10:00",
                 "Local": "Cuadro Nacional",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Locos X El Futsal",
-                "GV": "",
+                "GV": "9",
                 "OBS": "",
                 "Zona": "C13",
                 "Cancha": "San Rafael Tenis Club Cancha 1",
-                "Arbitro 1": "",
+                "Arbitro 1": "Franco",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "09/08/2025 12:00",
                 "Local": "Pescadores",
-                "GL": "",
+                "GL": "8",
                 "Visitante": "CDA",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "C13",
                 "Cancha": "Sportivo Pedal Club",
-                "Arbitro 1": "",
+                "Arbitro 1": "Luciano",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "09/08/2025 13:00",
                 "Local": "Pescadores Rojo",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Banco Mza",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "C13",
                 "Cancha": "Sportivo Pedal Club",
-                "Arbitro 1": "",
+                "Arbitro 1": "Luciano",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "09/08/2025 14:00",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Bachillerato Blanco",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "C13",
                 "Cancha": "San Rafael Tenis Club Cancha 1",
-                "Arbitro 1": "",
+                "Arbitro 1": "Camila",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Tenis Verde",
                 "GL": "",
                 "Visitante": "",
@@ -104,7 +104,7 @@
         "Fecha": "Fecha 2",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Bachillerato Blanco",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -116,7 +116,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Azul",
                 "GL": "",
                 "Visitante": "Tenis Verde",
@@ -128,7 +128,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Pedal A",
@@ -140,7 +140,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -152,7 +152,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -164,7 +164,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "CDA",
@@ -176,7 +176,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -188,7 +188,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "",
@@ -205,7 +205,7 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Bachillerato Blanco",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -217,7 +217,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -229,7 +229,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Tenis Verde",
@@ -241,7 +241,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Pedal A",
@@ -253,7 +253,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -265,7 +265,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -277,7 +277,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "CDA",
@@ -289,7 +289,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Tenis Azul",
                 "GL": "",
                 "Visitante": "",
@@ -306,7 +306,7 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -318,7 +318,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "CDA",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -330,7 +330,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Tenis Azul",
@@ -342,7 +342,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Tenis Verde",
@@ -354,7 +354,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Pedal A",
@@ -366,7 +366,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -378,7 +378,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -390,7 +390,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Bachillerato Blanco",
                 "GL": "",
                 "Visitante": "",
@@ -407,7 +407,7 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "Bachillerato Blanco",
@@ -419,7 +419,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "CDA",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -431,7 +431,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -443,7 +443,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Tenis Azul",
@@ -455,7 +455,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Tenis Verde",
@@ -467,7 +467,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "Pedal A",
@@ -479,7 +479,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -491,7 +491,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "",
@@ -508,7 +508,7 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "CDA",
                 "GL": "",
                 "Visitante": "Bachillerato Blanco",
@@ -520,7 +520,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -532,7 +532,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -544,7 +544,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Utn",
@@ -556,7 +556,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Tenis Azul",
@@ -568,7 +568,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "Tenis Verde",
@@ -580,7 +580,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Pedal A",
@@ -592,7 +592,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "",
@@ -609,7 +609,7 @@
         "Fecha": "Fecha 7",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "CDA",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -621,7 +621,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal",
                 "GL": "",
                 "Visitante": "Bachillerato Blanco",
@@ -633,7 +633,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -645,7 +645,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -657,7 +657,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Utn",
@@ -669,7 +669,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "Tenis Azul",
@@ -681,7 +681,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Tenis Verde",
@@ -693,7 +693,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "",
@@ -710,7 +710,7 @@
         "Fecha": "Fecha 8",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -722,7 +722,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Bachillerato Blanco",
@@ -734,7 +734,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -746,7 +746,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Verde",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -758,7 +758,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Cuadro Nacional",
@@ -770,7 +770,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "Utn",
@@ -782,7 +782,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Tenis Azul",
@@ -794,7 +794,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "CDA",
                 "GL": "",
                 "Visitante": "",
@@ -811,7 +811,7 @@
         "Fecha": "Fecha 9",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal",
                 "GL": "",
                 "Visitante": "CDA",
@@ -823,7 +823,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -835,7 +835,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Bachillerato Blanco",
@@ -847,7 +847,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Verde",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -859,7 +859,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Azul",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -871,7 +871,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "Cuadro Nacional",
@@ -883,7 +883,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Utn",
@@ -895,7 +895,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "",
@@ -912,7 +912,7 @@
         "Fecha": "Fecha 10",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "CDA",
@@ -924,7 +924,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -936,7 +936,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Verde",
                 "GL": "",
                 "Visitante": "Bachillerato Blanco",
@@ -948,7 +948,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Azul",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -960,7 +960,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -972,7 +972,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "Pescadores",
@@ -984,7 +984,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Cuadro Nacional",
@@ -996,7 +996,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Locos X El Futsal",
                 "GL": "",
                 "Visitante": "",
@@ -1013,7 +1013,7 @@
         "Fecha": "Fecha 11",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -1025,7 +1025,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "CDA",
@@ -1037,7 +1037,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Verde",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -1049,7 +1049,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Azul",
                 "GL": "",
                 "Visitante": "Bachillerato Blanco",
@@ -1061,7 +1061,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -1073,7 +1073,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -1085,7 +1085,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Pescadores",
@@ -1097,7 +1097,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "",
@@ -1114,7 +1114,7 @@
         "Fecha": "Fecha 12",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -1126,7 +1126,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Verde",
                 "GL": "",
                 "Visitante": "CDA",
@@ -1138,7 +1138,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Azul",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -1150,7 +1150,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Bachillerato Blanco",
@@ -1162,7 +1162,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -1174,7 +1174,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -1186,7 +1186,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Pescadores Rojo",
@@ -1198,7 +1198,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "",
@@ -1215,7 +1215,7 @@
         "Fecha": "Fecha 13",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -1227,7 +1227,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Verde",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -1239,7 +1239,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Azul",
                 "GL": "",
                 "Visitante": "CDA",
@@ -1251,7 +1251,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -1263,7 +1263,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Bachillerato Blanco",
@@ -1275,7 +1275,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -1287,7 +1287,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -1299,7 +1299,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "",
@@ -1316,7 +1316,7 @@
         "Fecha": "Fecha 14",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Verde",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -1328,7 +1328,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Azul",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -1340,7 +1340,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "CDA",
@@ -1352,7 +1352,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -1364,7 +1364,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Bachillerato Blanco",
@@ -1376,7 +1376,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -1388,7 +1388,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -1400,7 +1400,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "",
@@ -1417,7 +1417,7 @@
         "Fecha": "Fecha 15",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Verde",
                 "GL": "",
                 "Visitante": "Pedal A",
@@ -1429,7 +1429,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis Azul",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -1441,7 +1441,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
@@ -1453,7 +1453,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "CDA",
@@ -1465,7 +1465,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -1477,7 +1477,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pescadores Rojo",
                 "GL": "",
                 "Visitante": "Bachillerato Blanco",
@@ -1489,7 +1489,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -1501,7 +1501,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Amaral",
                 "GL": "",
                 "Visitante": "",

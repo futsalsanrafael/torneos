@@ -5,59 +5,59 @@
             {
                 "Fecha": "09/08/2025 13:00",
                 "Local": "CDA B",
-                "GL": "",
+                "GL": "5",
                 "Visitante": "Banco Mza",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
-                "Zona": "",
+                "Zona": "C20 A2",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "09/08/2025 19:30",
                 "Local": "Los Gladiadores",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Pedal",
-                "GV": "",
+                "GV": "7",
                 "OBS": "",
-                "Zona": "",
+                "Zona": "C20 A2",
                 "Cancha": "Sportivo Pedal Club",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Enzo"
             },
             {
                 "Fecha": "09/08/2025 14:30",
                 "Local": "Los Legendarios",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Locos X El Futsal B",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
-                "Zona": "",
+                "Zona": "C20 A2",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "09/08/2025 17:30",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "8",
                 "Visitante": "Huracan",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
-                "Zona": "",
+                "Zona": "C20 A2",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Fernando"
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
@@ -68,61 +68,61 @@
         "Fecha": "Fecha 2",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Huracan",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Los Gladiadores",
                 "GL": "",
                 "Visitante": "Cuadro Nacional",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Los Legendarios",
                 "GL": "",
                 "Visitante": "Pedal",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Locos X El Futsal B",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "CDA B",
                 "GL": "",
                 "Visitante": "",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
@@ -133,61 +133,61 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Huracan",
                 "GL": "",
                 "Visitante": "CDA B",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal B",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Los Legendarios",
                 "GL": "",
                 "Visitante": "Cuadro Nacional",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Pedal",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Los Gladiadores",
                 "GL": "",
                 "Visitante": "",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
@@ -198,61 +198,61 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal B",
                 "GL": "",
                 "Visitante": "CDA B",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Los Legendarios",
                 "GL": "",
                 "Visitante": "Los Gladiadores",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Cuadro Nacional",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Huracan",
                 "GL": "",
                 "Visitante": "",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
@@ -263,19 +263,19 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal B",
                 "GL": "",
                 "Visitante": "Huracan",
                 "GV": "",
                 "OBS": "",
-                "Zona": "C20 A1",
+                "Zona": "C20 A2",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "CDA B",
@@ -287,7 +287,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -299,7 +299,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Los Gladiadores",
@@ -311,7 +311,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Los Legendarios",
                 "GL": "",
                 "Visitante": "",
@@ -328,7 +328,7 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Huracan",
@@ -340,7 +340,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "CDA B",
@@ -352,7 +352,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Los Gladiadores",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -364,7 +364,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Los Legendarios",
@@ -376,7 +376,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Locos X El Futsal B",
                 "GL": "",
                 "Visitante": "",
@@ -393,7 +393,7 @@
         "Fecha": "Fecha 7",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Locos X El Futsal B",
@@ -405,7 +405,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Huracan",
@@ -417,7 +417,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Los Gladiadores",
                 "GL": "",
                 "Visitante": "CDA B",
@@ -429,7 +429,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Los Legendarios",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -441,7 +441,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "",
@@ -458,7 +458,7 @@
         "Fecha": "Fecha 8",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Locos X El Futsal B",
@@ -470,7 +470,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Los Gladiadores",
                 "GL": "",
                 "Visitante": "Huracan",
@@ -482,7 +482,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Los Legendarios",
                 "GL": "",
                 "Visitante": "CDA B",
@@ -494,7 +494,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Banco Mza",
@@ -506,7 +506,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "",
@@ -523,7 +523,7 @@
         "Fecha": "Fecha 9",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -535,7 +535,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Los Gladiadores",
                 "GL": "",
                 "Visitante": "Locos X El Futsal B",
@@ -547,7 +547,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Los Legendarios",
                 "GL": "",
                 "Visitante": "Huracan",
@@ -559,7 +559,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "CDA B",
@@ -571,7 +571,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "",

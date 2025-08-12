@@ -11,8 +11,8 @@
                 "OBS": "",
                 "Zona": "SENIOR",
                 "Cancha": "CIU",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "07/08/2025 21:00",
@@ -23,8 +23,8 @@
                 "OBS": "",
                 "Zona": "SENIOR",
                 "Cancha": "CIU",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "06/08/2025 23:30",
@@ -35,8 +35,8 @@
                 "OBS": "",
                 "Zona": "SENIOR",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "COBALAN"
             },
             {
                 "Fecha": "07/08/2025 22:15",
@@ -47,11 +47,11 @@
                 "OBS": "",
                 "Zona": "SENIOR",
                 "Cancha": "CIU",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Luciano"
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "",
@@ -68,55 +68,55 @@
         "Fecha": "Fecha 2",
         "Data": [
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "15/08/2025 21:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "Amaral A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Senior",
-                "Cancha": "X",
+                "Zona": "SENIOR",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "11/08/2025 22:45",
                 "Local": "Utn",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Pedal",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
-                "Zona": "Senior",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Zona": "SENIOR",
+                "Cancha": "DEPORTIVO",
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Matias"
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "15/08/2025 23:30",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "CDA",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Senior",
-                "Cancha": "X",
+                "Zona": "SENIOR",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "15/08/2025 22:15",
                 "Local": "Los Legendarios",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Senior",
-                "Cancha": "X",
+                "Zona": "SENIOR",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Amaral B",
                 "GL": "",
                 "Visitante": "",
@@ -181,7 +181,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "",
@@ -246,7 +246,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "",
@@ -311,7 +311,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "",
@@ -376,7 +376,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "",
@@ -441,7 +441,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Los Legendarios",
                 "GL": "",
                 "Visitante": "",
@@ -506,7 +506,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "CDA",
                 "GL": "",
                 "Visitante": "",
@@ -571,7 +571,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 00:00",
+                "Fecha": "",
                 "Local": "Amaral A",
                 "GL": "",
                 "Visitante": "",

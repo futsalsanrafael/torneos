@@ -399,14 +399,14 @@
             {
                 "Fecha": "08/08/2025 21:00",
                 "Local": "Utn B",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Locos X El Futsal B",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "ZONA 1",
                 "Cancha": "CIU",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Enzo"
             },
             {
                 "Fecha": "04/08/2025 21:15",
@@ -417,7 +417,7 @@
                 "OBS": "",
                 "Zona": "ZONA 1",
                 "Cancha": "TENIS",
-                "Arbitro 1": "",
+                "Arbitro 1": "Franco",
                 "Arbitro 2": ""
             },
             {
@@ -429,8 +429,8 @@
                 "OBS": "",
                 "Zona": "ZONA 2",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Matias",
+                "Arbitro 2": "Franco"
             },
             {
                 "Fecha": "05/08/2025 21:30",
@@ -441,8 +441,8 @@
                 "OBS": "",
                 "Zona": "ZONA 2",
                 "Cancha": "PEDAL",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Fernando"
             },
             {
                 "Fecha": "04/08/2025 22:30",
@@ -453,6 +453,18 @@
                 "OBS": "",
                 "Zona": "ZONA 3",
                 "Cancha": "TENIS",
+                "Arbitro 1": "Franco",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "04/08/2025 22:15",
+                "Local": "Locos X El Futsal C",
+                "GL": "0",
+                "Visitante": "Amaral A",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "ZONA 3",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
@@ -465,20 +477,20 @@
                 "OBS": "",
                 "Zona": "ZONA 4",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
+                "Arbitro 1": "Fernando",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "08/08/2025 22:15",
                 "Local": "Los Legendarios A",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Utn C",
-                "GV": "",
+                "GV": "8",
                 "OBS": "",
                 "Zona": "ZONA 4",
                 "Cancha": "CIU",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Enzo"
             },
             {
                 "Fecha": "07/08/2025 21:00",
@@ -489,8 +501,8 @@
                 "OBS": "",
                 "Zona": "ZONA 5",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "05/08/2025 22:30",
@@ -501,8 +513,8 @@
                 "OBS": "",
                 "Zona": "ZONA 5",
                 "Cancha": "PESCADORES",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "05/08/2025 21:15",
@@ -513,8 +525,8 @@
                 "OBS": "",
                 "Zona": "ZONA 6",
                 "Cancha": "PESCADORES",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "04/08/2025 22:45",
@@ -525,20 +537,8 @@
                 "OBS": "",
                 "Zona": "ZONA 6",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "04/08/2025 22:45",
-                "Local": "Locos X El Futsal C",
-                "GL": "0",
-                "Visitante": "Amaral A",
-                "GV": "3",
-                "OBS": "",
-                "Zona": "ZONA 3",
-                "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Matias",
+                "Arbitro 2": "Franco"
             },
             {
                 "Fecha": "05/08/2025 21:30",
@@ -549,7 +549,7 @@
                 "OBS": "",
                 "Zona": "ZONA 7",
                 "Cancha": "HURACAN",
-                "Arbitro 1": "",
+                "Arbitro 1": "Agustin",
                 "Arbitro 2": ""
             },
             {
@@ -561,8 +561,8 @@
                 "OBS": "",
                 "Zona": "ZONA 7",
                 "Cancha": "PEDAL",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Fernando"
             },
             {
                 "Fecha": "07/08/2025 22:15",
@@ -573,8 +573,8 @@
                 "OBS": "",
                 "Zona": "ZONA 8",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "05/08/2025 22:45",
@@ -585,6 +585,107 @@
                 "OBS": "",
                 "Zona": "ZONA 8",
                 "Cancha": "HURACAN",
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 4",
+        "Data": [
+            {
+                "Fecha": "10/08/2025 22:00",
+                "Local": "Tenis A",
+                "GL": "",
+                "Visitante": "Sosneado Futsal Club",
+                "GV": "",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "XXX",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/08/2025 22:00",
+                "Local": "Pedal A",
+                "GL": "",
+                "Visitante": "Locos X El Futsal B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "xxx",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/08/2025 22:00",
+                "Local": "Utn C",
+                "GL": "",
+                "Visitante": "CDA A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "xxx",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/08/2025 22:00",
+                "Local": "Tenis C",
+                "GL": "",
+                "Visitante": "Locos X El Futsal A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "xxx",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/08/2025 22:00",
+                "Local": "Bachillerato",
+                "GL": "",
+                "Visitante": "Parque Nordico A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "xxx",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/08/2025 22:00",
+                "Local": "Amaral A",
+                "GL": "",
+                "Visitante": "CDA B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "xxx",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/08/2025 22:00",
+                "Local": "Los Gladiadores",
+                "GL": "",
+                "Visitante": "Utn A",
+                "GV": "",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "xxx",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "10/08/2025 22:00",
+                "Local": "Parque Nordico B",
+                "GL": "",
+                "Visitante": "Tenis B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "",
+                "Cancha": "xxx",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }

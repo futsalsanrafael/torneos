@@ -149,7 +149,7 @@ with tab1:
 
     df = process_fixtures_a3(data, category="A3")
     if df['Fecha'].isna().any():
-        st.warning(f"Rows with invalid dates: {df[df['Fecha'].isna()][['Fecha Numero', 'Local', 'Visitante']].to_dict('records')}")
+        logger.warning(f"Rows with invalid dates: {df[df['Fecha'].isna()][['Fecha Numero', 'Local', 'Visitante']].to_dict('records')}")
 
     columns = ['Fecha', 'Local_Logo', 'Local', 'GL', 'Visitante_Logo', 'Visitante', 'GV', 'Cancha']
     page_size = 5 if is_mobile else 10

@@ -5,50 +5,50 @@
             {
                 "Fecha": "09/08/2025 19:00",
                 "Local": "Bachillerato",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Amaral",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Fernando"
             },
             {
-                "Fecha": "09/08/2025 20:00",
+                "Fecha": "09/08/2025 15:00",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Locos X El Futsal A",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "C20 A1",
-                "Cancha": "San Rafael Tenis Club Cancha 1",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Cancha": "Sportivo Pedal Club",
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Enzo"
             },
             {
                 "Fecha": "09/08/2025 16:00",
                 "Local": "Tenis B",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "CDA A",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Fernando"
             },
             {
                 "Fecha": "09/08/2025 11:30",
                 "Local": "Utn",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Parque Nordico",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             }
         ]
     },
@@ -56,7 +56,7 @@
         "Fecha": "Fecha 2",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -68,7 +68,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis A",
                 "GL": "",
                 "Visitante": "Parque Nordico",
@@ -80,7 +80,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Locos X El Futsal A",
@@ -92,7 +92,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -109,7 +109,7 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -121,7 +121,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -133,7 +133,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Parque Nordico",
@@ -145,7 +145,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -162,7 +162,7 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -174,7 +174,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Parque Nordico",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -186,7 +186,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -198,7 +198,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "CDA A",
@@ -215,7 +215,7 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "CDA A",
@@ -227,7 +227,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Parque Nordico",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -239,7 +239,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis A",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -251,7 +251,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Tenis B",
@@ -268,7 +268,7 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Parque Nordico",
                 "GL": "",
                 "Visitante": "CDA A",
@@ -280,7 +280,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis A",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -292,7 +292,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -304,7 +304,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Locos X El Futsal A",
@@ -321,7 +321,7 @@
         "Fecha": "Fecha 7",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Parque Nordico",
                 "GL": "",
                 "Visitante": "Locos X El Futsal A",
@@ -333,7 +333,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis A",
                 "GL": "",
                 "Visitante": "CDA A",
@@ -345,7 +345,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -357,7 +357,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -374,7 +374,7 @@
         "Fecha": "Fecha 8",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Amaral",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -386,7 +386,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -398,7 +398,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Tenis B",
@@ -410,7 +410,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Parque Nordico",
                 "GL": "",
                 "Visitante": "Utn",
@@ -427,7 +427,7 @@
         "Fecha": "Fecha 9",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Amaral",
                 "GL": "",
                 "Visitante": "CDA A",
@@ -439,7 +439,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Parque Nordico",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -451,7 +451,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Tenis B",
@@ -463,7 +463,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "Utn",
@@ -480,7 +480,7 @@
         "Fecha": "Fecha 10",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "CDA A",
@@ -492,7 +492,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Amaral",
                 "GL": "",
                 "Visitante": "Locos X El Futsal A",
@@ -504,7 +504,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Parque Nordico",
                 "GL": "",
                 "Visitante": "Tenis B",
@@ -516,7 +516,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis A",
                 "GL": "",
                 "Visitante": "Utn",
@@ -533,7 +533,7 @@
         "Fecha": "Fecha 11",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "Locos X El Futsal A",
@@ -545,7 +545,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Amaral",
                 "GL": "",
                 "Visitante": "Parque Nordico",
@@ -557,7 +557,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis A",
                 "GL": "",
                 "Visitante": "Tenis B",
@@ -569,7 +569,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Utn",
@@ -586,7 +586,7 @@
         "Fecha": "Fecha 12",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Locos X El Futsal A",
@@ -598,7 +598,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "Parque Nordico",
@@ -610,7 +610,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Amaral",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -622,7 +622,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Utn",
@@ -639,7 +639,7 @@
         "Fecha": "Fecha 13",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Parque Nordico",
@@ -651,7 +651,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -663,7 +663,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Amaral",
                 "GL": "",
                 "Visitante": "Tenis B",
@@ -675,7 +675,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Utn",
@@ -692,7 +692,7 @@
         "Fecha": "Fecha 14",
         "Data": [
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Parque Nordico",
@@ -704,7 +704,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -716,7 +716,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Bachillerato",
                 "GL": "",
                 "Visitante": "Tenis B",
@@ -728,7 +728,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "08/08/2025 09:00",
+                "Fecha": "09/08/2025 09:00",
                 "Local": "Amaral",
                 "GL": "",
                 "Visitante": "Utn",
