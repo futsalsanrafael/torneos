@@ -80,31 +80,31 @@
         "Fecha": "Fecha 2",
         "Data": [
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "16/08/2025 17:00",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C17",
-                "Cancha": "X",
+                "Cancha": "Deportivo Argentino",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "16/08/2025 17:30",
                 "Local": "Tenis A",
                 "GL": "",
                 "Visitante": "Pedal A",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C17",
-                "Cancha": "X",
+                "Cancha": "San Rafael Tenis Club C1",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -116,38 +116,38 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "16/08/2025 11:30",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Locos X El Futsal",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C17",
-                "Cancha": "X",
+                "Cancha": "CIC (Centro integrador Comunitario)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "16/08/2025 15:30",
                 "Local": "CPD Aguilas Futsal",
                 "GL": "",
                 "Visitante": "CDA",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C17",
-                "Cancha": "X",
+                "Cancha": "Deportivo Argentino",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "16/08/2025 17:30",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Bachillerato",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C17",
-                "Cancha": "X",
+                "Cancha": "CIC (Centro integrador Comunitario)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }

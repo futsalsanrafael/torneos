@@ -118,38 +118,38 @@
             {
                 "Fecha": "12/08/2025 22:15",
                 "Local": "Cuadro Nacional B",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Parque Nordico",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Franco"
             },
             {
                 "Fecha": "12/08/2025 21:00",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Locos X El Futsal",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "PESCADORES",
-                "Arbitro 1": "",
+                "Arbitro 1": "Enzo",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "12/08/2025 21:30",
                 "Local": "Banco Mza",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "El Porvenir",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "HURACAN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Camila"
             }
         ]
     },

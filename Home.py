@@ -21,10 +21,11 @@ logger = logging.getLogger(__name__)
 # Set page configuration
 st.set_page_config(
     page_title="Futsal De Toque",
-    page_icon=":material/sports_soccer:",
+    page_icon="images/favicon.jpg",
     layout="wide"
 )
 
+st.logo("images/favicon.jpg")
 st.sidebar.title("Futsal De Toque")
 st.markdown("## PARTIDOS DE HOY")
 
