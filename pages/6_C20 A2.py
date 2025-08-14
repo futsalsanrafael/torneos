@@ -17,10 +17,12 @@ logger = logging.getLogger(__name__)
 
 # Set page configuration
 st.set_page_config(
-    page_title="Futsal De Toque - C20 A2",
-    page_icon=":material/sports_soccer:",
+    page_title="Futsal De Toque",
+    page_icon="images/favicon.jpg",
     layout="wide"
 )
+
+st.logo("images/round.png")
 st.markdown("# C20 A2")
 st.sidebar.markdown("# Futsal De Toque")
 

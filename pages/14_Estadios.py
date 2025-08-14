@@ -7,10 +7,12 @@ from streamlit.components.v1 import html
 
 # Set page configuration
 st.set_page_config(
-    page_title="Futsal De Toque - Estadios",
-    page_icon=":material/sports_soccer:",
+    page_title="Futsal De Toque",
+    page_icon="images/favicon.jpg",
     layout="wide"
 )
+
+st.logo("images/round.png")
 st.markdown("# Estadios")
 st.sidebar.markdown("# Futsal De Toque")
 
