@@ -65,14 +65,14 @@
             {
                 "Fecha": "13/08/2025 22:15",
                 "Local": "CDA C",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Huracan A",
-                "GV": "",
+                "GV": "5",
                 "OBS": "",
                 "Zona": "A1",
                 "Cancha": "TENIS",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Fernando"
             }
         ]
     },

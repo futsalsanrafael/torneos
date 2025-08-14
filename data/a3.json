@@ -5,49 +5,49 @@
             {
                 "Fecha": "13/08/2025 21:00",
                 "Local": "Huracan C",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Banco Mza C",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "A3",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "13/08/2025 23:30",
                 "Local": "Cuadro Nacional C",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Banco Mza D",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A3",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
+                "Arbitro 1": "Agustin",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "13/08/2025 22:15",
                 "Local": "Parque Nordico C",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Los Andes A",
-                "GV": "",
+                "GV": "7",
                 "OBS": "",
                 "Zona": "A3",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
+                "Arbitro 1": "Agustin",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "13/08/2025 21:00",
                 "Local": "Los Andes B",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "El Porvenir",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "A3",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
+                "Arbitro 1": "Agustin",
                 "Arbitro 2": ""
             }
         ]
