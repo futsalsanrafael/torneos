@@ -11,7 +11,9 @@ style="normal"
 weight=700
 
 [theme]
-font="Montserrat, sans-serif"
 base="light"
-primaryColor="#1a47ec"
+primaryColor="#4c9272"
+backgroundColor="#c6dad1"
+secondaryBackgroundColor="#e9f9f1"
+
 
