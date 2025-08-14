@@ -13,3 +13,5 @@ weight=700
 [theme]
 base="dark"
 primaryColor="#ff6767"
+baseFontSize=20
+codeFontSize="1rem"
