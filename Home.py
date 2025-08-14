@@ -25,7 +25,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.logo("images/favicon.jpg")
+st.logo("images/round.png")
 st.sidebar.title("Futsal De Toque")
 st.markdown("## PARTIDOS DE HOY")
 
