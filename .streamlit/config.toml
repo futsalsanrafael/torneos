@@ -11,7 +11,5 @@ style="normal"
 weight=700
 
 [theme]
-base="light"
-primaryColor="#4c9272"
-backgroundColor="#c6dad1"
-secondaryBackgroundColor="#e9f9f1"
+base="dark"
+primaryColor="#ff6767"
