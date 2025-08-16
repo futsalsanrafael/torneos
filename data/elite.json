@@ -41,25 +41,25 @@
             {
                 "Fecha": "14/08/2025 22:15",
                 "Local": "Tenis C",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Utn C",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
+                "Arbitro 1": "Fernando",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "14/08/2025 22:15",
                 "Local": "Pedal A",
-                "GL": "",
+                "GL": "6",
                 "Visitante": "Locos X El Futsal A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "PEDAL",
-                "Arbitro 1": "",
+                "Arbitro 1": "Marcos",
                 "Arbitro 2": ""
             }
         ]
