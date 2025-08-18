@@ -5,14 +5,14 @@
             {
                 "Fecha": "15/08/2025 21:00",
                 "Local": "Amaral C",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Huracan B",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "A2",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "12/08/2025 22:15",
@@ -29,14 +29,14 @@
             {
                 "Fecha": "15/08/2025 22:15",
                 "Local": "Cuadro Nacional B",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "San Luis",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A2",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "14/08/2025 23:30",
@@ -53,14 +53,14 @@
             {
                 "Fecha": "15/08/2025 23:30",
                 "Local": "CPD Aguilas Futsal",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Banco Mza B",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "A2",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Joaquin"
             }
         ]
     },

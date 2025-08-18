@@ -5,14 +5,14 @@
             {
                 "Fecha": "15/08/2025 22:15",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Amaral A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Matias"
             },
             {
                 "Fecha": "12/08/2025 21:00",
@@ -29,14 +29,14 @@
             {
                 "Fecha": "15/08/2025 21:00",
                 "Local": "CDA B",
-                "GL": "",
+                "GL": "8",
                 "Visitante": "CDA A",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Matias"
             },
             {
                 "Fecha": "14/08/2025 22:15",
