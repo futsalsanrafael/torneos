@@ -135,26 +135,26 @@
             {
                 "Fecha": "18/08/2025 21:00",
                 "Local": "Bachillerato",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Amaral B",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "SENIOR",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "18/08/2025 22:15",
                 "Local": "Banco Mza",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Amaral A",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "SENIOR",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "19/08/2025 22:15",
