@@ -157,19 +157,19 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "",
+                "Fecha": "23/08/2025 10:30",
                 "Local": "Banco Mza",
                 "GL": "",
                 "Visitante": "Bachillerato",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C17",
-                "Cancha": "San Rafael Tenis Club C1",
+                "Cancha": "Huracan",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "",
+                "Fecha": "23/08/2025 15:00",
                 "Local": "CDA",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -181,7 +181,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "",
+                "Fecha": "23/08/2025 09:00",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Pedal A",
@@ -193,7 +193,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "",
+                "Fecha": "23/08/2025 13:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Pedal",
@@ -217,7 +217,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "",
+                "Fecha": "23/08/2025 17:30",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Tenis A",

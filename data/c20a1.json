@@ -109,7 +109,7 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "",
+                "Fecha": "23/08/2025 16:30",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -121,7 +121,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "",
+                "Fecha": "23/08/2025 14:30",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Amaral",
@@ -133,19 +133,19 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "",
+                "Fecha": "23/08/2025 19:30",
                 "Local": "Tenis B",
                 "GL": "",
                 "Visitante": "Parque Nordico",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C20 A1",
-                "Cancha": "CIU UTN",
+                "Cancha": "San Rafael Tenis Club C1",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "",
+                "Fecha": "23/08/2025 19:00",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Tenis A",
