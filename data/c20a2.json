@@ -70,49 +70,49 @@
             {
                 "Fecha": "16/08/2025 14:30",
                 "Local": "Huracan",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Banco Mza",
-                "GV": "",
+                "GV": "9",
                 "OBS": "",
                 "Zona": "C20 A2",
                 "Cancha": "CIC (Centro integrador Comunitario)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Luciano",
+                "Arbitro 2": "Camila"
             },
             {
                 "Fecha": "16/08/2025 16:00",
                 "Local": "Los Gladiadores",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Cuadro Nacional",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "C20 A2",
                 "Cancha": "CIC (Centro integrador Comunitario)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Luciano",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "16/08/2025 16:00",
                 "Local": "Los Legendarios",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Pedal",
-                "GV": "",
+                "GV": "7",
                 "OBS": "",
                 "Zona": "C20 A2",
                 "Cancha": "San Rafael Tenis Club C1",
-                "Arbitro 1": "",
+                "Arbitro 1": "Fernando",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "16/08/2025 13:00",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Locos X El Futsal B",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "C20 A2",
                 "Cancha": "CIC (Centro integrador Comunitario)",
-                "Arbitro 1": "",
+                "Arbitro 1": "Franco",
                 "Arbitro 2": ""
             },
             {
@@ -133,7 +133,7 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "23/08/2025 12:00",
+                "Fecha": "23/08/2025 13:30",
                 "Local": "Huracan",
                 "GL": "",
                 "Visitante": "CDA B",
@@ -157,7 +157,7 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "23/08/2025 13:30",
+                "Fecha": "23/08/2025 15:00",
                 "Local": "Los Legendarios",
                 "GL": "",
                 "Visitante": "Cuadro Nacional",
