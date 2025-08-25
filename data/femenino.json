@@ -157,48 +157,48 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "21/08/2025 21:00",
+                "Fecha": "",
                 "Local": "CDA",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
-                "OBS": "",
+                "OBS": "suspendido al 1.34 minutos del primer tiempo",
                 "Zona": "FEMENINO",
                 "Cancha": "PESCADORES",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "21/08/2025 22:15",
+                "Fecha": "",
                 "Local": "Locos X El Futsal",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",
-                "OBS": "",
+                "OBS": "suspendido por viento",
                 "Zona": "FEMENINO",
                 "Cancha": "PESCADORES",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "22/08/2025 21:00",
+                "Fecha": "",
                 "Local": "Cuadro Nacional A",
                 "GL": "",
                 "Visitante": "Utn",
                 "GV": "",
-                "OBS": "",
+                "OBS": "suspendido por viento",
                 "Zona": "FEMENINO",
                 "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "21/08/2025 22:15",
+                "Fecha": "",
                 "Local": "Cuadro Nacional B",
                 "GL": "",
                 "Visitante": "Pedal",
                 "GV": "",
-                "OBS": "",
+                "OBS": "suspendido por viento",
                 "Zona": "FEMENINO",
                 "Cancha": "DEPORTIVO",
                 "Arbitro 1": "",
@@ -207,26 +207,26 @@
             {
                 "Fecha": "22/08/2025 22:15",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Parque Nordico",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "Maristas",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Matias"
             },
             {
                 "Fecha": "22/08/2025 21:00",
                 "Local": "Tenis",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "El Porvenir",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "Maristas",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Matias"
             }
         ]
     },

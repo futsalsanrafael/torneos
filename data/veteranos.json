@@ -147,26 +147,26 @@
             {
                 "Fecha": "20/08/2025 22:15",
                 "Local": "CDA",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Amaral",
-                "GV": "",
+                "GV": "7",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "21/08/2025 21:00",
                 "Local": "Cuadro Nacional",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Los Andes",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Franco"
             },
             {
                 "Fecha": "19/08/2025 22:45",
@@ -181,12 +181,12 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "22/08/2025 22:15",
+                "Fecha": "",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Utn",
                 "GV": "",
-                "OBS": "",
+                "OBS": "suspendido por viento",
                 "Zona": "VETERANO",
                 "Cancha": "CIU UTN",
                 "Arbitro 1": "",
