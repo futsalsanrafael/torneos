@@ -591,7 +591,7 @@
         ]
     },
     {
-        "Fecha": "Octavos de Final",
+        "Fecha": "Fecha 4",
         "Data": [
             {
                 "Fecha": "20/08/2025 21:30",
@@ -678,21 +678,21 @@
                 "Arbitro 2": "Fernando"
             },
             {
-                "Fecha": "",
+                "Fecha": "31/08/2025 19:30",
                 "Local": "Parque Nordico B",
                 "GL": "",
                 "Visitante": "Tenis B",
                 "GV": "",
-                "OBS": "suspendido por viento",
+                "OBS": "",
                 "Zona": "",
-                "Cancha": "CIU UTN",
+                "Cancha": "PESCADORES",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }
         ]
     },
     {
-        "Fecha": "Cuartos de Final",
+        "Fecha": "Fecha 5",
         "Data": [
             {
                 "Fecha": "",
@@ -736,7 +736,7 @@
                 "GL": "",
                 "Visitante": "",
                 "GV": "",
-                "OBS": "Parque B Vs Tenis B",
+                "OBS": "Juega con el ganador de Parque B Vs Tenis B",
                 "Zona": "",
                 "Cancha": "A definir",
                 "Arbitro 1": "",

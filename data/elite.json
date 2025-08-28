@@ -82,14 +82,14 @@
             {
                 "Fecha": "25/08/2025 21:00",
                 "Local": "Tenis B",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Locos X El Futsal A",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "TENIS",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "28/08/2025 21:00",
@@ -106,14 +106,14 @@
             {
                 "Fecha": "25/08/2025 22:15",
                 "Local": "Tenis C",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "CDA A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "TENIS",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "29/08/2025 21:00",
