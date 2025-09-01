@@ -70,14 +70,14 @@
             {
                 "Fecha": "28/08/2025 21:00",
                 "Local": "Utn C",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Amaral A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "PEDAL",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Fernando"
             },
             {
                 "Fecha": "25/08/2025 21:00",
@@ -94,14 +94,14 @@
             {
                 "Fecha": "28/08/2025 21:00",
                 "Local": "CDA B",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Utn A",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Camila"
             },
             {
                 "Fecha": "25/08/2025 22:15",
@@ -118,13 +118,13 @@
             {
                 "Fecha": "29/08/2025 21:00",
                 "Local": "Pedal A",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Tenis A",
-                "GV": "",
+                "GV": "5",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
+                "Arbitro 1": "Fernando",
                 "Arbitro 2": ""
             }
         ]
@@ -133,62 +133,62 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "02/09/2025 22:15",
                 "Local": "Utn C",
                 "GL": "",
                 "Visitante": "Tenis A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Elite",
-                "Cancha": "X",
+                "Zona": "ELITE",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "05/09/2025 22:15",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Amaral A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Elite",
-                "Cancha": "X",
+                "Zona": "ELITE",
+                "Cancha": "Maristas",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "02/09/2025 21:00",
                 "Local": "CDA B",
                 "GL": "",
                 "Visitante": "Locos X El Futsal A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Elite",
-                "Cancha": "X",
+                "Zona": "ELITE",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "04/09/2025 22:15",
                 "Local": "Tenis C",
                 "GL": "",
                 "Visitante": "Utn A",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Elite",
-                "Cancha": "X",
+                "Zona": "ELITE",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "04/09/2025 22:15",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Tenis B",
                 "GV": "",
                 "OBS": "",
-                "Zona": "Elite",
-                "Cancha": "X",
+                "Zona": "ELITE",
+                "Cancha": "PEDAL",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }
