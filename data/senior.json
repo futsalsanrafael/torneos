@@ -265,50 +265,50 @@
             {
                 "Fecha": "01/09/2025 22:15",
                 "Local": "Banco Mza",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "SENIOR",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Matias"
             },
             {
                 "Fecha": "01/09/2025 23:30",
                 "Local": "CDA",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Amaral B",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "SENIOR",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Matias"
             },
             {
                 "Fecha": "01/09/2025 21:00",
                 "Local": "Pedal",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Amaral A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "SENIOR",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Matias"
             },
             {
                 "Fecha": "02/09/2025 23:30",
                 "Local": "Los Legendarios",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Utn",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "SENIOR",
                 "Cancha": "HURACAN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "COBALAN"
             },
             {
                 "Fecha": "",

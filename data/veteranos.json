@@ -265,26 +265,26 @@
             {
                 "Fecha": "02/09/2025 23:30",
                 "Local": "CDA",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Banco Mza",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Franco"
             },
             {
                 "Fecha": "02/09/2025 21:00",
                 "Local": "Huracan",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "HURACAN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "COBALAN"
             },
             {
                 "Fecha": "04/09/2025 21:00",

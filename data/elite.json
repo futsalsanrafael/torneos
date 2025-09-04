@@ -135,14 +135,14 @@
             {
                 "Fecha": "02/09/2025 22:15",
                 "Local": "Utn C",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Tenis A",
-                "GV": "",
+                "GV": "5",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Franco"
             },
             {
                 "Fecha": "05/09/2025 22:15",
@@ -159,14 +159,14 @@
             {
                 "Fecha": "02/09/2025 21:00",
                 "Local": "CDA B",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Locos X El Futsal A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Franco"
             },
             {
                 "Fecha": "04/09/2025 22:15",
