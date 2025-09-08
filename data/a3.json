@@ -111,49 +111,49 @@
             {
                 "Fecha": "05/09/2025 23:30",
                 "Local": "Los Andes A",
-                "GL": "",
+                "GL": "16",
                 "Visitante": "Huracan C",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "A3",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "05/09/2025 22:15",
                 "Local": "Banco Mza D",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Banco Mza C",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "A3",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
+                "Arbitro 1": "Marcos",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "05/09/2025 23:30",
                 "Local": "Parque Nordico C",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "El Porvenir",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "A3",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
+                "Arbitro 1": "Marcos",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "05/09/2025 22:15",
                 "Local": "Los Andes B",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Cuadro Nacional C",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "A3",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
+                "Arbitro 1": "Joaquin",
                 "Arbitro 2": ""
             }
         ]

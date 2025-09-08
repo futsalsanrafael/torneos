@@ -159,26 +159,26 @@
             {
                 "Fecha": "05/09/2025 21:00",
                 "Local": "Bachillerato",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Parque Nordico A",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "A1",
                 "Cancha": "Maristas",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Matias"
             },
             {
                 "Fecha": "04/09/2025 22:15",
                 "Local": "Los Gladiadores",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Banco Mza A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A1",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Fernando"
             },
             {
                 "Fecha": "02/09/2025 22:15",
@@ -195,37 +195,37 @@
             {
                 "Fecha": "04/09/2025 23:30",
                 "Local": "Los Legendarios A",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Rincon Del Atuel",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "A1",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Fernando"
             },
             {
                 "Fecha": "04/09/2025 23:30",
                 "Local": "Los Legendarios B",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Locos X El Futsal B",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "A1",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
+                "Arbitro 1": "Franco",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "04/09/2025 22:15",
                 "Local": "CDA C",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Cuadro Nacional A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "A1",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
+                "Arbitro 1": "Franco",
                 "Arbitro 2": ""
             }
         ]

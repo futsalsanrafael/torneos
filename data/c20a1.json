@@ -176,14 +176,14 @@
             {
                 "Fecha": "30/08/2025 15:30",
                 "Local": "Parque Nordico",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Amaral",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "Huracan",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Camila"
             },
             {
                 "Fecha": "02/09/2025 21:00",
@@ -200,14 +200,14 @@
             {
                 "Fecha": "30/08/2025 17:00",
                 "Local": "Utn",
-                "GL": "",
+                "GL": "5",
                 "Visitante": "CDA A",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "Polideportivo N2",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Marcos"
             }
         ]
     },

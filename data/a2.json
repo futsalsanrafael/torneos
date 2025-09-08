@@ -135,30 +135,107 @@
             {
                 "Fecha": "03/09/2025 22:45",
                 "Local": "Tenis D",
+                "GL": "2",
+                "Visitante": "Amaral C",
+                "GV": "4",
+                "OBS": "",
+                "Zona": "A2",
+                "Cancha": "TENIS",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
+            },
+            {
+                "Fecha": "05/09/2025 23:30",
+                "Local": "San Luis",
+                "GL": "4",
+                "Visitante": "Huracan B",
+                "GV": "3",
+                "OBS": "",
+                "Zona": "A2",
+                "Cancha": "Maristas",
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Matias"
+            },
+            {
+                "Fecha": "05/09/2025 21:00",
+                "Local": "Cuadro Nacional B",
+                "GL": "3",
+                "Visitante": "Banco Mza B",
+                "GV": "5",
+                "OBS": "",
+                "Zona": "A2",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Joaquin"
+            },
+            {
+                "Fecha": "04/09/2025 22:15",
+                "Local": "Utn B",
+                "GL": "2",
+                "Visitante": "Pescadores",
+                "GV": "1",
+                "OBS": "",
+                "Zona": "A2",
+                "Cancha": "PESCADORES",
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Camila"
+            },
+            {
+                "Fecha": "05/09/2025 21:00",
+                "Local": "CPD Aguilas Futsal",
+                "GL": "2",
+                "Visitante": "Parque Nordico B",
+                "GV": "5",
+                "OBS": "",
+                "Zona": "A2",
+                "Cancha": "CIC (SOSNEADO)",
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": ""
+            }
+        ]
+    },
+    {
+        "Fecha": "Fecha 4",
+        "Data": [
+            {
+                "Fecha": "11/09/2025 21:00",
+                "Local": "San Luis",
                 "GL": "",
                 "Visitante": "Amaral C",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A2",
-                "Cancha": "TENIS",
+                "Cancha": "PESCADORES",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "05/09/2025 23:30",
-                "Local": "San Luis",
+                "Fecha": "11/09/2025 22:15",
+                "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Huracan B",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A2",
-                "Cancha": "Maristas",
+                "Cancha": "PESCADORES",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "05/09/2025 21:00",
+                "Fecha": "12/09/2025 21:00",
                 "Local": "Cuadro Nacional B",
+                "GL": "",
+                "Visitante": "Parque Nordico B",
+                "GV": "",
+                "OBS": "",
+                "Zona": "A2",
+                "Cancha": "CIU UTN",
+                "Arbitro 1": "",
+                "Arbitro 2": ""
+            },
+            {
+                "Fecha": "12/09/2025 22:15",
+                "Local": "Utn B",
                 "GL": "",
                 "Visitante": "Banco Mza B",
                 "GV": "",
@@ -169,91 +246,14 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "04/09/2025 22:15",
-                "Local": "Utn B",
-                "GL": "",
-                "Visitante": "Pescadores",
-                "GV": "",
-                "OBS": "",
-                "Zona": "A2",
-                "Cancha": "PESCADORES",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "05/09/2025 21:00",
-                "Local": "CPD Aguilas Futsal",
-                "GL": "",
-                "Visitante": "Parque Nordico B",
-                "GV": "",
-                "OBS": "",
-                "Zona": "A2",
-                "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            }
-        ]
-    },
-    {
-        "Fecha": "Fecha 4",
-        "Data": [
-            {
-                "Fecha": "01/08/2025 22:00",
-                "Local": "San Luis",
-                "GL": "",
-                "Visitante": "Amaral C",
-                "GV": "",
-                "OBS": "",
-                "Zona": "A2",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "01/08/2025 22:00",
-                "Local": "Pescadores",
-                "GL": "",
-                "Visitante": "Huracan B",
-                "GV": "",
-                "OBS": "",
-                "Zona": "A2",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "01/08/2025 22:00",
-                "Local": "Cuadro Nacional B",
-                "GL": "",
-                "Visitante": "Parque Nordico B",
-                "GV": "",
-                "OBS": "",
-                "Zona": "A2",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "01/08/2025 22:00",
-                "Local": "Utn B",
-                "GL": "",
-                "Visitante": "Banco Mza B",
-                "GV": "",
-                "OBS": "",
-                "Zona": "A2",
-                "Cancha": "X",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
-            },
-            {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "12/09/2025 23:30",
                 "Local": "CPD Aguilas Futsal",
                 "GL": "",
                 "Visitante": "Tenis D",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A2",
-                "Cancha": "X",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }

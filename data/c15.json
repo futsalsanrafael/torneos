@@ -272,9 +272,9 @@
             {
                 "Fecha": "30/08/2025 14:00",
                 "Local": "CDA",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "9",
                 "OBS": "",
                 "Zona": "C15",
                 "Cancha": "Huracan",
@@ -284,45 +284,45 @@
             {
                 "Fecha": "30/08/2025 14:00",
                 "Local": "Locos X El Futsal A",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Amaral",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "C15",
                 "Cancha": "Polideportivo n2",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "30/08/2025 10:00",
                 "Local": "Tenis Verde",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Tenis Blanco",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "C15",
                 "Cancha": "Polideportivo n2",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "30/08/2025 12:00",
                 "Local": "Utn",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Tenis Azul",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "C15",
                 "Cancha": "Polideportivo n2",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "30/08/2025 13:00",
                 "Local": "CPD Aguilas Futsal",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Pedal",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "C15",
                 "Cancha": "Huracan",
@@ -332,14 +332,14 @@
             {
                 "Fecha": "30/08/2025 15:00",
                 "Local": "Pescadores",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Locos X El Futsal B",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "C15",
                 "Cancha": "Polideportivo n2",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "",

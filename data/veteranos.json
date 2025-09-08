@@ -198,62 +198,62 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "31/08/2025 18:00",
+                "Fecha": "11/09/2025 22:15",
                 "Local": "CDA",
                 "GL": "",
                 "Visitante": "Bachillerato",
                 "GV": "",
                 "OBS": "",
                 "Zona": "VETERANO",
-                "Cancha": "DEPORTIVO",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/08/2025 19:30",
+                "Fecha": "12/09/2025 21:00",
                 "Local": "Huracan",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",
                 "OBS": "",
                 "Zona": "VETERANO",
-                "Cancha": "DEPORTIVO",
+                "Cancha": "Maristas",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/08/2025 18:00",
+                "Fecha": "08/09/2025 22:15",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "Utn",
                 "GV": "",
                 "OBS": "",
                 "Zona": "VETERANO",
-                "Cancha": "CIU UTN",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/08/2025 21:00",
+                "Fecha": "12/09/2025 22:15",
                 "Local": "Los Legendarios",
                 "GL": "",
                 "Visitante": "Los Andes",
                 "GV": "",
                 "OBS": "",
                 "Zona": "VETERANO",
-                "Cancha": "DEPORTIVO",
+                "Cancha": "Maristas",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/08/2025 19:30",
+                "Fecha": "08/09/2025 21:00",
                 "Local": "Sosneado Futsal Club",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
                 "OBS": "",
                 "Zona": "VETERANO",
-                "Cancha": "CIU UTN",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }
@@ -289,38 +289,38 @@
             {
                 "Fecha": "04/09/2025 21:00",
                 "Local": "Los Andes",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Amaral",
-                "GV": "",
+                "GV": "5",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
+                "Arbitro 1": "Franco",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "04/09/2025 23:30",
                 "Local": "Los Legendarios",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Utn",
-                "GV": "",
+                "GV": "5",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "04/09/2025 21:00",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Cuadro Nacional",
-                "GV": "",
+                "GV": "7",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Enzo",
+                "Arbitro 2": "Fernando"
             }
         ]
     },

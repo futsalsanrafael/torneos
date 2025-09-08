@@ -678,14 +678,14 @@
                 "Arbitro 2": "Fernando"
             },
             {
-                "Fecha": "31/08/2025 19:30",
+                "Fecha": "10/09/2025 21:00",
                 "Local": "Parque Nordico B",
                 "GL": "",
                 "Visitante": "Tenis B",
                 "GV": "",
                 "OBS": "",
                 "Zona": "",
-                "Cancha": "PESCADORES",
+                "Cancha": "TENIS",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }
@@ -702,7 +702,7 @@
                 "GV": "",
                 "OBS": "",
                 "Zona": "",
-                "Cancha": "xxx",
+                "Cancha": "A definir",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
@@ -714,7 +714,7 @@
                 "GV": "",
                 "OBS": "",
                 "Zona": "",
-                "Cancha": "xxx",
+                "Cancha": "A definir",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
@@ -726,7 +726,7 @@
                 "GV": "",
                 "OBS": "",
                 "Zona": "",
-                "Cancha": "xxx",
+                "Cancha": "A definir",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
@@ -738,7 +738,7 @@
                 "GV": "",
                 "OBS": "Juega con el ganador de Parque B Vs Tenis B",
                 "Zona": "",
-                "Cancha": "xxx",
+                "Cancha": "A definir",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }

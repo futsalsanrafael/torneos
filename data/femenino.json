@@ -157,26 +157,26 @@
         "Fecha": "Fecha 3",
         "Data": [
             {
-                "Fecha": "31/08/2025 18:00",
+                "Fecha": "11/09/2025 21:00",
                 "Local": "CDA",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
                 "OBS": "",
                 "Zona": "FEMENINO",
-                "Cancha": "PESCADORES",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "31/08/2025 21:00",
+                "Fecha": "10/09/2025 22:15",
                 "Local": "Locos X El Futsal",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",
                 "OBS": "",
                 "Zona": "FEMENINO",
-                "Cancha": "PESCADORES",
+                "Cancha": "TENIS",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
@@ -313,74 +313,74 @@
             {
                 "Fecha": "03/09/2025 21:30",
                 "Local": "Locos X El Futsal",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "CDA",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "03/09/2025 22:45",
                 "Local": "Parque Nordico",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Banco Mza",
-                "GV": "",
+                "GV": "7",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Agustin"
             },
             {
-                "Fecha": "04/09/2025 21:00",
+                "Fecha": "08/09/2025 21:00",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",
                 "OBS": "",
                 "Zona": "FEMENINO",
-                "Cancha": "PEDAL",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "03/09/2025 21:30",
                 "Local": "Cuadro Nacional B",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Tenis",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "TENIS",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "04/09/2025 21:00",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Utn",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "04/09/2025 21:00",
                 "Local": "Cuadro Nacional A",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "El Porvenir",
-                "GV": "",
+                "GV": "11",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "PESCADORES",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Camila"
             }
         ]
     },
