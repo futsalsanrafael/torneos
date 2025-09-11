@@ -183,14 +183,14 @@
             {
                 "Fecha": "08/09/2025 22:15",
                 "Local": "Pedal A",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Tenis B",
-                "GV": "",
+                "GV": "7",
                 "OBS": "",
                 "Zona": "ELITE",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Enzo"
             }
         ]
     },

@@ -591,7 +591,7 @@
         ]
     },
     {
-        "Fecha": "Octavos de Final",
+        "Fecha": "Fecha 4",
         "Data": [
             {
                 "Fecha": "20/08/2025 21:30",
@@ -680,65 +680,65 @@
             {
                 "Fecha": "10/09/2025 21:00",
                 "Local": "Parque Nordico B",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Tenis B",
-                "GV": "",
+                "GV": "9",
                 "OBS": "",
                 "Zona": "",
                 "Cancha": "TENIS",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Matias"
             }
         ]
     },
     {
-        "Fecha": "Cuartos de Final",
+        "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "",
+                "Fecha": "19/09/2025 22:15",
                 "Local": "Tenis C",
                 "GL": "",
                 "Visitante": "Bachillerato",
                 "GV": "",
                 "OBS": "",
                 "Zona": "",
-                "Cancha": "A definir",
+                "Cancha": "Maristas",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "",
+                "Fecha": "18/09/2025 21:00",
                 "Local": "Utn C",
                 "GL": "",
                 "Visitante": "Amaral A",
                 "GV": "",
                 "OBS": "",
                 "Zona": "",
-                "Cancha": "A definir",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "",
+                "Fecha": "18/09/2025 22:15",
                 "Local": "Utn A",
                 "GL": "",
                 "Visitante": "Pedal A",
                 "GV": "",
                 "OBS": "",
                 "Zona": "",
-                "Cancha": "A definir",
+                "Cancha": "PEDAL",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "",
+                "Fecha": "01/09/2025 22:00",
                 "Local": "Tenis A",
                 "GL": "",
-                "Visitante": "",
+                "Visitante": "Tenis B",
                 "GV": "",
-                "OBS": "Juega con el ganador de Parque B Vs Tenis B",
+                "OBS": "",
                 "Zona": "",
-                "Cancha": "A definir",
+                "Cancha": "xxx",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }

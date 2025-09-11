@@ -388,19 +388,19 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "13/09/2025 09:00",
                 "Local": "Locos X El Futsal",
                 "GL": "",
                 "Visitante": "Banco Mza",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C17",
-                "Cancha": "X",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "07/09/2025 16:00",
+                "Fecha": "",
                 "Local": "Pedal",
                 "GL": "",
                 "Visitante": "Bachillerato",
@@ -412,50 +412,50 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "13/09/2025 16:30",
                 "Local": "Pedal A",
                 "GL": "",
                 "Visitante": "Amaral",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C17",
-                "Cancha": "X",
+                "Cancha": "Pescadores",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "13/09/2025 10:30",
                 "Local": "Utn",
                 "GL": "",
                 "Visitante": "Tenis B",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C17",
-                "Cancha": "X",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "",
                 "Local": "CPD Aguilas Futsal",
                 "GL": "",
                 "Visitante": "Tenis A",
                 "GV": "",
-                "OBS": "",
+                "OBS": "Profes afectados a Division de Honor 2025",
                 "Zona": "C17",
                 "Cancha": "X",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "13/09/2025 15:00",
                 "Local": "Cuadro Nacional",
                 "GL": "",
                 "Visitante": "CDA",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C17",
-                "Cancha": "X",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }

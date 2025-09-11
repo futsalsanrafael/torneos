@@ -224,14 +224,14 @@
             {
                 "Fecha": "08/09/2025 22:15",
                 "Local": "Cuadro Nacional",
-                "GL": "",
+                "GL": "10",
                 "Visitante": "Utn",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "12/09/2025 22:15",
@@ -248,14 +248,14 @@
             {
                 "Fecha": "08/09/2025 21:00",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Banco Mza",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "CIC (SOSNEADO)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Agustin"
             }
         ]
     },
