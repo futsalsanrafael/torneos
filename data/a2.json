@@ -200,25 +200,25 @@
             {
                 "Fecha": "11/09/2025 21:00",
                 "Local": "San Luis",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Amaral C",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "A2",
                 "Cancha": "PESCADORES",
-                "Arbitro 1": "",
+                "Arbitro 1": "Agustin",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "11/09/2025 22:15",
                 "Local": "Pescadores",
-                "GL": "",
+                "GL": "7",
                 "Visitante": "Huracan B",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "A2",
                 "Cancha": "PESCADORES",
-                "Arbitro 1": "",
+                "Arbitro 1": "Agustin",
                 "Arbitro 2": ""
             },
             {

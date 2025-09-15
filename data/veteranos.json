@@ -200,14 +200,14 @@
             {
                 "Fecha": "11/09/2025 22:15",
                 "Local": "CDA",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "12/09/2025 21:00",

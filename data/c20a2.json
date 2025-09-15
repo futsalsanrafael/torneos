@@ -224,9 +224,9 @@
             {
                 "Fecha": "07/09/2025 20:00",
                 "Local": "Los Legendarios",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Los Gladiadores",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "C20 A2",
                 "Cancha": "San Rafael Tenis Club C1",
@@ -265,50 +265,50 @@
             {
                 "Fecha": "06/09/2025 13:30",
                 "Local": "Locos X El Futsal B",
-                "GL": "",
+                "GL": "5",
                 "Visitante": "Huracan",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "C20 A2",
                 "Cancha": "CIC (Centro integrador Comunitario)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "06/09/2025 16:00",
                 "Local": "Pedal",
-                "GL": "",
+                "GL": "5",
                 "Visitante": "CDA B",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "C20 A2",
                 "Cancha": "Sportivo Pedal Club",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "06/09/2025 15:00",
                 "Local": "Cuadro Nacional",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Banco Mza",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "C20 A2",
                 "Cancha": "CIC (Centro integrador Comunitario)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "06/09/2025 12:00",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Los Gladiadores",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "C20 A2",
                 "Cancha": "CIC (Centro integrador Comunitario)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "",

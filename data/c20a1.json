@@ -217,50 +217,50 @@
             {
                 "Fecha": "06/09/2025 17:30",
                 "Local": "Locos X El Futsal A",
-                "GL": "",
+                "GL": "5",
                 "Visitante": "CDA A",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "Sportivo Pedal Club",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "06/09/2025 15:00",
                 "Local": "Parque Nordico",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "Deportivo Argentino",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "06/09/2025 9:00",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "6",
                 "Visitante": "Amaral",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "CIC (Centro integrador Comunitario)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "06/09/2025 14:00",
                 "Local": "Utn",
-                "GL": "",
+                "GL": "6",
                 "Visitante": "Tenis B",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "COBALAN"
             }
         ]
     },
@@ -282,14 +282,14 @@
             {
                 "Fecha": "07/09/2025 17:00",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "San Rafael Tenis Club C1",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Matias"
             },
             {
                 "Fecha": "13/09/2025 15:00",

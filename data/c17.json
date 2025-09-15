@@ -284,14 +284,14 @@
             {
                 "Fecha": "07/09/2025 18:30",
                 "Local": "CPD Aguilas Futsal",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Pedal",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "C17",
                 "Cancha": "San Rafael Tenis Club C1",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Matias"
             },
             {
                 "Fecha": "30/08/2025 11:00",
@@ -313,74 +313,74 @@
             {
                 "Fecha": "06/09/2025 19:00",
                 "Local": "CDA",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Banco Mza",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "C17",
                 "Cancha": "Sportivo Pedal Club",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "06/09/2025 10:30",
                 "Local": "Locos X El Futsal",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "C17",
                 "Cancha": "CIC (Centro integrador Comunitario)",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "06/09/2025 13:00",
                 "Local": "Pedal",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "Amaral",
-                "GV": "",
+                "GV": "7",
                 "OBS": "",
                 "Zona": "C17",
                 "Cancha": "Sportivo Pedal Club",
-                "Arbitro 1": "",
+                "Arbitro 1": "Franco",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "06/09/2025 15:30",
                 "Local": "Utn",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Tenis A",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "C17",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Fernando",
+                "Arbitro 2": "COBALAN"
             },
             {
                 "Fecha": "06/09/2025 14:30",
                 "Local": "CPD Aguilas Futsal",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Pedal A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "C17",
                 "Cancha": "Sportivo Pedal Club",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Joaquin"
             },
             {
                 "Fecha": "06/09/2025 16:30",
                 "Local": "Cuadro Nacional",
-                "GL": "",
+                "GL": "12",
                 "Visitante": "Tenis B",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "C17",
                 "Cancha": "Deportivo Argentino",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Camila",
+                "Arbitro 2": "Luciano"
             }
         ]
     },
