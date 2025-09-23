@@ -270,14 +270,14 @@
             {
                 "Fecha": "13/09/2025 13:30",
                 "Local": "Parque Nordico",
-                "GL": "",
+                "GL": "3",
                 "Visitante": "CDA A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Fernando"
             },
             {
                 "Fecha": "07/09/2025 17:00",

@@ -162,50 +162,50 @@
         "Fecha": "Fecha 4",
         "Data": [
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "25/09/2025 22:15",
                 "Local": "Banco Mza D",
                 "GL": "",
                 "Visitante": "Huracan C",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A3",
-                "Cancha": "X",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "25/09/2025 23:30",
                 "Local": "El Porvenir",
                 "GL": "",
                 "Visitante": "Banco Mza C",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A3",
-                "Cancha": "X",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "22/09/2025 23:30",
                 "Local": "Parque Nordico C",
                 "GL": "",
                 "Visitante": "Cuadro Nacional C",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A3",
-                "Cancha": "X",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "23/09/2025 23:30",
                 "Local": "Los Andes B",
                 "GL": "",
                 "Visitante": "Los Andes A",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A3",
-                "Cancha": "X",
+                "Cancha": "POLI ADENTRO",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }

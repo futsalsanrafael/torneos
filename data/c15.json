@@ -450,14 +450,14 @@
             {
                 "Fecha": "13/09/2025 12:00",
                 "Local": "Locos X El Futsal A",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Banco Mza",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "C15",
                 "Cancha": "San Rafael Tenis Club C1",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "COBALAN"
             },
             {
                 "Fecha": "07/09/2025 15:00",
@@ -474,25 +474,25 @@
             {
                 "Fecha": "13/09/2025 10:00",
                 "Local": "Pedal",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Amaral",
-                "GV": "",
+                "GV": "2",
                 "OBS": "",
                 "Zona": "C15",
                 "Cancha": "San Rafael Tenis Club C1",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "COBALAN"
             },
             {
                 "Fecha": "13/09/2025 12:00",
                 "Local": "Utn",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Tenis Verde",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "C15",
                 "Cancha": "Pescadores",
-                "Arbitro 1": "",
+                "Arbitro 1": "Camila",
                 "Arbitro 2": ""
             },
             {
@@ -510,13 +510,13 @@
             {
                 "Fecha": "13/09/2025 11:00",
                 "Local": "Pescadores",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Tenis Azul",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "C15",
                 "Cancha": "Pescadores",
-                "Arbitro 1": "",
+                "Arbitro 1": "Joaquin",
                 "Arbitro 2": ""
             },
             {

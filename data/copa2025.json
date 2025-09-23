@@ -591,7 +591,7 @@
         ]
     },
     {
-        "Fecha": "Octavos de Final",
+        "Fecha": "Cuartos de Final",
         "Data": [
             {
                 "Fecha": "20/08/2025 21:30",
@@ -692,7 +692,7 @@
         ]
     },
     {
-        "Fecha": "Cuartos de Final",
+        "Fecha": "Octavos de Final",
         "Data": [
             {
                 "Fecha": "22/09/2025 22:15",
@@ -709,26 +709,26 @@
             {
                 "Fecha": "18/09/2025 21:00",
                 "Local": "Utn C",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Amaral A",
-                "GV": "",
+                "GV": "5",
                 "OBS": "",
                 "Zona": "",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
+                "Arbitro 1": "Enzo",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "18/09/2025 22:15",
                 "Local": "Utn A",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Pedal A",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "",
                 "Cancha": "PEDAL",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Luciano"
             },
             {
                 "Fecha": "01/09/2025 22:00",
