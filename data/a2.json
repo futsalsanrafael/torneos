@@ -263,12 +263,12 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "26/09/2025 22:15",
+                "Fecha": "",
                 "Local": "San Luis",
                 "GL": "",
                 "Visitante": "Tenis D",
                 "GV": "",
-                "OBS": "",
+                "OBS": "A reprogramar",
                 "Zona": "A2",
                 "Cancha": "CIU UTN",
                 "Arbitro 1": "",
@@ -277,34 +277,34 @@
             {
                 "Fecha": "25/09/2025 21:00",
                 "Local": "Pescadores",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Amaral C",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "A2",
                 "Cancha": "PESCADORES",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Matias"
             },
             {
                 "Fecha": "23/09/2025 21:30",
                 "Local": "Banco Mza B",
-                "GL": "",
+                "GL": "9",
                 "Visitante": "Huracan B",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "A2",
                 "Cancha": "HURACAN",
-                "Arbitro 1": "",
+                "Arbitro 1": "COBALAN",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "26/09/2025 23:30",
+                "Fecha": "",
                 "Local": "Utn B",
                 "GL": "",
                 "Visitante": "Parque Nordico B",
                 "GV": "",
-                "OBS": "",
+                "OBS": "A reprogramar",
                 "Zona": "A2",
                 "Cancha": "CIU UTN",
                 "Arbitro 1": "",
@@ -313,14 +313,14 @@
             {
                 "Fecha": "25/09/2025 21:00",
                 "Local": "CPD Aguilas Futsal",
-                "GL": "",
+                "GL": "6",
                 "Visitante": "Cuadro Nacional B",
-                "GV": "",
+                "GV": "5",
                 "OBS": "",
                 "Zona": "A2",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Franco",
+                "Arbitro 2": "Camila"
             }
         ]
     },
