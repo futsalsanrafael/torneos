@@ -330,62 +330,62 @@
             {
                 "Fecha": "28/09/2025 18:00",
                 "Local": "Huracan",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Banco Mza",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Camila"
             },
             {
                 "Fecha": "28/09/2025 19:15",
                 "Local": "Los Andes",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "3",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Camila"
             },
             {
                 "Fecha": "28/09/2025 18:00",
                 "Local": "Utn",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Amaral",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
+                "Arbitro 1": "Luciano",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "28/09/2025 19:30",
                 "Local": "Los Legendarios",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Cuadro Nacional",
-                "GV": "",
+                "GV": "19",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "CIU UTN",
-                "Arbitro 1": "",
+                "Arbitro 1": "Luciano",
                 "Arbitro 2": ""
             },
             {
                 "Fecha": "28/09/2025 20:30",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "CDA",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "VETERANO",
                 "Cancha": "DEPORTIVO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Agustin",
+                "Arbitro 2": "Camila"
             }
         ]
     },

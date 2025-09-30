@@ -556,14 +556,14 @@
             {
                 "Fecha": "29/09/2025 21:00",
                 "Local": "Utn",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "CDA",
-                "GV": "",
+                "GV": "4",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Enzo"
             },
             {
                 "Fecha": "01/10/2025 21:30",
@@ -592,14 +592,14 @@
             {
                 "Fecha": "29/09/2025 22:15",
                 "Local": "Sosneado Futsal Club",
-                "GL": "",
+                "GL": "1",
                 "Visitante": "Cuadro Nacional B",
-                "GV": "",
+                "GV": "7",
                 "OBS": "",
                 "Zona": "FEMENINO",
                 "Cancha": "POLI ADENTRO",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "COBALAN",
+                "Arbitro 2": "Enzo"
             },
             {
                 "Fecha": "02/10/2025 21:30",

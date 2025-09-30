@@ -733,13 +733,13 @@
             {
                 "Fecha": "29/09/2025 21:00",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "8",
                 "Visitante": "Tenis B",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "",
                 "Cancha": "TENIS",
-                "Arbitro 1": "",
+                "Arbitro 1": "Camila",
                 "Arbitro 2": ""
             }
         ]
