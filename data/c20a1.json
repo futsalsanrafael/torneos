@@ -374,19 +374,19 @@
         "Fecha": "Fecha 8",
         "Data": [
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "04/10/2025 15:00",
                 "Local": "Amaral",
                 "GL": "",
                 "Visitante": "Bachillerato",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C20 A1",
-                "Cancha": "X",
+                "Cancha": "Sportivo Pedal Club",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "",
                 "Local": "Locos X El Futsal A",
                 "GL": "",
                 "Visitante": "Tenis A",
@@ -398,26 +398,26 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "04/10/2025 10:30",
                 "Local": "CDA A",
                 "GL": "",
                 "Visitante": "Tenis B",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C20 A1",
-                "Cancha": "X",
+                "Cancha": "Sportivo Pedal",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "09/08/2025 09:00",
+                "Fecha": "04/10/2025 19:30",
                 "Local": "Parque Nordico",
                 "GL": "",
                 "Visitante": "Utn",
                 "GV": "",
                 "OBS": "",
                 "Zona": "C20 A1",
-                "Cancha": "X",
+                "Cancha": "Sportivo Pedal Club",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }
