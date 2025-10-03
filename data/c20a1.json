@@ -323,50 +323,50 @@
             {
                 "Fecha": "27/09/2025 20:30",
                 "Local": "Parque Nordico",
-                "GL": "",
+                "GL": "4",
                 "Visitante": "Locos X El Futsal A",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "San Rafael Tenis Club C1",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "27/09/2025 13:00",
                 "Local": "Tenis A",
-                "GL": "",
+                "GL": "8",
                 "Visitante": "CDA A",
-                "GV": "",
+                "GV": "6",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "San Rafael Tenis Club C1",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "27/09/2025 14:30",
                 "Local": "Tenis B",
-                "GL": "",
+                "GL": "2",
                 "Visitante": "Bachillerato",
-                "GV": "",
+                "GV": "1",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "San Rafael Tenis Club C1",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Agustin"
             },
             {
                 "Fecha": "27/09/2025 16:00",
                 "Local": "Utn",
-                "GL": "",
+                "GL": "0",
                 "Visitante": "Amaral",
-                "GV": "",
+                "GV": "0",
                 "OBS": "",
                 "Zona": "C20 A1",
                 "Cancha": "San Rafael Tenis Club C1",
-                "Arbitro 1": "",
-                "Arbitro 2": ""
+                "Arbitro 1": "Marcos",
+                "Arbitro 2": "Agustin"
             }
         ]
     },

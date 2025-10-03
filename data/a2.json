@@ -263,14 +263,14 @@
         "Fecha": "Fecha 5",
         "Data": [
             {
-                "Fecha": "",
+                "Fecha": "06/10/2025 23:30",
                 "Local": "San Luis",
                 "GL": "",
                 "Visitante": "Tenis D",
                 "GV": "",
-                "OBS": "A reprogramar",
+                "OBS": "",
                 "Zona": "A2",
-                "Cancha": "CIU UTN",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
@@ -299,14 +299,14 @@
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "",
+                "Fecha": "06/10/2025 21:00",
                 "Local": "Utn B",
                 "GL": "",
                 "Visitante": "Parque Nordico B",
                 "GV": "",
-                "OBS": "A reprogramar",
+                "OBS": "",
                 "Zona": "A2",
-                "Cancha": "CIU UTN",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
@@ -328,62 +328,62 @@
         "Fecha": "Fecha 6",
         "Data": [
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "10/10/2025 22:15",
                 "Local": "Pescadores",
                 "GL": "",
                 "Visitante": "Tenis D",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A2",
-                "Cancha": "X",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "10/10/2025 22:30",
                 "Local": "Banco Mza B",
                 "GL": "",
                 "Visitante": "Amaral C",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A2",
-                "Cancha": "X",
+                "Cancha": "BANCO MENDOZA",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "09/10/2025 23:30",
                 "Local": "Parque Nordico B",
                 "GL": "",
                 "Visitante": "Huracan B",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A2",
-                "Cancha": "X",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "09/10/2025 22:15",
                 "Local": "Utn B",
                 "GL": "",
                 "Visitante": "Cuadro Nacional B",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A2",
-                "Cancha": "X",
+                "Cancha": "CIU UTN",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             },
             {
-                "Fecha": "01/08/2025 22:00",
+                "Fecha": "10/10/2025 21:00",
                 "Local": "CPD Aguilas Futsal",
                 "GL": "",
                 "Visitante": "San Luis",
                 "GV": "",
                 "OBS": "",
                 "Zona": "A2",
-                "Cancha": "X",
+                "Cancha": "CIC (SOSNEADO)",
                 "Arbitro 1": "",
                 "Arbitro 2": ""
             }
